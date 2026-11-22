@@ -1,0 +1,26 @@
+The team 'SICT' n°861, with lishun, liudongying, chengongbo, fengsifang
+Default team mode: <not set>
+Evaluation Plan (from file: MapMedium01.yml):
+==================================================
+Config ID: 1
+  Map: MapMedium01
+  Zones: none
+  Number of Rounds: 1
+  Weight: 1
+  Team mode (scenario): rescue
+--------------------------------------------------
+Default team mode: <not set>
+Time score: full marks at or before 30% of the timestep limit
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+* Map: MapMedium01, mode: rescue, special zones: none, round: 1/1
+BENCH_ZONES MapMedium01 {"counts": {"gps": 2, "com": 2}, "overlay": [{"area_ratio": 2.0014, "center": [154.51, 8.23], "kind": "gps", "reference": "NoGpsZone", "reference_size": [574, 393], "size": [812, 556]}, {"area_ratio": 2.0014, "center": [-13.71, 201.01], "kind": "gps", "reference": "NoGpsZone", "reference_size": [574, 393], "size": [812, 556]}, {"area_ratio": 1.9991, "center": [305.39, -28.11], "kind": "com", "reference": "NoComZone", "reference_size": [402, 742], "size": [569, 1048]}, {"area_ratio": 1.9991, "center": [484.74, 29.89], "kind": "com", "reference": "NoComZone", "reference_size": [402, 742], "size": [569, 1048]}]}
+count_reachable v3 = 1606253
+	* Round n°1/1: 
+		rescued nb: 10/10 (disposal score: 100.0%), health return score: 9.6%, time score: 85.5%, explor. score: 96.2% (weight 0%), walltime elapsed: 55s/1000s, elapse timestep: 2006/5000 steps, time to dispose all: 2006 steps.
+		score breakdown (competition weights): disposal 100.0 x 60% = 60.0, health 9.6 x 20% = 1.9, time 85.5 x 20% = 17.1, total 79.0/100.
+		percentage of drones destroyed: 0.0 %, mean percentage of drones health : 84.8 %.
+		round score: 79.0%, frequency: 36.63 steps/s.
+--------------------------------------------------------------------------------------------

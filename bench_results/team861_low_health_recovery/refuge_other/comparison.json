@@ -1,0 +1,504 @@
+{
+  "current": {
+    "n": 24,
+    "delivered": 234,
+    "lost": 11,
+    "full": 21,
+    "safe_full": 20,
+    "score": 82.2792,
+    "min_score": 42.0
+  },
+  "candidate": {
+    "n": 24,
+    "delivered": 234,
+    "lost": 11,
+    "full": 21,
+    "safe_full": 20,
+    "score": 82.2792,
+    "min_score": 42.0
+  },
+  "pending_replay": [],
+  "by_map": {
+    "Map01": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 85.8,
+        "min_score": 85.8
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 85.8,
+        "min_score": 85.8
+      }
+    ],
+    "Map02": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 98.0,
+        "min_score": 98.0
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 98.0,
+        "min_score": 98.0
+      }
+    ],
+    "Map03": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 97.4,
+        "min_score": 97.4
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 97.4,
+        "min_score": 97.4
+      }
+    ],
+    "Map04": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 98.9,
+        "min_score": 98.9
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 98.9,
+        "min_score": 98.9
+      }
+    ],
+    "Map05": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 98.5,
+        "min_score": 98.5
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 98.5,
+        "min_score": 98.5
+      }
+    ],
+    "Map06": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 90.1,
+        "min_score": 90.1
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 90.1,
+        "min_score": 90.1
+      }
+    ],
+    "Map07": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 89.7,
+        "min_score": 89.7
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 89.7,
+        "min_score": 89.7
+      }
+    ],
+    "Map07t4": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 83.3,
+        "min_score": 83.3
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 83.3,
+        "min_score": 83.3
+      }
+    ],
+    "Map08": [
+      {
+        "n": 1,
+        "delivered": 9,
+        "lost": 0,
+        "full": 0,
+        "safe_full": 0,
+        "score": 65.8,
+        "min_score": 65.8
+      },
+      {
+        "n": 1,
+        "delivered": 9,
+        "lost": 0,
+        "full": 0,
+        "safe_full": 0,
+        "score": 65.8,
+        "min_score": 65.8
+      }
+    ],
+    "Map09": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 94.6,
+        "min_score": 94.6
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 94.6,
+        "min_score": 94.6
+      }
+    ],
+    "MapFinal2022_23": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 83.8,
+        "min_score": 83.8
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 83.8,
+        "min_score": 83.8
+      }
+    ],
+    "MapFinal_2023_24_01": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 88.6,
+        "min_score": 88.6
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 88.6,
+        "min_score": 88.6
+      }
+    ],
+    "MapFinal_2023_24_02": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 2,
+        "full": 1,
+        "safe_full": 0,
+        "score": 80.2,
+        "min_score": 80.2
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 2,
+        "full": 1,
+        "safe_full": 0,
+        "score": 80.2,
+        "min_score": 80.2
+      }
+    ],
+    "MapFinal_2023_24_03": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 81.9,
+        "min_score": 81.9
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 81.9,
+        "min_score": 81.9
+      }
+    ],
+    "MapFinal_2024_25_01": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 81.9,
+        "min_score": 81.9
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 81.9,
+        "min_score": 81.9
+      }
+    ],
+    "MapFinal_2024_25_02": [
+      {
+        "n": 1,
+        "delivered": 7,
+        "lost": 5,
+        "full": 0,
+        "safe_full": 0,
+        "score": 42.0,
+        "min_score": 42.0
+      },
+      {
+        "n": 1,
+        "delivered": 7,
+        "lost": 5,
+        "full": 0,
+        "safe_full": 0,
+        "score": 42.0,
+        "min_score": 42.0
+      }
+    ],
+    "MapFinal_2024_25_03": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 79.0,
+        "min_score": 79.0
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 79.0,
+        "min_score": 79.0
+      }
+    ],
+    "MapFinal_2025_26_01": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 76.7,
+        "min_score": 76.7
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 76.7,
+        "min_score": 76.7
+      }
+    ],
+    "MapFinal_2025_26_02": [
+      {
+        "n": 1,
+        "delivered": 8,
+        "lost": 4,
+        "full": 0,
+        "safe_full": 0,
+        "score": 48.0,
+        "min_score": 48.0
+      },
+      {
+        "n": 1,
+        "delivered": 8,
+        "lost": 4,
+        "full": 0,
+        "safe_full": 0,
+        "score": 48.0,
+        "min_score": 48.0
+      }
+    ],
+    "MapFinal_2025_26_03": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 79.1,
+        "min_score": 79.1
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 79.1,
+        "min_score": 79.1
+      }
+    ],
+    "MapIntermediate02": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 81.9,
+        "min_score": 81.9
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 81.9,
+        "min_score": 81.9
+      }
+    ],
+    "MapMedium01": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 73.3,
+        "min_score": 73.3
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 73.3,
+        "min_score": 73.3
+      }
+    ],
+    "MapMedium02": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 79.0,
+        "min_score": 79.0
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 79.0,
+        "min_score": 79.0
+      }
+    ],
+    "MapRandom": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 97.2,
+        "min_score": 97.2
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 97.2,
+        "min_score": 97.2
+      }
+    ]
+  },
+  "changed": []
+}

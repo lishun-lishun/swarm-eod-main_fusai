@@ -1,0 +1,43 @@
+The team 'SICT' n°861, with lishun, liudongying, chengongbo, fengsifang
+Default team mode: <not set>
+Evaluation Plan (from file: MapFinal_2024_25_03.yml):
+==================================================
+Config ID: 1
+  Map: MapFinal_2024_25_03
+  Zones: no_gps_zone
+  Number of Rounds: 1
+  Weight: 1
+  Team mode (scenario): rescue
+--------------------------------------------------
+Default team mode: <not set>
+Time score: full marks at or before 30% of the timestep limit
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+* Map: MapFinal_2024_25_03, mode: rescue, special zones: no_gps_zone, round: 1/1
+Fixture drone count: 10
+Exception ignored from cffi callback <function ext_cpCollisionPreSolveFunc at 0x0000021064771C60>:
+Traceback (most recent call last):
+  File "E:\envs\swarm_rescue\Lib\site-packages\pymunk\_callbacks.py", line 187, in ext_cpCollisionPreSolveFunc
+    x = handler._pre_solve(Arbiter(_arb, handler._space), handler._space, handler.data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_current_paired_140\custom_runs\runtime\src\swarm_rescue\simulation\gui_map\collision_handlers.py", line 38, in grasper_grasps_bomb
+    grasper, bomb = get_colliding_entities(playground, arbiter)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_current_paired_140\custom_runs\runtime\src\swarm_rescue\simulation\gui_map\collision_handlers.py", line 27, in get_colliding_entities
+    entity_1 = playground.get_entity_from_shape(shape_1)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_current_paired_140\custom_runs\runtime\src\swarm_rescue\simulation\gui_map\playground.py", line 970, in get_entity_from_shape
+    assert shape in self._shapes_to_entities
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 
+Drone 7 destroyed, too much collision !
+Drone 5 destroyed, too much collision !
+count_reachable v3 = 1708827
+	* Round n°1/1: 
+		rescued nb: 10/10 (disposal score: 100.0%), health return score: 0.0%, time score: 57.4%, explor. score: 100.0% (weight 0%), walltime elapsed: 120s/1440s, elapse timestep: 4306/7200 steps, time to dispose all: 4306 steps.
+		score breakdown (competition weights): disposal 100.0 x 60% = 60.0, health 0.0 x 20% = 0.0, time 57.4 x 20% = 11.5, total 71.5/100.
+		percentage of drones destroyed: 20.0 %, mean percentage of drones health : 29.6 %.
+		round score: 71.5%, frequency: 35.77 steps/s.
+--------------------------------------------------------------------------------------------

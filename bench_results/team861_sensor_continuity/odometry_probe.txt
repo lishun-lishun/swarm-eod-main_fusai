@@ -1,0 +1,3 @@
+10 steps, 30 px: old vx=19.955, new vx=3.000, same final x=32.0
+0.5 radians over the same interval: old omega=0.5, new omega=0.05
+60 consecutive valid samples: pose and velocity identical at every step.

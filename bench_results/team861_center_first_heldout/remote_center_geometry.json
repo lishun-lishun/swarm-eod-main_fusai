@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "canvas": {
+    "width": 1680,
+    "height": 1160
+  },
+  "elements": [
+    {
+      "type": "start_area",
+      "top_left": [
+        85,
+        910
+      ],
+      "bottom_right": [
+        245,
+        1070
+      ],
+      "color": "#000000",
+      "id": 1
+    },
+    {
+      "type": "disposal_center",
+      "top_left": [
+        1430,
+        105
+      ],
+      "bottom_right": [
+        1570,
+        255
+      ],
+      "color": "#000000",
+      "id": 2
+    },
+    {
+      "type": "rect_wall",
+      "top_left": [
+        0,
+        750
+      ],
+      "bottom_right": [
+        630,
+        790
+      ],
+      "color": "#000000",
+      "id": 3
+    },
+    {
+      "type": "rect_wall",
+      "top_left": [
+        790,
+        750
+      ],
+      "bottom_right": [
+        1510,
+        790
+      ],
+      "color": "#000000",
+      "id": 4
+    },
+    {
+      "type": "rect_wall",
+      "top_left": [
+        195,
+        395
+      ],
+      "bottom_right": [
+        850,
+        435
+      ],
+      "color": "#000000",
+      "id": 5
+    },
+    {
+      "type": "rect_wall",
+      "top_left": [
+        1030,
+        395
+      ],
+      "bottom_right": [
+        1680,
+        435
+      ],
+      "color": "#000000",
+      "id": 6
+    },
+    {
+      "type": "rect_wall",
+      "top_left": [
+        420,
+        110
+      ],
+      "bottom_right": [
+        465,
+        395
+      ],
+      "color": "#000000",
+      "id": 7
+    },
+    {
+      "type": "rect_wall",
+      "top_left": [
+        1110,
+        790
+      ],
+      "bottom_right": [
+        1155,
+        1045
+      ],
+      "color": "#000000",
+      "id": 8
+    },
+    {
+      "type": "rect_wall",
+      "top_left": [
+        690,
+        555
+      ],
+      "bottom_right": [
+        760,
+        640
+      ],
+      "color": "#000000",
+      "id": 9
+    },
+    {
+      "type": "rect_wall",
+      "top_left": [
+        1330,
+        500
+      ],
+      "bottom_right": [
+        1405,
+        620
+      ],
+      "color": "#000000",
+      "id": 10
+    },
+    {
+      "type": "no_gps_zone",
+      "top_left": [
+        555,
+        230
+      ],
+      "bottom_right": [
+        1135,
+        890
+      ],
+      "color": "#000000",
+      "id": 11
+    }
+  ]
+}

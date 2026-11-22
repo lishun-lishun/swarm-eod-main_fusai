@@ -1,0 +1,26 @@
+[
+  {
+    "map": "Map07",
+    "case": "cluster_s618",
+    "seed": 303,
+    "exit_code": 0,
+    "log": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_generic_recovery\\observation_gain_replay\\Map07_cluster_s618_seed303.log",
+    "disposed": 10,
+    "total_bombs": 10,
+    "health_score": 84.0,
+    "time_score": 68.3,
+    "exploration_score": 100.0,
+    "walltime_seconds": 58.0,
+    "steps": 2819,
+    "full_disposal_step": 2819,
+    "score": 90.5,
+    "destroyed_percent": 0.0,
+    "mean_health_percent": 84.0,
+    "destroyed_count": 0,
+    "crashed": false,
+    "walltime_limit_reached": false,
+    "baseline_disposed": 9,
+    "baseline_destroyed": 0,
+    "baseline_score": 67.1
+  }
+]

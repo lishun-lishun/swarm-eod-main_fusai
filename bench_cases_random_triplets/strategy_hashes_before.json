@@ -1,0 +1,11 @@
+{
+  "__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "coverage.py": "ce1c77b8069836397fdd9243dedc6e44384b694541282a783ec49eaaafe4f288",
+  "localization.py": "b2fa15ab65587d0c17213579930725980e1cfb677f75f55cbfbe4ff23ed36f56",
+  "motion_control.py": "7c62afbf56e1ea9360a22f72036c1bfe3a7d056b5c4f5c413a173b337babf0b6",
+  "my_drone_eval.py": "fa0a0825b7a2068300dd2e9df06abc8bd9f7d8e89a8d70dc656aab2415ae2d72",
+  "my_drone_place_example.py": "2a6d33ea81b5caf29342d02488c91fa7c826abb1f37db0d1543e4b90cc08e1c4",
+  "my_drone_rescue.py": "056c94f49d326bd3734c1dafca600b623ae255908e20c9aa60aed5ade0b7cf49",
+  "my_drone_rescue_example.py": "36f451bff5bdd419fb5886bdacb10705c9238a58c2e421afb9eb42ca2badb531",
+  "nav_grid.py": "0d9d80e5a907d9aa596e5cf793da5fc4151f46e8206c09d5698fccc53750696b"
+}

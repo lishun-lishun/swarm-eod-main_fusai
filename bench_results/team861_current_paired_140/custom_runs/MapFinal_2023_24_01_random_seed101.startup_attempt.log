@@ -1,0 +1,46 @@
+The team 'SICT' n°861, with lishun, liudongying, chengongbo, fengsifang
+Default team mode: <not set>
+Evaluation Plan (from file: MapFinal_2023_24_01.yml):
+==================================================
+Config ID: 1
+  Map: MapFinal_2023_24_01
+  Zones: no_com_zone
+  Number of Rounds: 1
+  Weight: 1
+  Team mode (scenario): rescue
+--------------------------------------------------
+Default team mode: <not set>
+Time score: full marks at or before 30% of the timestep limit
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+* Map: MapFinal_2023_24_01, mode: rescue, special zones: no_com_zone, round: 1/1
+Traceback (most recent call last):
+  File "E:\code\fusai\swarm-eod-main\bench_tools\run_legacy_maps.py", line 319, in <module>
+    main()
+  File "E:\code\fusai\swarm-eod-main\bench_tools\run_legacy_maps.py", line 247, in main
+    launch_seeded({name: map_class})
+  File "E:\code\fusai\swarm-eod-main\bench_tools\seeded_official_launcher.py", line 62, in main
+    runpy.run_module("swarm_rescue.launcher", init_globals=map_classes, run_name="__main__")
+  File "<frozen runpy>", line 229, in run_module
+  File "<frozen runpy>", line 88, in _run_code
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_current_paired_140\custom_runs\runtime\src\swarm_rescue\launcher.py", line 942, in <module>
+    success = launcher.go(
+              ^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_current_paired_140\custom_runs\runtime\src\swarm_rescue\launcher.py", line 683, in go
+    result = self.one_round(
+             ^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_current_paired_140\custom_runs\runtime\src\swarm_rescue\launcher.py", line 308, in one_round
+    the_map = map_class(**map_kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_tools\run_legacy_maps.py", line 237, in map_class
+    fixture = json.loads(layout.read_text(encoding="utf-8"))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\envs\swarm_rescue\Lib\pathlib.py", line 1058, in read_text
+    with self.open(mode='r', encoding=encoding, errors=errors) as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\envs\swarm_rescue\Lib\pathlib.py", line 1044, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_current_paired_140\\custom_layout_preflight\\MapFinal_2023_24_01_random_seed101_bombs.json'

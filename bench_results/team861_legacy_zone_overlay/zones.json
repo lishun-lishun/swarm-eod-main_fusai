@@ -1,0 +1,982 @@
+{
+  "MapFinal2022_23": [
+    {
+      "area_ratio": 2.0007,
+      "center": [
+        642.91,
+        -86.49
+      ],
+      "kind": "gps",
+      "reference": "NoGpsZone",
+      "reference_size": [
+        248,
+        544
+      ],
+      "size": [
+        351,
+        769
+      ]
+    },
+    {
+      "area_ratio": 2.0007,
+      "center": [
+        617.58,
+        254.13
+      ],
+      "kind": "gps",
+      "reference": "NoGpsZone",
+      "reference_size": [
+        248,
+        544
+      ],
+      "size": [
+        351,
+        769
+      ]
+    },
+    {
+      "area_ratio": 2.0014,
+      "center": [
+        -454.06,
+        236.96
+      ],
+      "kind": "com",
+      "reference": "NoComZone",
+      "reference_size": [
+        377,
+        486
+      ],
+      "size": [
+        533,
+        688
+      ]
+    },
+    {
+      "area_ratio": 2.0014,
+      "center": [
+        -207.71,
+        -160.93
+      ],
+      "kind": "com",
+      "reference": "NoComZone",
+      "reference_size": [
+        377,
+        486
+      ],
+      "size": [
+        533,
+        688
+      ]
+    }
+  ],
+  "MapFinal_2023_24_01": [
+    {
+      "area_ratio": 2.0018,
+      "center": [
+        -212.46,
+        -303.49
+      ],
+      "kind": "gps",
+      "reference": "map_fraction",
+      "reference_size": [
+        340,
+        253
+      ],
+      "size": [
+        481,
+        358
+      ]
+    },
+    {
+      "area_ratio": 2.0018,
+      "center": [
+        165.16,
+        245.02
+      ],
+      "kind": "gps",
+      "reference": "map_fraction",
+      "reference_size": [
+        340,
+        253
+      ],
+      "size": [
+        481,
+        358
+      ]
+    },
+    {
+      "area_ratio": 2.0001,
+      "center": [
+        -89.53,
+        -0.41
+      ],
+      "kind": "com",
+      "reference": "NoComZone",
+      "reference_size": [
+        765,
+        1075
+      ],
+      "size": [
+        1498,
+        1098
+      ]
+    },
+    {
+      "area_ratio": 2.0001,
+      "center": [
+        43.6,
+        -0.94
+      ],
+      "kind": "com",
+      "reference": "NoComZone",
+      "reference_size": [
+        765,
+        1075
+      ],
+      "size": [
+        1498,
+        1098
+      ]
+    }
+  ],
+  "MapFinal_2023_24_02": [
+    {
+      "area_ratio": 1.9985,
+      "center": [
+        -432.94,
+        132.13
+      ],
+      "kind": "gps",
+      "reference": "KillZone",
+      "reference_size": [
+        189,
+        123
+      ],
+      "size": [
+        267,
+        174
+      ]
+    },
+    {
+      "area_ratio": 1.9985,
+      "center": [
+        31.22,
+        438.47
+      ],
+      "kind": "gps",
+      "reference": "KillZone",
+      "reference_size": [
+        189,
+        123
+      ],
+      "size": [
+        267,
+        174
+      ]
+    },
+    {
+      "area_ratio": 1.9985,
+      "center": [
+        -595.87,
+        -11.76
+      ],
+      "kind": "com",
+      "reference": "KillZone",
+      "reference_size": [
+        189,
+        123
+      ],
+      "size": [
+        267,
+        174
+      ]
+    },
+    {
+      "area_ratio": 1.9985,
+      "center": [
+        -546.98,
+        296.77
+      ],
+      "kind": "com",
+      "reference": "KillZone",
+      "reference_size": [
+        189,
+        123
+      ],
+      "size": [
+        267,
+        174
+      ]
+    }
+  ],
+  "MapFinal_2023_24_03": [
+    {
+      "area_ratio": 1.9607,
+      "center": [
+        0.09,
+        -0.96
+      ],
+      "kind": "gps",
+      "reference": "NoGpsZone",
+      "reference_size": [
+        1695,
+        561
+      ],
+      "size": [
+        1698,
+        1098
+      ]
+    },
+    {
+      "area_ratio": 1.9607,
+      "center": [
+        0.47,
+        0.23
+      ],
+      "kind": "gps",
+      "reference": "NoGpsZone",
+      "reference_size": [
+        1695,
+        561
+      ],
+      "size": [
+        1698,
+        1098
+      ]
+    },
+    {
+      "area_ratio": 2.0018,
+      "center": [
+        537.98,
+        -354.75
+      ],
+      "kind": "com",
+      "reference": "map_fraction",
+      "reference_size": [
+        340,
+        253
+      ],
+      "size": [
+        481,
+        358
+      ]
+    },
+    {
+      "area_ratio": 2.0018,
+      "center": [
+        523.35,
+        -145.8
+      ],
+      "kind": "com",
+      "reference": "map_fraction",
+      "reference_size": [
+        340,
+        253
+      ],
+      "size": [
+        481,
+        358
+      ]
+    }
+  ],
+  "MapFinal_2024_25_01": [
+    {
+      "area_ratio": 2.0018,
+      "center": [
+        515.46,
+        -363.66
+      ],
+      "kind": "gps",
+      "reference": "map_fraction",
+      "reference_size": [
+        340,
+        253
+      ],
+      "size": [
+        481,
+        358
+      ]
+    },
+    {
+      "area_ratio": 2.0018,
+      "center": [
+        -456.87,
+        306.25
+      ],
+      "kind": "gps",
+      "reference": "map_fraction",
+      "reference_size": [
+        340,
+        253
+      ],
+      "size": [
+        481,
+        358
+      ]
+    },
+    {
+      "area_ratio": 2.0005,
+      "center": [
+        -114.46,
+        -35.73
+      ],
+      "kind": "com",
+      "reference": "NoComZone",
+      "reference_size": [
+        742,
+        624
+      ],
+      "size": [
+        1049,
+        883
+      ]
+    },
+    {
+      "area_ratio": 2.0001,
+      "center": [
+        188.86,
+        -236.26
+      ],
+      "kind": "com",
+      "reference": "NoComZone",
+      "reference_size": [
+        432,
+        198
+      ],
+      "size": [
+        611,
+        280
+      ]
+    }
+  ],
+  "MapFinal_2024_25_02": [
+    {
+      "area_ratio": 2.0039,
+      "center": [
+        92.54,
+        386.85
+      ],
+      "kind": "gps",
+      "reference": "KillZone",
+      "reference_size": [
+        159,
+        149
+      ],
+      "size": [
+        225,
+        211
+      ]
+    },
+    {
+      "area_ratio": 2.0039,
+      "center": [
+        14.37,
+        -224.9
+      ],
+      "kind": "gps",
+      "reference": "KillZone",
+      "reference_size": [
+        159,
+        149
+      ],
+      "size": [
+        225,
+        211
+      ]
+    },
+    {
+      "area_ratio": 2.0039,
+      "center": [
+        -484.0,
+        -314.93
+      ],
+      "kind": "com",
+      "reference": "KillZone",
+      "reference_size": [
+        159,
+        149
+      ],
+      "size": [
+        225,
+        211
+      ]
+    },
+    {
+      "area_ratio": 2.0039,
+      "center": [
+        613.95,
+        7.45
+      ],
+      "kind": "com",
+      "reference": "KillZone",
+      "reference_size": [
+        159,
+        149
+      ],
+      "size": [
+        225,
+        211
+      ]
+    }
+  ],
+  "MapFinal_2024_25_03": [
+    {
+      "area_ratio": 2.0001,
+      "center": [
+        -476.25,
+        85.22
+      ],
+      "kind": "gps",
+      "reference": "NoGpsZone",
+      "reference_size": [
+        328,
+        389
+      ],
+      "size": [
+        464,
+        550
+      ]
+    },
+    {
+      "area_ratio": 1.998,
+      "center": [
+        -244.67,
+        78.38
+      ],
+      "kind": "gps",
+      "reference": "NoGpsZone",
+      "reference_size": [
+        724,
+        332
+      ],
+      "size": [
+        1024,
+        469
+      ]
+    },
+    {
+      "area_ratio": 2.0018,
+      "center": [
+        447.67,
+        -273.17
+      ],
+      "kind": "com",
+      "reference": "map_fraction",
+      "reference_size": [
+        340,
+        253
+      ],
+      "size": [
+        481,
+        358
+      ]
+    },
+    {
+      "area_ratio": 2.0018,
+      "center": [
+        -513.53,
+        -26.01
+      ],
+      "kind": "com",
+      "reference": "map_fraction",
+      "reference_size": [
+        340,
+        253
+      ],
+      "size": [
+        481,
+        358
+      ]
+    }
+  ],
+  "MapFinal_2025_26_01": [
+    {
+      "area_ratio": 2.0018,
+      "center": [
+        -453.0,
+        -47.11
+      ],
+      "kind": "gps",
+      "reference": "map_fraction",
+      "reference_size": [
+        340,
+        253
+      ],
+      "size": [
+        481,
+        358
+      ]
+    },
+    {
+      "area_ratio": 2.0018,
+      "center": [
+        173.4,
+        -366.17
+      ],
+      "kind": "gps",
+      "reference": "map_fraction",
+      "reference_size": [
+        340,
+        253
+      ],
+      "size": [
+        481,
+        358
+      ]
+    },
+    {
+      "area_ratio": 1.9995,
+      "center": [
+        22.07,
+        0.82
+      ],
+      "kind": "com",
+      "reference": "NoComZone",
+      "reference_size": [
+        618,
+        997
+      ],
+      "size": [
+        1122,
+        1098
+      ]
+    },
+    {
+      "area_ratio": 1.9995,
+      "center": [
+        -201.07,
+        0.12
+      ],
+      "kind": "com",
+      "reference": "NoComZone",
+      "reference_size": [
+        618,
+        997
+      ],
+      "size": [
+        1122,
+        1098
+      ]
+    }
+  ],
+  "MapFinal_2025_26_02": [
+    {
+      "area_ratio": 2.0063,
+      "center": [
+        -425.95,
+        -406.79
+      ],
+      "kind": "gps",
+      "reference": "KillZone",
+      "reference_size": [
+        121,
+        112
+      ],
+      "size": [
+        171,
+        159
+      ]
+    },
+    {
+      "area_ratio": 2.0063,
+      "center": [
+        -671.57,
+        7.72
+      ],
+      "kind": "gps",
+      "reference": "KillZone",
+      "reference_size": [
+        121,
+        112
+      ],
+      "size": [
+        171,
+        159
+      ]
+    },
+    {
+      "area_ratio": 2.0063,
+      "center": [
+        302.13,
+        -424.68
+      ],
+      "kind": "com",
+      "reference": "KillZone",
+      "reference_size": [
+        121,
+        112
+      ],
+      "size": [
+        171,
+        159
+      ]
+    },
+    {
+      "area_ratio": 2.0063,
+      "center": [
+        -86.61,
+        56.15
+      ],
+      "kind": "com",
+      "reference": "KillZone",
+      "reference_size": [
+        121,
+        112
+      ],
+      "size": [
+        171,
+        159
+      ]
+    }
+  ],
+  "MapFinal_2025_26_03": [
+    {
+      "area_ratio": 2.0001,
+      "center": [
+        -403.3,
+        -146.28
+      ],
+      "kind": "gps",
+      "reference": "NoGpsZone",
+      "reference_size": [
+        328,
+        389
+      ],
+      "size": [
+        464,
+        550
+      ]
+    },
+    {
+      "area_ratio": 1.998,
+      "center": [
+        287.65,
+        83.11
+      ],
+      "kind": "gps",
+      "reference": "NoGpsZone",
+      "reference_size": [
+        724,
+        332
+      ],
+      "size": [
+        1024,
+        469
+      ]
+    },
+    {
+      "area_ratio": 2.0018,
+      "center": [
+        -240.5,
+        -103.48
+      ],
+      "kind": "com",
+      "reference": "map_fraction",
+      "reference_size": [
+        340,
+        253
+      ],
+      "size": [
+        481,
+        358
+      ]
+    },
+    {
+      "area_ratio": 2.0018,
+      "center": [
+        170.87,
+        -337.31
+      ],
+      "kind": "com",
+      "reference": "map_fraction",
+      "reference_size": [
+        340,
+        253
+      ],
+      "size": [
+        481,
+        358
+      ]
+    }
+  ],
+  "MapIntermediate02": [
+    {
+      "area_ratio": 1.9936,
+      "center": [
+        91.38,
+        -0.82
+      ],
+      "kind": "gps",
+      "reference": "KillZone",
+      "reference_size": [
+        68,
+        360
+      ],
+      "size": [
+        98,
+        498
+      ]
+    },
+    {
+      "area_ratio": 1.9936,
+      "center": [
+        -413.93,
+        0.9
+      ],
+      "kind": "gps",
+      "reference": "KillZone",
+      "reference_size": [
+        68,
+        360
+      ],
+      "size": [
+        98,
+        498
+      ]
+    },
+    {
+      "area_ratio": 2.0011,
+      "center": [
+        227.71,
+        0.38
+      ],
+      "kind": "com",
+      "reference": "NoComZone",
+      "reference_size": [
+        330,
+        500
+      ],
+      "size": [
+        663,
+        498
+      ]
+    },
+    {
+      "area_ratio": 2.0011,
+      "center": [
+        220.71,
+        0.08
+      ],
+      "kind": "com",
+      "reference": "NoComZone",
+      "reference_size": [
+        330,
+        500
+      ],
+      "size": [
+        663,
+        498
+      ]
+    }
+  ],
+  "MapMedium01": [
+    {
+      "area_ratio": 2.0014,
+      "center": [
+        154.51,
+        8.23
+      ],
+      "kind": "gps",
+      "reference": "NoGpsZone",
+      "reference_size": [
+        574,
+        393
+      ],
+      "size": [
+        812,
+        556
+      ]
+    },
+    {
+      "area_ratio": 2.0014,
+      "center": [
+        -13.71,
+        201.01
+      ],
+      "kind": "gps",
+      "reference": "NoGpsZone",
+      "reference_size": [
+        574,
+        393
+      ],
+      "size": [
+        812,
+        556
+      ]
+    },
+    {
+      "area_ratio": 1.9991,
+      "center": [
+        305.39,
+        -28.11
+      ],
+      "kind": "com",
+      "reference": "NoComZone",
+      "reference_size": [
+        402,
+        742
+      ],
+      "size": [
+        569,
+        1048
+      ]
+    },
+    {
+      "area_ratio": 1.9991,
+      "center": [
+        484.74,
+        29.89
+      ],
+      "kind": "com",
+      "reference": "NoComZone",
+      "reference_size": [
+        402,
+        742
+      ],
+      "size": [
+        569,
+        1048
+      ]
+    }
+  ],
+  "MapMedium02": [
+    {
+      "area_ratio": 2.0,
+      "center": [
+        227.48,
+        -6.89
+      ],
+      "kind": "gps",
+      "reference": "NoGpsZone",
+      "reference_size": [
+        240,
+        339
+      ],
+      "size": [
+        339,
+        480
+      ]
+    },
+    {
+      "area_ratio": 2.0,
+      "center": [
+        300.7,
+        -62.18
+      ],
+      "kind": "gps",
+      "reference": "NoGpsZone",
+      "reference_size": [
+        240,
+        339
+      ],
+      "size": [
+        339,
+        480
+      ]
+    },
+    {
+      "area_ratio": 2.0027,
+      "center": [
+        183.89,
+        -14.92
+      ],
+      "kind": "com",
+      "reference": "NoComZone",
+      "reference_size": [
+        414,
+        254
+      ],
+      "size": [
+        585,
+        360
+      ]
+    },
+    {
+      "area_ratio": 2.0027,
+      "center": [
+        217.72,
+        18.79
+      ],
+      "kind": "com",
+      "reference": "NoComZone",
+      "reference_size": [
+        414,
+        254
+      ],
+      "size": [
+        585,
+        360
+      ]
+    }
+  ],
+  "MapRandom": [
+    {
+      "area_ratio": 2.0015,
+      "center": [
+        482.14,
+        154.17
+      ],
+      "kind": "gps",
+      "reference": "map_fraction",
+      "reference_size": [
+        300,
+        161
+      ],
+      "size": [
+        424,
+        228
+      ]
+    },
+    {
+      "area_ratio": 2.0015,
+      "center": [
+        -126.77,
+        -183.28
+      ],
+      "kind": "gps",
+      "reference": "map_fraction",
+      "reference_size": [
+        300,
+        161
+      ],
+      "size": [
+        424,
+        228
+      ]
+    },
+    {
+      "area_ratio": 2.0015,
+      "center": [
+        228.6,
+        195.39
+      ],
+      "kind": "com",
+      "reference": "map_fraction",
+      "reference_size": [
+        300,
+        161
+      ],
+      "size": [
+        424,
+        228
+      ]
+    },
+    {
+      "area_ratio": 2.0015,
+      "center": [
+        511.9,
+        48.65
+      ],
+      "kind": "com",
+      "reference": "map_fraction",
+      "reference_size": [
+        300,
+        161
+      ],
+      "size": [
+        424,
+        228
+      ]
+    }
+  ]
+}

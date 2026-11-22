@@ -1,0 +1,573 @@
+{
+  "current": {
+    "n": 24,
+    "delivered": 207,
+    "lost": 23,
+    "full": 14,
+    "safe_full": 12,
+    "score": 67.2375,
+    "min_score": 0.0
+  },
+  "candidate": {
+    "n": 24,
+    "delivered": 209,
+    "lost": 22,
+    "full": 16,
+    "safe_full": 12,
+    "score": 68.0375,
+    "min_score": 0.0
+  },
+  "pending_replay": [],
+  "by_map": {
+    "Map01": [
+      {
+        "n": 1,
+        "delivered": 9,
+        "lost": 0,
+        "full": 0,
+        "safe_full": 0,
+        "score": 68.6,
+        "min_score": 68.6
+      },
+      {
+        "n": 1,
+        "delivered": 9,
+        "lost": 0,
+        "full": 0,
+        "safe_full": 0,
+        "score": 68.6,
+        "min_score": 68.6
+      }
+    ],
+    "Map02": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 90.9,
+        "min_score": 90.9
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 90.9,
+        "min_score": 90.9
+      }
+    ],
+    "Map03": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 95.5,
+        "min_score": 95.5
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 95.5,
+        "min_score": 95.5
+      }
+    ],
+    "Map04": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 90.9,
+        "min_score": 90.9
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 90.9,
+        "min_score": 90.9
+      }
+    ],
+    "Map05": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 97.8,
+        "min_score": 97.8
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 97.8,
+        "min_score": 97.8
+      }
+    ],
+    "Map06": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 79.3,
+        "min_score": 79.3
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 79.3,
+        "min_score": 79.3
+      }
+    ],
+    "Map07": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 85.8,
+        "min_score": 85.8
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 85.8,
+        "min_score": 85.8
+      }
+    ],
+    "Map07t4": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 2,
+        "full": 1,
+        "safe_full": 0,
+        "score": 77.5,
+        "min_score": 77.5
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 1,
+        "full": 1,
+        "safe_full": 0,
+        "score": 77.6,
+        "min_score": 77.6
+      }
+    ],
+    "Map08": [
+      {
+        "n": 1,
+        "delivered": 7,
+        "lost": 0,
+        "full": 0,
+        "safe_full": 0,
+        "score": 53.2,
+        "min_score": 53.2
+      },
+      {
+        "n": 1,
+        "delivered": 7,
+        "lost": 0,
+        "full": 0,
+        "safe_full": 0,
+        "score": 53.2,
+        "min_score": 53.2
+      }
+    ],
+    "Map09": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 79.9,
+        "min_score": 79.9
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 79.9,
+        "min_score": 79.9
+      }
+    ],
+    "MapFinal2022_23": [
+      {
+        "n": 1,
+        "delivered": 9,
+        "lost": 4,
+        "full": 0,
+        "safe_full": 0,
+        "score": 54.0,
+        "min_score": 54.0
+      },
+      {
+        "n": 1,
+        "delivered": 9,
+        "lost": 4,
+        "full": 0,
+        "safe_full": 0,
+        "score": 54.0,
+        "min_score": 54.0
+      }
+    ],
+    "MapFinal_2023_24_01": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 79.1,
+        "min_score": 79.1
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 79.1,
+        "min_score": 79.1
+      }
+    ],
+    "MapFinal_2023_24_02": [
+      {
+        "n": 1,
+        "delivered": 3,
+        "lost": 2,
+        "full": 0,
+        "safe_full": 0,
+        "score": 18.0,
+        "min_score": 18.0
+      },
+      {
+        "n": 1,
+        "delivered": 3,
+        "lost": 2,
+        "full": 0,
+        "safe_full": 0,
+        "score": 18.0,
+        "min_score": 18.0
+      }
+    ],
+    "MapFinal_2023_24_03": [
+      {
+        "n": 1,
+        "delivered": 9,
+        "lost": 2,
+        "full": 0,
+        "safe_full": 0,
+        "score": 54.2,
+        "min_score": 54.2
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 2,
+        "full": 1,
+        "safe_full": 0,
+        "score": 68.3,
+        "min_score": 68.3
+      }
+    ],
+    "MapFinal_2024_25_01": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 81.8,
+        "min_score": 81.8
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 81.8,
+        "min_score": 81.8
+      }
+    ],
+    "MapFinal_2024_25_02": [
+      {
+        "n": 1,
+        "delivered": 0,
+        "lost": 5,
+        "full": 0,
+        "safe_full": 0,
+        "score": 0.0,
+        "min_score": 0.0
+      },
+      {
+        "n": 1,
+        "delivered": 0,
+        "lost": 5,
+        "full": 0,
+        "safe_full": 0,
+        "score": 0.0,
+        "min_score": 0.0
+      }
+    ],
+    "MapFinal_2024_25_03": [
+      {
+        "n": 1,
+        "delivered": 9,
+        "lost": 1,
+        "full": 0,
+        "safe_full": 0,
+        "score": 58.2,
+        "min_score": 58.2
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 73.3,
+        "min_score": 73.3
+      }
+    ],
+    "MapFinal_2025_26_01": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 81.8,
+        "min_score": 81.8
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 81.8,
+        "min_score": 81.8
+      }
+    ],
+    "MapFinal_2025_26_02": [
+      {
+        "n": 1,
+        "delivered": 3,
+        "lost": 4,
+        "full": 0,
+        "safe_full": 0,
+        "score": 18.0,
+        "min_score": 18.0
+      },
+      {
+        "n": 1,
+        "delivered": 3,
+        "lost": 4,
+        "full": 0,
+        "safe_full": 0,
+        "score": 18.0,
+        "min_score": 18.0
+      }
+    ],
+    "MapFinal_2025_26_03": [
+      {
+        "n": 1,
+        "delivered": 9,
+        "lost": 0,
+        "full": 0,
+        "safe_full": 0,
+        "score": 55.1,
+        "min_score": 55.1
+      },
+      {
+        "n": 1,
+        "delivered": 9,
+        "lost": 0,
+        "full": 0,
+        "safe_full": 0,
+        "score": 55.1,
+        "min_score": 55.1
+      }
+    ],
+    "MapIntermediate02": [
+      {
+        "n": 1,
+        "delivered": 9,
+        "lost": 1,
+        "full": 0,
+        "safe_full": 0,
+        "score": 54.0,
+        "min_score": 54.0
+      },
+      {
+        "n": 1,
+        "delivered": 9,
+        "lost": 1,
+        "full": 0,
+        "safe_full": 0,
+        "score": 54.0,
+        "min_score": 54.0
+      }
+    ],
+    "MapMedium01": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 2,
+        "full": 1,
+        "safe_full": 0,
+        "score": 66.0,
+        "min_score": 66.0
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 2,
+        "full": 1,
+        "safe_full": 0,
+        "score": 66.0,
+        "min_score": 66.0
+      }
+    ],
+    "MapMedium02": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 79.6,
+        "min_score": 79.6
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 1,
+        "full": 1,
+        "safe_full": 0,
+        "score": 69.5,
+        "min_score": 69.5
+      }
+    ],
+    "MapRandom": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 94.5,
+        "min_score": 94.5
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 94.5,
+        "min_score": 94.5
+      }
+    ]
+  },
+  "changed": [
+    {
+      "map": "Map07t4",
+      "case": "random_s29",
+      "seed": 101,
+      "base_disposed": 10,
+      "trial_disposed": 10,
+      "base_destroyed_count": 2,
+      "trial_destroyed_count": 1,
+      "base_score": 77.5,
+      "trial_score": 77.6,
+      "base_steps": 4379,
+      "trial_steps": 4418,
+      "base_mean_health_percent": 60.4,
+      "trial_mean_health_percent": 62.0,
+      "base_log": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_full_224_current\\Map07t4_random_s29_seed101.log",
+      "trial_log": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_low_health_recovery\\handoff_refuge_all\\Map07t4_random_s29_seed101.log"
+    },
+    {
+      "map": "MapFinal_2023_24_03",
+      "case": "corner",
+      "seed": 101,
+      "base_disposed": 9,
+      "trial_disposed": 10,
+      "base_destroyed_count": 2,
+      "trial_destroyed_count": 2,
+      "base_score": 54.2,
+      "trial_score": 68.3,
+      "base_steps": 7200,
+      "trial_steps": 5266,
+      "base_mean_health_percent": 40.0,
+      "trial_mean_health_percent": 34.4,
+      "base_log": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_full_224_current\\MapFinal_2023_24_03_corner_seed101.log",
+      "trial_log": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_low_health_recovery\\handoff_refuge_all\\MapFinal_2023_24_03_corner_seed101.log"
+    },
+    {
+      "map": "MapFinal_2024_25_03",
+      "case": "cluster",
+      "seed": 101,
+      "base_disposed": 9,
+      "trial_disposed": 10,
+      "base_destroyed_count": 1,
+      "trial_destroyed_count": 0,
+      "base_score": 58.2,
+      "trial_score": 73.3,
+      "base_steps": 7200,
+      "trial_steps": 4604,
+      "base_mean_health_percent": 55.2,
+      "trial_mean_health_percent": 64.8,
+      "base_log": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_full_224_current\\MapFinal_2024_25_03_cluster_seed101.log",
+      "trial_log": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_low_health_recovery\\handoff_refuge_all\\MapFinal_2024_25_03_cluster_seed101.log"
+    },
+    {
+      "map": "MapMedium02",
+      "case": "cluster",
+      "seed": 303,
+      "base_disposed": 10,
+      "trial_disposed": 10,
+      "base_destroyed_count": 0,
+      "trial_destroyed_count": 1,
+      "base_score": 79.6,
+      "trial_score": 69.5,
+      "base_steps": 1564,
+      "trial_steps": 3330,
+      "base_mean_health_percent": 72.8,
+      "trial_mean_health_percent": 47.2,
+      "base_log": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_full_224_current\\MapMedium02_cluster_seed303.log",
+      "trial_log": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_low_health_recovery\\handoff_refuge_all\\MapMedium02_cluster_seed303.log"
+    }
+  ]
+}

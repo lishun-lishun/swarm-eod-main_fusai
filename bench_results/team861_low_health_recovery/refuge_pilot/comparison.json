@@ -1,0 +1,162 @@
+{
+  "current": {
+    "n": 9,
+    "delivered": 74,
+    "lost": 24,
+    "full": 4,
+    "safe_full": 0,
+    "score": 57.1778,
+    "min_score": 0.0
+  },
+  "candidate": {
+    "n": 9,
+    "delivered": 74,
+    "lost": 23,
+    "full": 4,
+    "safe_full": 0,
+    "score": 57.1889,
+    "min_score": 0.0
+  },
+  "pending_replay": [],
+  "by_map": {
+    "Map07t4": [
+      {
+        "n": 2,
+        "delivered": 20,
+        "lost": 3,
+        "full": 2,
+        "safe_full": 0,
+        "score": 76.9,
+        "min_score": 76.3
+      },
+      {
+        "n": 2,
+        "delivered": 20,
+        "lost": 2,
+        "full": 2,
+        "safe_full": 0,
+        "score": 76.95,
+        "min_score": 76.3
+      }
+    ],
+    "Map08": [
+      {
+        "n": 3,
+        "delivered": 27,
+        "lost": 8,
+        "full": 1,
+        "safe_full": 0,
+        "score": 64.2,
+        "min_score": 57.0
+      },
+      {
+        "n": 3,
+        "delivered": 27,
+        "lost": 8,
+        "full": 1,
+        "safe_full": 0,
+        "score": 64.2,
+        "min_score": 57.0
+      }
+    ],
+    "MapFinal_2023_24_03": [
+      {
+        "n": 1,
+        "delivered": 9,
+        "lost": 2,
+        "full": 0,
+        "safe_full": 0,
+        "score": 54.2,
+        "min_score": 54.2
+      },
+      {
+        "n": 1,
+        "delivered": 9,
+        "lost": 2,
+        "full": 0,
+        "safe_full": 0,
+        "score": 54.2,
+        "min_score": 54.2
+      }
+    ],
+    "MapFinal_2024_25_02": [
+      {
+        "n": 1,
+        "delivered": 0,
+        "lost": 5,
+        "full": 0,
+        "safe_full": 0,
+        "score": 0.0,
+        "min_score": 0.0
+      },
+      {
+        "n": 1,
+        "delivered": 0,
+        "lost": 5,
+        "full": 0,
+        "safe_full": 0,
+        "score": 0.0,
+        "min_score": 0.0
+      }
+    ],
+    "MapFinal_2025_26_02": [
+      {
+        "n": 1,
+        "delivered": 8,
+        "lost": 4,
+        "full": 0,
+        "safe_full": 0,
+        "score": 48.0,
+        "min_score": 48.0
+      },
+      {
+        "n": 1,
+        "delivered": 8,
+        "lost": 4,
+        "full": 0,
+        "safe_full": 0,
+        "score": 48.0,
+        "min_score": 48.0
+      }
+    ],
+    "MapMedium01": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 2,
+        "full": 1,
+        "safe_full": 0,
+        "score": 66.0,
+        "min_score": 66.0
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 2,
+        "full": 1,
+        "safe_full": 0,
+        "score": 66.0,
+        "min_score": 66.0
+      }
+    ]
+  },
+  "changed": [
+    {
+      "map": "Map07t4",
+      "case": "random_s29",
+      "seed": 101,
+      "base_disposed": 10,
+      "trial_disposed": 10,
+      "base_destroyed_count": 2,
+      "trial_destroyed_count": 1,
+      "base_score": 77.5,
+      "trial_score": 77.6,
+      "base_steps": 4379,
+      "trial_steps": 4418,
+      "base_mean_health_percent": 60.4,
+      "trial_mean_health_percent": 62.0,
+      "base_log": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_full_224_current\\Map07t4_random_s29_seed101.log",
+      "trial_log": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_low_health_recovery\\refuge_pilot\\Map07t4_random_s29_seed101.log"
+    }
+  ]
+}

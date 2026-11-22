@@ -1,0 +1,88 @@
+The team 'SICT' n��861, with lishun, liudongying, chengongbo, fengsifang
+Default team mode: <not set>
+Evaluation Plan (from file: remote_center_config.yml):
+==================================================
+Config ID: 1
+  Map: MapRemoteCenter
+  Zones: no_gps_zone
+  Number of Rounds: 1
+  Weight: 1
+  Team mode (scenario): rescue
+  Number of drones (scenario): 10
+--------------------------------------------------
+Default team mode: <not set>
+Time score: full marks at or before 30% of the timestep limit
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+* Map: MapRemoteCenter, mode: rescue, special zones: no_gps_zone, round: 1/1
+TRACE 632 4 4 True (504, 230) True (26, 12) [(576.8694542226602, 305.37360522347683)] 0
+TRACE 737 6 4 True (426, 53) True (22, 3) [(156.0, 152.0)] 0
+TRACE 775 8 4 True (-144, 531) True (-9, 28) [(308.0, 480.0)] 0
+TRACE 800 4 5 True (571, 327) True (26, 12) [] 0
+TRACE 800 6 4 True (284, 93) False (22, 3) [(172.0, 96.0)] 0
+TRACE 800 8 4 True (-126, 531) True (-9, 28) [(316.0, 480.0)] 0
+TRACE 803 1 4 True (-380, -96) True (-20, -4) [(68.0, 312.0)] 0
+TRACE 828 9 4 True (-60, -279) False (-3, -12) [(-76.0, -184.0)] 0
+TRACE 873 2 4 True (-67, -221) False (-2, -14) [(-76.0, -176.0)] 0
+TRACE 874 4 1 False (573, 325) True None [] 1
+TRACE 1047 6 2 False (563, 321) True (18, -3) [(164.0, 192.0)] 1
+TRACE 1092 7 4 True (-121, -315) False (-8, -15) [(172.0, 200.0)] 0
+TRACE 1123 5 4 True (-136, -216) False (-5, -13) [(180.0, 216.0)] 0
+TRACE 1200 1 4 True (483, 363) True (-20, -4) [(564.0, 368.0)] 0
+TRACE 1200 2 4 True (84, 157) False (-2, -14) [(436.0, 312.0)] 0
+TRACE 1200 5 4 True (3, -67) False (-5, -13) [(180.0, 216.0)] 0
+TRACE 1200 7 4 True (-26, -108) False (-8, -15) [(180.0, 208.0)] 0
+TRACE 1200 8 5 True (551, 466) True (-9, 28) [] 0
+TRACE 1200 9 4 True (41, 116) False (-3, -12) [(364.0, 328.0)] 0
+TRACE 1230 1 2 False (573, 360) True (18, -3) [(588.0, 256.0)] 1
+TRACE 1600 2 4 True (448, 468) True (-2, -14) [] 0
+TRACE 1600 5 5 True (558, 387) True (-5, -13) [] 0
+TRACE 1600 7 4 True (534, 417) True (-8, -15) [] 0
+TRACE 1600 8 5 True (554, 444) True (-9, 28) [] 0
+TRACE 1600 9 4 True (424, 468) True (-3, -12) [(564.0, 312.0)] 0
+TRACE 1724 8 2 False (578, 485) True (18, -3) [(572.0, 520.0)] 1
+TRACE 2000 2 4 True (491, 395) True (-2, -14) [(548.0, 344.0)] 0
+TRACE 2000 5 5 True (568, 412) True (-5, -13) [] 0
+TRACE 2000 7 4 True (527, 398) True (-8, -15) [(548.0, 368.0)] 0
+TRACE 2000 9 4 True (510, 430) True (-3, -12) [(540.0, 432.0)] 0
+TRACE 2060 2 2 False (578, 379) True (23, 1) [(548.0, 368.0)] 1
+TRACE 2060 9 2 False (576, 407) True (18, -3) [(564.0, 432.0)] 1
+TRACE 2400 5 5 True (573, 389) True (-5, -13) [] 0
+TRACE 2400 7 5 True (540, 422) True (-8, -15) [] 0
+TRACE 2800 5 5 True (574, 455) True (-5, -13) [] 0
+TRACE 2800 7 5 True (549, 486) True (-8, -15) [] 0
+TRACE 3182 8 4 True (157, -323) False (7, -16) [(-36.0, -312.0)] 1
+TRACE 3200 5 5 True (571, 450) True (-5, -13) [] 0
+TRACE 3200 7 5 True (553, 486) True (-8, -15) [] 0
+TRACE 3200 8 4 True (146, -324) False (7, -16) [(-36.0, -312.0)] 1
+TRACE 3600 5 5 True (569, 471) True (-5, -13) [] 0
+TRACE 3600 7 5 True (564, 514) True (-8, -15) [] 0
+TRACE 3600 8 4 True (202, 398) True (7, -16) [(548.0, 528.0)] 1
+TRACE 3787 8 1 False (567, 487) True None [] 2
+Drone 4 destroyed, too much collision !
+Drone 9 destroyed, too much collision !
+TRACE 4000 5 5 True (579, 428) True (-5, -13) [] 0
+TRACE 4000 7 4 True (552, 458) True (-8, -15) [] 0
+TRACE 4400 5 5 True (644, 492) True (-5, -13) [] 0
+TRACE 4400 7 5 True (618, 515) True (-8, -15) [(620.0, 504.0)] 0
+TRACE 4442 5 2 False (619, 490) True (41, 29) [(636.0, 512.0)] 1
+TRACE 4442 7 2 False (592, 509) True (41, 29) [(612.0, 528.0)] 1
+TRACE 4469 5 5 True (723, 530) True (41, 29) [] 1
+TRACE 4661 5 1 False (716, 493) True None [] 2
+Drone 0 destroyed, too much collision !
+TRACE 7200 1 3 False (-43, -308) False (-2, -16) [] 1
+TRACE 7200 2 3 False (37, -258) False (3, -15) [] 1
+TRACE 7200 3 3 False (-125, -316) False (-6, -18) [] 0
+TRACE 7200 5 3 False (-149, -291) False (-8, -16) [] 2
+TRACE 7200 6 3 False (-41, -241) False (-3, -13) [] 1
+TRACE 7200 7 1 False (-111, -205) False None [] 1
+TRACE 7200 8 3 False (-90, -257) False (-5, -15) [] 2
+count_reachable v3 = 1748894
+	* Round n��1/1: 
+		rescued nb: 8/10 (disposal score: 80.0%), health return score: 36.0%, time score: 0.0%, explor. score: 100.0% (weight 0%), walltime elapsed: 131s/1440s, elapse timestep: 7200/7200 steps, time to dispose all: 0 steps.
+		score breakdown (competition weights): disposal 80.0 x 60% = 48.0, health 36.0 x 20% = 7.2, time 0.0 x 20% = 0.0, total 55.2/100.
+		percentage of drones destroyed: 30.0 %, mean percentage of drones health : 36.0 %.
+		round score: 55.2%, frequency: 55.11 steps/s.
+--------------------------------------------------------------------------------------------

@@ -1,0 +1,29 @@
+The team 'SICT' n°861, with lishun, liudongying, chengongbo, fengsifang
+Default team mode: <not set>
+Evaluation Plan (from file: MapMedium02.yml):
+==================================================
+Config ID: 1
+  Map: MapMedium02
+  Zones: none
+  Number of Rounds: 1
+  Weight: 1
+  Team mode (scenario): rescue
+--------------------------------------------------
+Default team mode: <not set>
+Time score: full marks at or before 30% of the timestep limit
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+* Map: MapMedium02, mode: rescue, special zones: none, round: 1/1
+BENCH_ZONES MapMedium02 {"counts": {"gps": 2, "com": 2}, "overlay": [{"area_ratio": 1.1132, "center": [252.75, -10.0], "kind": "gps", "reference": "NoGpsZone", "reference_size": [240, 339], "size": [253, 358]}, {"area_ratio": 1.1132, "center": [334.11, -90.27], "kind": "gps", "reference": "NoGpsZone", "reference_size": [240, 339], "size": [253, 358]}, {"area_ratio": 1.1179, "center": [235.44, -18.4], "kind": "com", "reference": "NoComZone", "reference_size": [414, 254], "size": [437, 269]}, {"area_ratio": 1.1179, "center": [278.75, 23.18], "kind": "com", "reference": "NoComZone", "reference_size": [414, 254], "size": [437, 269]}]}
+Drone 7 destroyed, too much collision !
+Drone 6 destroyed, too much collision !
+Drone 4 destroyed, too much collision !
+count_reachable v3 = 614522
+	* Round n°1/1: 
+		rescued nb: 8/10 (disposal score: 80.0%), health return score: 0.0%, time score: 0.0%, explor. score: 100.0% (weight 0%), walltime elapsed: 125s/1000s, elapse timestep: 5000/5000 steps, time to dispose all: 0 steps.
+		score breakdown (competition weights): disposal 80.0 x 60% = 48.0, health 0.0 x 20% = 0.0, time 0.0 x 20% = 0.0, total 48.0/100.
+		percentage of drones destroyed: 30.0 %, mean percentage of drones health : 20.8 %.
+		round score: 48.0%, frequency: 39.85 steps/s.
+--------------------------------------------------------------------------------------------

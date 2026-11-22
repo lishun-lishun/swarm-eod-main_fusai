@@ -1,0 +1,15 @@
+Submission check passed.
+..........................................                               [100%]
+============================== warnings summary ===============================
+tests/test_ground_truth_in_control.py::test_control_active_only_inside_run_control
+tests/test_ground_truth_in_control.py::test_control_active_only_inside_run_control
+  E:\envs\swarm_rescue\Lib\site-packages\arcade\texture.py:537: DeprecationWarning: TRANSPOSE is deprecated and will be removed in Pillow 10 (2023-07-01). Use Transpose.TRANSPOSE instead.
+    image = image.transpose(PIL.Image.TRANSPOSE)
+
+tests/test_ground_truth_in_control.py::test_control_active_only_inside_run_control
+tests/test_ground_truth_in_control.py::test_control_active_only_inside_run_control
+  E:\envs\swarm_rescue\Lib\site-packages\arcade\texture.py:540: DeprecationWarning: FLIP_LEFT_RIGHT is deprecated and will be removed in Pillow 10 (2023-07-01). Use Transpose.FLIP_LEFT_RIGHT instead.
+    image = image.transpose(PIL.Image.FLIP_LEFT_RIGHT)
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+42 passed, 4 warnings in 2.40s

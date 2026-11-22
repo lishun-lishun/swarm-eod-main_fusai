@@ -1,0 +1,26 @@
+[
+  {
+    "map": "MapFinal_2023_24_03",
+    "case": "corner",
+    "seed": 101,
+    "exit_code": 0,
+    "log": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_low_health_recovery\\combined_pilot\\MapFinal_2023_24_03_corner_seed101.log",
+    "disposed": 9,
+    "total_bombs": 10,
+    "health_score": 4.0,
+    "time_score": 0.0,
+    "exploration_score": 100.0,
+    "walltime_seconds": 223.0,
+    "steps": 7200,
+    "full_disposal_step": 0,
+    "score": 54.8,
+    "destroyed_percent": 30.0,
+    "mean_health_percent": 30.4,
+    "destroyed_count": 3,
+    "crashed": false,
+    "walltime_limit_reached": false,
+    "baseline_disposed": 9,
+    "baseline_destroyed": 2,
+    "baseline_score": 54.2
+  }
+]

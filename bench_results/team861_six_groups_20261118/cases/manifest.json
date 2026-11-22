@@ -1,0 +1,452 @@
+[
+  {
+    "map": "Map01",
+    "case": "user_fixed",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_user_v6\\Map01_user_fixed.json",
+    "bombs_sha256": "0958bc425137d6974cd2a7433dd7ef8d1e4a87ced1e36e9861d4459e337ffdca"
+  },
+  {
+    "map": "Map02",
+    "case": "user_fixed",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_user_v6\\Map02_user_fixed.json",
+    "bombs_sha256": "fc7f6deb443915611abd22cb8ec2b5fbee38c03b2509ccf59e50f65ce5837149"
+  },
+  {
+    "map": "Map03",
+    "case": "user_fixed",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_user_v6\\Map03_user_fixed.json",
+    "bombs_sha256": "9d4ddd28ca7366cd68f5a6b80babdd6155a2cba697a8d053704fd0c1b4bb8b8d"
+  },
+  {
+    "map": "Map04",
+    "case": "user_fixed",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_user_v6\\Map04_user_fixed.json",
+    "bombs_sha256": "405919bc990bf5018e54e37bb19bae8561ef5c120729c55dcc33a988865400e1"
+  },
+  {
+    "map": "Map05",
+    "case": "user_fixed",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_user_v6\\Map05_user_fixed.json",
+    "bombs_sha256": "9f502b6f8ae9ef4cdbe377d9169b5d7b528446205073a26704cff58c0370a11a"
+  },
+  {
+    "map": "Map06",
+    "case": "user_fixed",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_user_v6\\Map06_user_fixed.json",
+    "bombs_sha256": "9e020a323fba2a5ccd969b875f54f9d41bded36220cb70307bdf424b7b756be4"
+  },
+  {
+    "map": "Map07",
+    "case": "user_fixed",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_user_v6\\Map07_user_fixed.json",
+    "bombs_sha256": "24a59ee47269bf1aaabfac8627208d9be16eec926020069419c6fe9e1f8c5749"
+  },
+  {
+    "map": "Map07t4",
+    "case": "user_fixed",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_user_v6\\Map07t4_user_fixed.json",
+    "bombs_sha256": "2da344f3c7686d7e87aeaddbd1165a359a509fd24554758f2c86ee83ac7d7822"
+  },
+  {
+    "map": "Map08",
+    "case": "user_fixed",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_user_v6\\Map08_user_fixed.json",
+    "bombs_sha256": "478fa487526df18828764352ef8d87e38e31c1cb0ab7461d5f294e189bc3eb16"
+  },
+  {
+    "map": "Map09",
+    "case": "user_fixed",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_user_v6\\Map09_user_fixed.json",
+    "bombs_sha256": "48ccc243d0d6ec2d27c38b32c3f7bd9ae6470a9ef5492a9bcfbc2efddb59ee93"
+  },
+  {
+    "map": "Map01",
+    "case": "random_s11",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_random_triplets\\Map01_random_s11.json",
+    "seed": 11,
+    "bombs_sha256": "99bd842460495d83ffd80862bfeec55ec514cd03c3eb5f630287bcfd7ed56a04"
+  },
+  {
+    "map": "Map02",
+    "case": "random_s11",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_random_triplets\\Map02_random_s11.json",
+    "seed": 11,
+    "bombs_sha256": "236e82ba4f32d207b2d93640eab626b48ca022899109e6e2243f4f09ceb28886"
+  },
+  {
+    "map": "Map03",
+    "case": "random_s11",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_random_triplets\\Map03_random_s11.json",
+    "seed": 11,
+    "bombs_sha256": "5cee8487bdb2a5cd8ea370a462a88167b6ae957d3fa4e6046ab6f4e846dfa571"
+  },
+  {
+    "map": "Map04",
+    "case": "random_s11",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_random_triplets\\Map04_random_s11.json",
+    "seed": 11,
+    "bombs_sha256": "0ff3f6dd750d5cb8d7cfd99246e6f54d8f3c8dcba5c0cea76635353d6e17fa23"
+  },
+  {
+    "map": "Map05",
+    "case": "random_s11",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_random_triplets\\Map05_random_s11.json",
+    "seed": 11,
+    "bombs_sha256": "bc76ba1345e9de5711c2c7a323d6a2d1012b9d4a3e0ba3d6de2bd839ad4d520b"
+  },
+  {
+    "map": "Map06",
+    "case": "random_s11",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_random_triplets\\Map06_random_s11.json",
+    "seed": 11,
+    "bombs_sha256": "26b5ee4d939e66674d58971ce37a5982323ff6f5a1de96a3f927c635d4764f5e"
+  },
+  {
+    "map": "Map07",
+    "case": "random_s11",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_random_triplets\\Map07_random_s11.json",
+    "seed": 11,
+    "bombs_sha256": "33b009a5af39aaff8cf12df68e4635b2f5d4cf84f6f71be261b915f496d32d43"
+  },
+  {
+    "map": "Map07t4",
+    "case": "random_s11",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_random_triplets\\Map07t4_random_s11.json",
+    "seed": 11,
+    "bombs_sha256": "68f0547b256b58a2349fd673ac3e55964049eece7548b81896fe1417c5ccd095"
+  },
+  {
+    "map": "Map08",
+    "case": "random_s11",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_random_triplets\\Map08_random_s11.json",
+    "seed": 11,
+    "bombs_sha256": "8ea3eb8f9bdd4a7ae8851da0c60029aea7cdfdd119d7a766dd55c51e40c42a44"
+  },
+  {
+    "map": "Map09",
+    "case": "random_s11",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_random_triplets\\Map09_random_s11.json",
+    "seed": 11,
+    "bombs_sha256": "318ae98b55040efb2b3cc4d7b2255281d74ec8273d2710ea34d1ccf1821b5f3f"
+  },
+  {
+    "map": "Map01",
+    "case": "random_s29",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_random_triplets\\Map01_random_s29.json",
+    "seed": 29,
+    "bombs_sha256": "6a603001457c7f5d359baa044921383f10cede9cfb867eab05fec63205a2acae"
+  },
+  {
+    "map": "Map02",
+    "case": "random_s29",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_random_triplets\\Map02_random_s29.json",
+    "seed": 29,
+    "bombs_sha256": "e4a9a20fbe9c15298f4c40e413c702e7037e8700f9b7f5f1b6ade549aad3c442"
+  },
+  {
+    "map": "Map03",
+    "case": "random_s29",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_random_triplets\\Map03_random_s29.json",
+    "seed": 29,
+    "bombs_sha256": "1bfded0fcded2b99b7f9ad6baf54e58db3e1ec2b403c7ec11775d40f2edd9c2b"
+  },
+  {
+    "map": "Map04",
+    "case": "random_s29",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_random_triplets\\Map04_random_s29.json",
+    "seed": 29,
+    "bombs_sha256": "bdeb975ed307a2a84ab5aa6d63905a160b7f97e70ea48efd9b824f9bd66bebed"
+  },
+  {
+    "map": "Map05",
+    "case": "random_s29",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_random_triplets\\Map05_random_s29.json",
+    "seed": 29,
+    "bombs_sha256": "2b1f69cbf2588ad4c0730b55500a2cf1a4d4489887dba9f644f131658bdd5eec"
+  },
+  {
+    "map": "Map06",
+    "case": "random_s29",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_random_triplets\\Map06_random_s29.json",
+    "seed": 29,
+    "bombs_sha256": "0563bb4ef6678131c237b3743098d0cbe804ce2f6157fe7afa4efe2f79997e80"
+  },
+  {
+    "map": "Map07",
+    "case": "random_s29",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_random_triplets\\Map07_random_s29.json",
+    "seed": 29,
+    "bombs_sha256": "8df577ba6b12e23c6f2d202f0bd46338241d3b190e756c1aa2583bee8d1f5c6d"
+  },
+  {
+    "map": "Map07t4",
+    "case": "random_s29",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_random_triplets\\Map07t4_random_s29.json",
+    "seed": 29,
+    "bombs_sha256": "a7f3218c364446c23c521c8c02034fa40285de3fd96dd6d81e9e298952fae984"
+  },
+  {
+    "map": "Map08",
+    "case": "random_s29",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_random_triplets\\Map08_random_s29.json",
+    "seed": 29,
+    "bombs_sha256": "cbb6b53dfd13c9ff5c5f3bcb26820453793369886f195e772977896b34ca630b"
+  },
+  {
+    "map": "Map09",
+    "case": "random_s29",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_random_triplets\\Map09_random_s29.json",
+    "seed": 29,
+    "bombs_sha256": "594125e0380673fdb524a5b375bf54959db3072bc66aaf449fb740f90e66d503"
+  },
+  {
+    "map": "Map01",
+    "case": "edge_seed100",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map01_edge_seed100.json",
+    "bombs_sha256": "6d9d0b8f730fccadda48a95320bacfa4c4d7b37c31ea82cffeb4d521fbc5521e"
+  },
+  {
+    "map": "Map02",
+    "case": "edge_seed100",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map02_edge_seed100.json",
+    "bombs_sha256": "f60ded956a1f27d7cbb9e39fa70c6c37264c3f5f7bd3b6a8096bae46af039ed3"
+  },
+  {
+    "map": "Map03",
+    "case": "edge_seed100",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map03_edge_seed100.json",
+    "bombs_sha256": "80b994c20278465bba10bd956fa3af40b6bd133bf32472fb205b665cf5d12e95"
+  },
+  {
+    "map": "Map04",
+    "case": "edge_seed100",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map04_edge_seed100.json",
+    "bombs_sha256": "a8bb26a7f2dc67b7209804273f78f1365a47bfa7f751d53e9721e7f90894694a"
+  },
+  {
+    "map": "Map05",
+    "case": "edge_seed100",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map05_edge_seed100.json",
+    "bombs_sha256": "93a9c453135fc356ca7d2bfdb3135ecc74df6802f4161eceaffe32093b7c5ab8"
+  },
+  {
+    "map": "Map06",
+    "case": "edge_seed100",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map06_edge_seed100.json",
+    "bombs_sha256": "c450e9bcd2fd3690f3e12408d004f9566b830c0743b2454a3200ec3eac2585cc"
+  },
+  {
+    "map": "Map07",
+    "case": "edge_seed100",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map07_edge_seed100.json",
+    "bombs_sha256": "7bac5d10b8a5de5b7c309ddcd8c31fb12ba2f2bd5b4b6c06be7282d51dff85c9"
+  },
+  {
+    "map": "Map07t4",
+    "case": "edge_seed100",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map07t4_edge_seed100.json",
+    "bombs_sha256": "e30c965ed9cdef649a859d11bf5d2fce4b809edaded57fe74ceb12d6de8ae7e0"
+  },
+  {
+    "map": "Map08",
+    "case": "edge_seed100",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map08_edge_seed100.json",
+    "bombs_sha256": "b41f8079318ed5a17eed048659a6e97e4abf176e4d8b81b393f6c874b998218f"
+  },
+  {
+    "map": "Map09",
+    "case": "edge_seed100",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map09_edge_seed100.json",
+    "bombs_sha256": "025bedb6e577e55b283989a19e7e23ff5ad57dad1ed1feaeecfb873b10ce69db"
+  },
+  {
+    "map": "Map01",
+    "case": "edge_seed105",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map01_edge_seed105.json",
+    "bombs_sha256": "98a23e954c9babd6d41a3fe83439d1c08a991edaaae60f0dd04394e5a934cd71"
+  },
+  {
+    "map": "Map02",
+    "case": "edge_seed105",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map02_edge_seed105.json",
+    "bombs_sha256": "bf12702291b44a62935d994caa13099c75c830955698f8cc9acf9beed3f32881"
+  },
+  {
+    "map": "Map03",
+    "case": "edge_seed105",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map03_edge_seed105.json",
+    "bombs_sha256": "830d1111ae6235c2e5c8464e37cd4228435de84ed3b24362bd30e4e5311f451e"
+  },
+  {
+    "map": "Map04",
+    "case": "edge_seed105",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map04_edge_seed105.json",
+    "bombs_sha256": "42620a495c9e24f04b8544c1497d8ffb49d3d6b7b195fadaec22b719e9766b80"
+  },
+  {
+    "map": "Map05",
+    "case": "edge_seed105",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map05_edge_seed105.json",
+    "bombs_sha256": "4b0303488c54e4298ab907dd92f4d63c37107e735eeef24a4561c0f00ef13abb"
+  },
+  {
+    "map": "Map06",
+    "case": "edge_seed105",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map06_edge_seed105.json",
+    "bombs_sha256": "a01d8aefa234112b469a500143e3452adbfed98e93318951f336de38ba41e9a9"
+  },
+  {
+    "map": "Map07",
+    "case": "edge_seed105",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map07_edge_seed105.json",
+    "bombs_sha256": "d6c4058cae777ef8940cbc0a14ac0dfa0270c0588a77dc31ce7a3fef07f7e911"
+  },
+  {
+    "map": "Map07t4",
+    "case": "edge_seed105",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map07t4_edge_seed105.json",
+    "bombs_sha256": "9a01e284b41e4ae7b066f01c3cf54dcf7068bcdf2f0656f016b9ad1326186be7"
+  },
+  {
+    "map": "Map08",
+    "case": "edge_seed105",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map08_edge_seed105.json",
+    "bombs_sha256": "a3f6e644ae2b927bb11cde68fb6b6de105283758cf8409c40d3e787b50c11a19"
+  },
+  {
+    "map": "Map09",
+    "case": "edge_seed105",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map09_edge_seed105.json",
+    "bombs_sha256": "a23be8c17c4929d671130ffa4ffb9586b9681776fac429a2bf3cf759a48aa369"
+  },
+  {
+    "map": "Map01",
+    "case": "cluster_s618",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_six_groups_20261118\\cases\\Map01_cluster_s618.json",
+    "seed": 618,
+    "center": [
+      46.0,
+      -101.0
+    ],
+    "radius": 72,
+    "minimum_separation": 32,
+    "bombs_sha256": "b634044a85b391782dbc896f66618c8167f2aa5c744b02f428209883bb48fe76"
+  },
+  {
+    "map": "Map02",
+    "case": "cluster_s618",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_six_groups_20261118\\cases\\Map02_cluster_s618.json",
+    "seed": 618,
+    "center": [
+      -494.0,
+      153.0
+    ],
+    "radius": 72,
+    "minimum_separation": 32,
+    "bombs_sha256": "f45203d370a1b9dbced15884c7e0ef676660ce158115210ef40326e7512001db"
+  },
+  {
+    "map": "Map03",
+    "case": "cluster_s618",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_six_groups_20261118\\cases\\Map03_cluster_s618.json",
+    "seed": 618,
+    "center": [
+      -229.5,
+      296.0
+    ],
+    "radius": 72,
+    "minimum_separation": 32,
+    "bombs_sha256": "e15f8f9783239685b00713c15eec6e775ef17a233381e084d34380f76690b398"
+  },
+  {
+    "map": "Map04",
+    "case": "cluster_s618",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_six_groups_20261118\\cases\\Map04_cluster_s618.json",
+    "seed": 618,
+    "center": [
+      621.0,
+      -408.0
+    ],
+    "radius": 72,
+    "minimum_separation": 32,
+    "bombs_sha256": "200c12d835d10a28ec4cc48d6a3fe70bf53f219c027628c140c04a894d0f1196"
+  },
+  {
+    "map": "Map05",
+    "case": "cluster_s618",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_six_groups_20261118\\cases\\Map05_cluster_s618.json",
+    "seed": 618,
+    "center": [
+      251.0,
+      130.0
+    ],
+    "radius": 72,
+    "minimum_separation": 32,
+    "bombs_sha256": "5789b3e73c1650b2369f42f05a085df1dc360310181f59c2e0e69c5df07e0eb0"
+  },
+  {
+    "map": "Map06",
+    "case": "cluster_s618",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_six_groups_20261118\\cases\\Map06_cluster_s618.json",
+    "seed": 618,
+    "center": [
+      -7.0,
+      498.0
+    ],
+    "radius": 72,
+    "minimum_separation": 32,
+    "bombs_sha256": "1b0ab820684875d8708af87efea844c8532388b317211a7b08acc385e7ce42bf"
+  },
+  {
+    "map": "Map07",
+    "case": "cluster_s618",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_six_groups_20261118\\cases\\Map07_cluster_s618.json",
+    "seed": 618,
+    "center": [
+      -580.0,
+      170.0
+    ],
+    "radius": 72,
+    "minimum_separation": 32,
+    "bombs_sha256": "d4ba2b19fa189220e95618e68d37fc7c10aa3c04a4231ae9422835b88825d251"
+  },
+  {
+    "map": "Map07t4",
+    "case": "cluster_s618",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_six_groups_20261118\\cases\\Map07t4_cluster_s618.json",
+    "seed": 618,
+    "center": [
+      39.0,
+      488.0
+    ],
+    "radius": 72,
+    "minimum_separation": 32,
+    "bombs_sha256": "1db98cb80f3569a0515dc926d4768e71c9f9a82d994a2da0d712c9dd5f2c9831"
+  },
+  {
+    "map": "Map08",
+    "case": "cluster_s618",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_six_groups_20261118\\cases\\Map08_cluster_s618.json",
+    "seed": 618,
+    "center": [
+      -739.0,
+      -382.0
+    ],
+    "radius": 72,
+    "minimum_separation": 32,
+    "bombs_sha256": "ba63f3a331e753a8704026631bff06757572ca886d77de9773de73da81ddc808"
+  },
+  {
+    "map": "Map09",
+    "case": "cluster_s618",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_six_groups_20261118\\cases\\Map09_cluster_s618.json",
+    "seed": 618,
+    "center": [
+      64.0,
+      -471.0
+    ],
+    "radius": 72,
+    "minimum_separation": 32,
+    "bombs_sha256": "97b1e9520e24c724d859a3002bdfff5d09b8213703ed999596558fe92876fe8f"
+  }
+]

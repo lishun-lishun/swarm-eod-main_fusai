@@ -112,7 +112,10 @@ def main():
                 exit_code = proc.returncode
             except subprocess.TimeoutExpired as exc:
                 timed_out = True
-                text = (exc.stdout or "") + "\nTIMEOUT\n"
+                captured = exc.stdout or ""
+                if isinstance(captured, bytes):
+                    captured = captured.decode("utf-8", errors="replace")
+                text = captured + "\nTIMEOUT\n"
                 exit_code = -9
             log_path.write_text(text, encoding="utf-8")
             row = {"map": map_name, "case": kind, "repeat": repeat,

@@ -1,0 +1,42 @@
+The team 'SICT' n°861, with lishun, liudongying, chengongbo, fengsifang
+Default team mode: <not set>
+Evaluation Plan (from file: MapMedium02.yml):
+==================================================
+Config ID: 1
+  Map: MapMedium02
+  Zones: none
+  Number of Rounds: 1
+  Weight: 1
+  Team mode (scenario): rescue
+--------------------------------------------------
+Default team mode: <not set>
+Time score: full marks at or before 30% of the timestep limit
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+* Map: MapMedium02, mode: rescue, special zones: none, round: 1/1
+BENCH_ZONES MapMedium02 {"counts": {"gps": 2, "com": 2}, "overlay": [{"area_ratio": 1.1132, "center": [252.75, -10.0], "kind": "gps", "reference": "NoGpsZone", "reference_size": [240, 339], "size": [253, 358]}, {"area_ratio": 1.1132, "center": [334.11, -90.27], "kind": "gps", "reference": "NoGpsZone", "reference_size": [240, 339], "size": [253, 358]}, {"area_ratio": 1.1179, "center": [235.44, -18.4], "kind": "com", "reference": "NoComZone", "reference_size": [414, 254], "size": [437, 269]}, {"area_ratio": 1.1179, "center": [278.75, 23.18], "kind": "com", "reference": "NoComZone", "reference_size": [414, 254], "size": [437, 269]}]}
+Exception ignored from cffi callback <function ext_cpCollisionPreSolveFunc at 0x000002132BE66AC0>:
+Traceback (most recent call last):
+  File "E:\envs\swarm_rescue\Lib\site-packages\pymunk\_callbacks.py", line 187, in ext_cpCollisionPreSolveFunc
+    x = handler._pre_solve(Arbiter(_arb, handler._space), handler._space, handler.data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_half_area_opt\coverage_full\runtime\src\swarm_rescue\simulation\drone\drone_abstract.py", line 57, in drone_collision_wall
+    drone_base, element = get_colliding_entities(playground, arbiter)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_half_area_opt\coverage_full\runtime\src\swarm_rescue\simulation\gui_map\collision_handlers.py", line 27, in get_colliding_entities
+    entity_1 = playground.get_entity_from_shape(shape_1)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_half_area_opt\coverage_full\runtime\src\swarm_rescue\simulation\gui_map\playground.py", line 970, in get_entity_from_shape
+    assert shape in self._shapes_to_entities
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 
+Drone 2 destroyed, too much collision !
+count_reachable v3 = 614522
+	* Round n°1/1: 
+		rescued nb: 10/10 (disposal score: 100.0%), health return score: 0.0%, time score: 72.8%, explor. score: 100.0% (weight 0%), walltime elapsed: 61s/1000s, elapse timestep: 2453/5000 steps, time to dispose all: 2453 steps.
+		score breakdown (competition weights): disposal 100.0 x 60% = 60.0, health 0.0 x 20% = 0.0, time 72.8 x 20% = 14.6, total 74.6/100.
+		percentage of drones destroyed: 10.0 %, mean percentage of drones health : 53.6 %.
+		round score: 74.6%, frequency: 40.50 steps/s.
+--------------------------------------------------------------------------------------------

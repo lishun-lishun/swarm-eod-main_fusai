@@ -1,0 +1,27 @@
+The team 'SICT' n°861, with lishun, liudongying, chengongbo, fengsifang
+Default team mode: <not set>
+Evaluation Plan (from file: config_Map08.yml):
+==================================================
+Config ID: 1
+  Map: Map08
+  Zones: no_gps_zone
+  Number of Rounds: 1
+  Weight: 1
+  Team mode (scenario): rescue
+  Number of drones (scenario): 10
+--------------------------------------------------
+Default team mode: <not set>
+Time score: full marks at or before 30% of the timestep limit
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+* Map: Map08, mode: rescue, special zones: no_gps_zone, round: 1/1
+Drone 6 destroyed, too much collision !
+count_reachable v3 = 1624794
+	* Round n°1/1: 
+		rescued nb: 9/10 (disposal score: 90.0%), health return score: 43.6%, time score: 0.0%, explor. score: 100.0% (weight 0%), walltime elapsed: 126s/180s, elapse timestep: 5400/5400 steps, time to dispose all: 0 steps.
+		score breakdown (competition weights): disposal 90.0 x 60% = 54.0, health 43.6 x 20% = 8.7, time 0.0 x 20% = 0.0, total 62.7/100.
+		percentage of drones destroyed: 10.0 %, mean percentage of drones health : 43.6 %.
+		round score: 62.7%, frequency: 42.71 steps/s.
+--------------------------------------------------------------------------------------------

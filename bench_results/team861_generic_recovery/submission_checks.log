@@ -1,0 +1,18 @@
+Check .
+Submission check passed.
+Check team861_final.zip
+Submission check passed.
+Check bench_results/team861_generic_recovery/contact_all_maps/runtime
+Submission check passed.
+Check bench_results/team861_generic_recovery/observations_all_maps/runtime
+Submission check passed.
+Check bench_results/team861_generic_recovery/backtrack_all_maps/runtime
+Submission check passed.
+Check bench_results/team861_generic_recovery/consistent_pose_all_maps/runtime
+Submission check passed.
+Check bench_results/team861_generic_recovery/confirmed_all_maps/runtime
+Submission check passed.
+
+Workspace after installing the verified controller
+Submission check passed.
+my_drone_rescue.py SHA256 4bb377e6fe41f64d4702c3ba4c960943b00e6f5645b0874532fa2f71b6023cee

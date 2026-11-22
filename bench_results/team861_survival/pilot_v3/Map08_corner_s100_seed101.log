@@ -1,0 +1,521 @@
+The team 'SICT' n°861, with lishun, liudongying, chengongbo, fengsifang
+Default team mode: <not set>
+Evaluation Plan (from file: config_Map08.yml):
+==================================================
+Config ID: 1
+  Map: Map08
+  Zones: no_gps_zone
+  Number of Rounds: 1
+  Weight: 1
+  Team mode (scenario): rescue
+  Number of drones (scenario): 10
+--------------------------------------------------
+Default team mode: <not set>
+Time score: full marks at or before 30% of the timestep limit
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+* Map: Map08, mode: rescue, special zones: no_gps_zone, round: 1/1
+OBS 0 0 25 0 0 0 0 0.0 0.0 0
+OBS 0 1 25 0 0 0 0 0.0 0.0 0
+OBS 0 2 25 0 0 0 0 0.0 0.0 0
+OBS 0 3 25 0 0 0 0 0.0 0.0 0
+OBS 0 4 25 0 0 0 0 0.0 0.0 0
+OBS 0 5 25 0 0 0 0 0.0 0.0 0
+OBS 0 6 25 0 0 0 0 0.0 0.0 0
+OBS 0 7 25 0 0 0 0 0.0 0.0 0
+OBS 0 8 25 0 0 0 0 0.0 0.0 0
+OBS 0 9 25 0 0 0 0 0.0 0.0 0
+OBS 7 6 24 0 0 613 437 1.5 2.2 0
+LEARNED 68 5 [(398.3831987404322, 316.9349805940628)]
+LEARNED 77 2 [(398.3831987404322, 316.9349805940628)]
+LEARNED 77 3 [(398.3831987404322, 316.9349805940628)]
+LEARNED 77 6 [(398.3831987404322, 316.9349805940628)]
+LEARNED 77 7 [(398.3831987404322, 316.9349805940628)]
+LEARNED 79 1 [(398.3831987404322, 316.9349805940628)]
+LEARNED 79 4 [(398.3831987404322, 316.9349805940628)]
+LEARNED 80 8 [(398.3831987404322, 316.9349805940628)]
+LEARNED 81 9 [(398.3831987404322, 316.9349805940628)]
+LEARNED 82 0 [(398.3831987404322, 316.9349805940628)]
+OBS 174 1 24 0 1 -74 460 -2.3 -1.1 0
+OBS 195 4 24 0 1 -32 501 -3.4 -0.4 0
+OBS 214 1 23 0 1 -79 468 -2.2 -1.0 0
+OBS 274 5 24 0 1 25 453 -2.4 0.4 0
+OBS 275 6 23 0 1 14 478 4.7 0.4 0
+OBS 300 0 25 0 3 -647 358 2.2 -0.1 0
+OBS 300 1 23 0 1 -186 359 -0.8 -5.4 0
+OBS 300 2 25 0 3 -654 328 -0.6 1.2 0
+OBS 300 3 25 0 2 -536 328 -1.6 -2.6 0
+OBS 300 4 24 0 1 501 529 8.1 -1.2 0
+OBS 300 5 24 0 1 -45 424 -1.4 -0.5 0
+OBS 300 6 23 0 1 -62 500 -6.7 -0.6 0
+OBS 300 7 25 0 1 293 446 7.8 -1.5 0
+OBS 300 8 25 0 2 -364 375 -8.8 1.8 0
+OBS 300 9 25 0 2 -561 366 -0.3 2.1 0
+OBS 354 6 22 0 2 -281 347 -6.4 -1.2 0
+OBS 383 9 24 0 2 -482 343 -5.9 1.8 0
+OBS 396 8 24 0 1 -631 369 0.7 1.9 0
+OBS 436 6 21 0 2 -560 394 -2.8 1.0 0
+OBS 462 2 24 0 4 -561 287 0.5 0.5 0
+OBS 463 3 24 0 4 -566 250 1.1 0.7 0
+OBS 492 2 23 0 4 -531 296 1.2 0.9 0
+OBS 493 3 23 0 4 -535 249 1.0 0.4 0
+OBS 513 6 20 0 1 -636 361 -0.5 2.7 0
+OBS 522 2 22 0 4 -499 303 1.3 0.9 0
+OBS 523 3 22 0 4 -499 246 1.3 0.1 0
+OBS 537 4 23 0 1 -528 353 -4.9 -3.2 0
+OBS 546 8 23 0 1 -512 280 0.8 -0.1 0
+OBS 555 3 21 0 4 -469 250 0.6 -0.2 0
+OBS 556 2 21 0 4 -473 329 1.1 0.5 0
+OBS 585 3 20 0 4 -436 252 1.1 0.3 0
+OBS 587 2 20 0 4 -443 352 0.8 0.8 0
+OBS 600 0 25 0 3 -653 357 0.9 2.0 0
+OBS 600 1 23 0 1 -613 322 -1.4 -1.6 0
+OBS 600 2 20 0 4 -434 362 0.9 1.0 0
+OBS 600 3 20 0 4 -421 254 1.2 -0.1 0
+OBS 600 4 23 0 1 -455 334 6.3 -0.2 0
+OBS 600 5 24 0 1 -392 329 5.5 0.4 0
+OBS 600 6 20 0 1 -620 188 -4.5 4.7 0
+OBS 600 7 25 0 1 -205 330 -5.0 -1.1 0
+OBS 600 8 23 0 1 -546 207 -4.3 2.1 0
+OBS 600 9 24 0 4 -694 123 -0.1 2.6 0
+OBS 614 7 24 0 2 -285 327 -4.7 -1.4 0
+OBS 615 3 19 0 4 -405 254 1.2 0.1 0
+OBS 617 2 19 0 4 -421 373 0.7 0.6 0
+OBS 645 3 18 0 4 -376 256 0.7 0.1 0
+OBS 649 2 18 0 4 -401 392 0.6 0.7 0
+LEARNED 672 9 [(-614.248809673833, 358.67122144318125)]
+OBS 675 3 17 0 4 -355 254 0.1 0.0 0
+LEARNED 681 0 [(-614.248809673833, 358.67122144318125)]
+LEARNED 681 1 [(-614.248809673833, 358.67122144318125)]
+LEARNED 681 5 [(-614.248809673833, 358.67122144318125)]
+LEARNED 681 8 [(-614.248809673833, 358.67122144318125)]
+OBS 683 2 17 0 4 -390 410 0.0 0.7 0
+LEARNED 689 6 [(-614.248809673833, 358.67122144318125)]
+LEARNED 690 7 [(-614.248809673833, 358.67122144318125)]
+LEARNED 698 2 [(-614.248809673833, 358.67122144318125)]
+LEARNED 698 3 [(-614.248809673833, 358.67122144318125)]
+LEARNED 699 4 [(-614.248809673833, 358.67122144318125)]
+OBS 702 1 22 0 2 -679 207 -2.5 7.6 0
+OBS 705 3 16 0 4 -341 259 0.2 -0.0 0
+OBS 707 4 22 0 2 -401 350 -7.6 -0.6 0
+OBS 726 2 16 0 4 -394 414 -0.7 -0.3 0
+OBS 732 6 19 0 1 -681 83 -1.8 2.7 0
+OBS 735 3 15 0 4 -336 256 -0.1 -0.3 0
+OBS 778 3 14 0 4 -344 236 -1.6 0.7 0
+OBS 784 2 15 0 4 -409 369 -0.6 -1.4 0
+OBS 808 3 13 0 4 -357 240 0.2 0.7 0
+OBS 810 9 23 0 4 -382 256 0.0 0.7 0
+OBS 833 2 14 0 4 -414 385 1.9 0.6 0
+OBS 838 3 12 0 4 -337 248 1.1 -0.3 0
+OBS 845 9 22 0 4 -376 287 0.9 1.1 0
+OBS 900 0 25 0 1 -669 318 -1.7 -3.3 0
+OBS 900 1 22 0 3 -654 358 0.1 -0.2 0
+OBS 900 2 14 0 4 -376 384 0.9 -2.0 0
+OBS 900 3 12 0 4 -336 200 -0.5 -1.1 0
+OBS 900 4 22 0 2 -501 85 0.5 -1.9 0
+OBS 900 5 24 0 2 -142 -31 1.5 0.5 0
+OBS 900 6 19 0 2 -710 -217 1.6 6.3 0
+OBS 900 7 24 0 1 -454 363 6.2 -2.4 0
+OBS 900 8 23 0 1 -689 249 -0.2 0.3 0
+OBS 900 9 22 0 4 -363 291 0.5 0.3 0
+OBS 914 3 11 0 4 -338 194 -0.3 -0.3 0
+OBS 919 2 13 0 4 -369 362 -0.1 -0.2 0
+OBS 944 3 10 0 4 -356 184 -0.8 -0.4 0
+OBS 956 2 12 0 4 -369 335 -0.1 -1.4 0
+OBS 974 3 9 0 4 -394 171 -2.1 0.4 0
+OBS 998 2 11 0 4 -428 310 -1.5 -0.2 0
+OBS 1004 3 8 0 4 -445 191 -1.3 0.1 0
+OBS 1033 2 10 0 4 -458 285 -0.8 -0.9 0
+OBS 1034 3 7 0 4 -472 177 -0.8 -0.8 0
+OBS 1082 0 24 0 1 -530 120 1.0 -6.3 0
+OBS 1138 3 6 0 4 -393 200 0.9 0.4 0
+OBS 1145 2 9 0 4 -368 265 -0.5 -0.4 0
+OBS 1200 0 24 0 1 -598 243 2.4 1.4 0
+OBS 1200 1 22 0 3 -647 356 2.0 -2.3 0
+OBS 1200 2 9 0 4 -383 223 1.0 -1.3 0
+OBS 1200 3 6 0 4 -387 175 1.5 -1.5 0
+OBS 1200 4 22 0 1 -658 -15 6.1 -4.4 0
+OBS 1200 5 24 0 4 81 8 0.2 -3.7 0
+OBS 1200 6 19 0 2 -469 90 -5.1 6.9 0
+OBS 1200 7 24 0 1 -490 372 2.0 -1.4 0
+OBS 1200 8 23 0 2 -742 164 -0.3 0.4 0
+OBS 1200 9 22 0 4 -66 38 2.3 2.1 0
+OBS 1266 8 22 0 1 -648 201 -0.3 -4.1 0
+OBS 1377 6 18 0 2 -685 19 0.9 -3.1 0
+OBS 1500 0 24 0 1 -227 275 2.4 0.5 0
+OBS 1500 1 22 0 1 -792 195 2.3 -6.1 0
+OBS 1500 2 9 0 4 -387 160 0.7 -0.1 0
+OBS 1500 3 6 0 4 -393 121 0.3 -0.5 0
+OBS 1500 4 22 0 1 -339 248 0.8 1.3 0
+OBS 1500 5 24 0 4 524 121 1.8 0.4 0
+OBS 1500 6 18 0 1 -472 -168 5.9 -1.3 0
+OBS 1500 7 24 0 1 -667 482 4.2 2.9 0
+OBS 1500 8 22 0 1 -668 -479 -2.2 -6.2 0
+OBS 1500 9 22 0 4 187 -126 0.8 2.6 0
+OBS 1596 2 8 0 4 -388 148 -1.4 0.3 0
+OBS 1605 3 5 0 4 -377 87 -0.5 -0.3 0
+OBS 1650 0 23 0 1 72 -136 -0.2 2.4 0
+OBS 1650 4 21 0 1 86 -120 2.3 -3.4 0
+OBS 1800 0 23 0 2 80 -31 -1.9 -8.9 0
+OBS 1800 1 22 0 1 -125 -240 2.1 2.1 0
+OBS 1800 2 8 0 4 -379 203 0.6 0.4 0
+OBS 1800 3 5 0 4 -379 167 0.6 0.2 0
+OBS 1800 4 21 0 4 338 51 -0.6 -0.2 0
+OBS 1800 5 24 0 4 459 83 -3.8 0.7 0
+OBS 1800 6 18 0 4 208 -61 0.2 3.3 0
+OBS 1800 7 24 0 1 -645 -115 1.9 -1.3 0
+OBS 1800 8 22 0 1 -315 -528 1.4 -2.5 0
+OBS 1800 9 22 0 4 718 133 2.2 1.2 0
+OBS 1808 9 21 0 4 730 147 1.6 1.5 0
+OBS 1959 5 23 0 4 228 61 -1.2 -1.0 0
+OBS 2006 5 22 0 4 186 -36 -0.4 -1.5 0
+OBS 2100 0 23 0 4 403 -259 1.3 -1.0 0
+OBS 2100 1 22 0 2 148 -136 0.1 0.0 0
+OBS 2100 2 8 0 4 -379 189 -1.6 0.0 0
+OBS 2100 3 5 0 4 -359 148 -1.3 -0.1 0
+OBS 2100 4 21 0 4 191 -173 -0.6 -2.5 0
+OBS 2100 5 22 0 4 155 -99 0.0 -0.0 0
+OBS 2100 6 18 0 4 281 -3 1.1 1.9 0
+OBS 2100 7 24 0 1 -209 -120 6.3 -0.2 0
+OBS 2100 8 22 0 2 112 -223 0.7 -1.6 0
+OBS 2100 9 21 0 4 724 156 -1.6 -0.8 0
+OBS 2105 1 21 0 2 152 -137 0.4 -0.2 0
+OBS 2113 4 20 0 4 172 -201 -1.0 -1.8 0
+OBS 2144 7 23 0 1 68 -175 2.2 -2.2 0
+OBS 2145 8 21 0 2 94 -206 -1.9 -1.5 0
+OBS 2147 4 19 0 4 120 -227 -2.3 0.5 0
+OBS 2266 1 20 0 2 202 -21 -1.1 -0.7 0
+OBS 2317 8 20 0 1 155 -206 0.3 -3.8 0
+OBS 2372 0 22 0 4 189 -110 -0.0 -2.2 0
+OBS 2400 0 22 0 4 188 -157 -0.0 -2.6 0
+OBS 2400 1 20 0 2 451 -20 2.3 1.5 0
+OBS 2400 2 8 0 4 -372 219 0.2 0.0 0
+OBS 2400 3 5 0 4 -344 172 0.3 0.0 0
+OBS 2400 4 19 0 4 -613 -134 -3.1 -0.2 0
+OBS 2400 5 22 0 4 112 -220 -2.1 0.1 0
+OBS 2400 6 18 0 4 733 167 0.6 -0.2 0
+OBS 2400 7 23 0 2 150 -150 0.6 2.2 0
+OBS 2400 8 20 0 4 207 -340 0.0 2.5 0
+OBS 2400 9 21 0 4 269 -299 -0.2 -1.9 0
+OBS 2448 5 21 0 4 65 -109 -1.2 2.1 0
+OBS 2480 7 22 0 1 555 115 5.7 1.6 0
+OBS 2630 1 19 0 4 683 268 -0.5 1.3 0
+OBS 2700 0 22 0 4 -338 58 0.5 1.8 0
+OBS 2700 1 19 0 4 759 240 2.0 1.3 0
+OBS 2700 2 8 0 4 -380 87 -0.6 -1.0 0
+OBS 2700 3 5 0 4 -361 41 0.4 -1.1 0
+OBS 2700 4 19 0 4 -254 315 -0.5 0.1 0
+OBS 2700 5 21 0 4 -334 168 0.0 2.6 0
+OBS 2700 6 18 0 4 107 -217 -2.4 1.3 0
+OBS 2700 7 22 0 4 581 -222 -1.7 -1.6 0
+OBS 2700 8 20 0 4 -347 -5 -0.4 -1.3 0
+OBS 2700 9 21 0 4 67 -187 -0.6 1.9 0
+OBS 2726 2 7 0 4 -387 78 0.0 -0.5 0
+OBS 2727 8 19 0 4 -388 -42 -2.2 -0.9 0
+OBS 2731 6 17 0 4 79 -141 -0.2 2.9 0
+OBS 2779 3 4 0 4 -335 -5 0.0 -1.8 0
+OBS 2780 2 6 0 4 -361 55 0.8 -1.1 0
+OBS 2790 6 16 0 4 76 -116 0.2 0.5 0
+OBS 2833 3 3 0 4 -377 -4 -1.1 -1.4 0
+OBS 2835 2 5 0 4 -412 66 -0.5 -0.6 0
+OBS 2883 5 20 0 4 -316 263 2.3 0.7 0
+OBS 2952 5 19 0 4 -378 266 -0.8 -1.0 0
+OBS 2961 0 21 0 4 -434 303 -0.3 0.6 0
+OBS 3000 0 21 0 4 -448 298 -1.3 -1.2 0
+OBS 3000 1 19 0 4 292 -195 0.1 -3.2 0
+OBS 3000 2 5 0 4 -364 108 -0.3 2.5 0
+OBS 3000 3 3 0 4 -365 74 -0.7 2.8 0
+OBS 3000 4 19 0 4 534 510 3.5 0.1 0
+OBS 3000 5 19 0 4 -354 209 0.5 -2.9 0
+OBS 3000 6 16 0 4 -317 2 0.3 0.3 0
+OBS 3000 7 22 0 4 192 -55 -0.1 -3.7 0
+OBS 3000 8 19 0 4 -388 352 3.8 -0.2 0
+OBS 3000 9 21 0 4 -344 -27 -2.2 0.8 0
+OBS 3060 6 15 0 4 -363 44 -0.9 1.3 0
+OBS 3084 0 20 0 4 -354 305 -1.6 -0.7 0
+OBS 3099 2 4 0 4 -356 309 -0.2 1.2 0
+OBS 3115 3 2 0 4 -365 281 0.8 -0.2 0
+OBS 3128 0 19 0 4 -358 301 -0.6 0.2 0
+OBS 3129 2 3 0 4 -349 318 -0.6 0.3 0
+OBS 3161 0 18 0 4 -342 303 0.1 -0.2 0
+OBS 3168 9 20 0 4 -384 245 -0.1 0.5 0
+OBS 3182 3 1 0 4 -366 284 0.4 0.6 0
+OBS 3198 9 19 0 4 -388 259 -0.0 -0.0 0
+OBS 3250 9 18 0 4 -373 273 1.1 -0.3 0
+OBS 3263 2 2 0 4 -347 315 -0.4 -0.3 0
+Exception ignored from cffi callback <function ext_cpCollisionPreSolveFunc at 0x000001D1AC09CEA0>:
+Traceback (most recent call last):
+  File "E:\envs\swarm_rescue\Lib\site-packages\pymunk\_callbacks.py", line 187, in ext_cpCollisionPreSolveFunc
+    x = handler._pre_solve(Arbiter(_arb, handler._space), handler._space, handler.data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\gui_map\collision_handlers.py", line 38, in grasper_grasps_bomb
+    grasper, bomb = get_colliding_entities(playground, arbiter)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\gui_map\collision_handlers.py", line 27, in get_colliding_entities
+    entity_1 = playground.get_entity_from_shape(shape_1)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\gui_map\playground.py", line 970, in get_entity_from_shape
+    assert shape in self._shapes_to_entities
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 
+Exception ignored from cffi callback <function ext_cpCollisionPreSolveFunc at 0x000001D1AC09CEA0>:
+Traceback (most recent call last):
+  File "E:\envs\swarm_rescue\Lib\site-packages\pymunk\_callbacks.py", line 187, in ext_cpCollisionPreSolveFunc
+    x = handler._pre_solve(Arbiter(_arb, handler._space), handler._space, handler.data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\elements\sensor_disablers.py", line 41, in disabler_zone_disables_device
+    disabler_zone, device = get_colliding_entities(playground, arbiter)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\gui_map\collision_handlers.py", line 28, in get_colliding_entities
+    entity_2 = playground.get_entity_from_shape(shape_2)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\gui_map\playground.py", line 970, in get_entity_from_shape
+    assert shape in self._shapes_to_entities
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 
+Exception ignored from cffi callback <function ext_cpCollisionPreSolveFunc at 0x000001D1AC09CEA0>:
+Traceback (most recent call last):
+  File "E:\envs\swarm_rescue\Lib\site-packages\pymunk\_callbacks.py", line 187, in ext_cpCollisionPreSolveFunc
+    x = handler._pre_solve(Arbiter(_arb, handler._space), handler._space, handler.data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\elements\sensor_disablers.py", line 41, in disabler_zone_disables_device
+    disabler_zone, device = get_colliding_entities(playground, arbiter)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\gui_map\collision_handlers.py", line 28, in get_colliding_entities
+    entity_2 = playground.get_entity_from_shape(shape_2)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\gui_map\playground.py", line 970, in get_entity_from_shape
+    assert shape in self._shapes_to_entities
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 
+Exception ignored from cffi callback <function ext_cpCollisionPreSolveFunc at 0x000001D1AC09CEA0>:
+Traceback (most recent call last):
+  File "E:\envs\swarm_rescue\Lib\site-packages\pymunk\_callbacks.py", line 187, in ext_cpCollisionPreSolveFunc
+    x = handler._pre_solve(Arbiter(_arb, handler._space), handler._space, handler.data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\elements\sensor_disablers.py", line 41, in disabler_zone_disables_device
+    disabler_zone, device = get_colliding_entities(playground, arbiter)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\gui_map\collision_handlers.py", line 28, in get_colliding_entities
+    entity_2 = playground.get_entity_from_shape(shape_2)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\gui_map\playground.py", line 970, in get_entity_from_shape
+    assert shape in self._shapes_to_entities
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 
+Exception ignored from cffi callback <function ext_cpCollisionPreSolveFunc at 0x000001D1AC09CEA0>:
+Traceback (most recent call last):
+  File "E:\envs\swarm_rescue\Lib\site-packages\pymunk\_callbacks.py", line 187, in ext_cpCollisionPreSolveFunc
+    x = handler._pre_solve(Arbiter(_arb, handler._space), handler._space, handler.data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\elements\sensor_disablers.py", line 41, in disabler_zone_disables_device
+    disabler_zone, device = get_colliding_entities(playground, arbiter)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\gui_map\collision_handlers.py", line 28, in get_colliding_entities
+    entity_2 = playground.get_entity_from_shape(shape_2)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\gui_map\playground.py", line 970, in get_entity_from_shape
+    assert shape in self._shapes_to_entities
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 
+Exception ignored from cffi callback <function ext_cpCollisionPreSolveFunc at 0x000001D1AC09CEA0>:
+Traceback (most recent call last):
+  File "E:\envs\swarm_rescue\Lib\site-packages\pymunk\_callbacks.py", line 187, in ext_cpCollisionPreSolveFunc
+    x = handler._pre_solve(Arbiter(_arb, handler._space), handler._space, handler.data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\elements\sensor_disablers.py", line 41, in disabler_zone_disables_device
+    disabler_zone, device = get_colliding_entities(playground, arbiter)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\gui_map\collision_handlers.py", line 28, in get_colliding_entities
+    entity_2 = playground.get_entity_from_shape(shape_2)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\gui_map\playground.py", line 970, in get_entity_from_shape
+    assert shape in self._shapes_to_entities
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 
+Exception ignored from cffi callback <function ext_cpCollisionPreSolveFunc at 0x000001D1AC09CEA0>:
+Traceback (most recent call last):
+  File "E:\envs\swarm_rescue\Lib\site-packages\pymunk\_callbacks.py", line 187, in ext_cpCollisionPreSolveFunc
+    x = handler._pre_solve(Arbiter(_arb, handler._space), handler._space, handler.data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\elements\sensor_disablers.py", line 41, in disabler_zone_disables_device
+    disabler_zone, device = get_colliding_entities(playground, arbiter)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\gui_map\collision_handlers.py", line 28, in get_colliding_entities
+    entity_2 = playground.get_entity_from_shape(shape_2)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\gui_map\playground.py", line 970, in get_entity_from_shape
+    assert shape in self._shapes_to_entities
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 
+Exception ignored from cffi callback <function ext_cpCollisionPreSolveFunc at 0x000001D1AC09CEA0>:
+Traceback (most recent call last):
+  File "E:\envs\swarm_rescue\Lib\site-packages\pymunk\_callbacks.py", line 187, in ext_cpCollisionPreSolveFunc
+    x = handler._pre_solve(Arbiter(_arb, handler._space), handler._space, handler.data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\elements\sensor_disablers.py", line 41, in disabler_zone_disables_device
+    disabler_zone, device = get_colliding_entities(playground, arbiter)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\gui_map\collision_handlers.py", line 28, in get_colliding_entities
+    entity_2 = playground.get_entity_from_shape(shape_2)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\gui_map\playground.py", line 970, in get_entity_from_shape
+    assert shape in self._shapes_to_entities
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 
+Exception ignored from cffi callback <function ext_cpCollisionPreSolveFunc at 0x000001D1AC09CEA0>:
+Traceback (most recent call last):
+  File "E:\envs\swarm_rescue\Lib\site-packages\pymunk\_callbacks.py", line 187, in ext_cpCollisionPreSolveFunc
+    x = handler._pre_solve(Arbiter(_arb, handler._space), handler._space, handler.data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\elements\sensor_disablers.py", line 41, in disabler_zone_disables_device
+    disabler_zone, device = get_colliding_entities(playground, arbiter)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\gui_map\collision_handlers.py", line 28, in get_colliding_entities
+    entity_2 = playground.get_entity_from_shape(shape_2)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\gui_map\playground.py", line 970, in get_entity_from_shape
+    assert shape in self._shapes_to_entities
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 
+Exception ignored from cffi callback <function ext_cpCollisionPreSolveFunc at 0x000001D1AC09CEA0>:
+Traceback (most recent call last):
+  File "E:\envs\swarm_rescue\Lib\site-packages\pymunk\_callbacks.py", line 187, in ext_cpCollisionPreSolveFunc
+    x = handler._pre_solve(Arbiter(_arb, handler._space), handler._space, handler.data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\elements\sensor_disablers.py", line 41, in disabler_zone_disables_device
+    disabler_zone, device = get_colliding_entities(playground, arbiter)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\gui_map\collision_handlers.py", line 28, in get_colliding_entities
+    entity_2 = playground.get_entity_from_shape(shape_2)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\gui_map\playground.py", line 970, in get_entity_from_shape
+    assert shape in self._shapes_to_entities
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 
+Exception ignored from cffi callback <function ext_cpCollisionPreSolveFunc at 0x000001D1AC09CEA0>:
+Traceback (most recent call last):
+  File "E:\envs\swarm_rescue\Lib\site-packages\pymunk\_callbacks.py", line 187, in ext_cpCollisionPreSolveFunc
+    x = handler._pre_solve(Arbiter(_arb, handler._space), handler._space, handler.data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\elements\sensor_disablers.py", line 41, in disabler_zone_disables_device
+    disabler_zone, device = get_colliding_entities(playground, arbiter)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\gui_map\collision_handlers.py", line 28, in get_colliding_entities
+    entity_2 = playground.get_entity_from_shape(shape_2)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\code\fusai\swarm-eod-main\bench_results\team861_survival\pilot_v3\runtime\src\swarm_rescue\simulation\gui_map\playground.py", line 970, in get_entity_from_shape
+    assert shape in self._shapes_to_entities
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 
+Drone 3 destroyed, too much collision !
+OBS 3291 9 17 0 4 -347 247 -1.2 -1.6 0
+OBS 3293 6 14 0 4 -353 278 1.1 -0.5 0
+OBS 3300 0 18 0 4 -287 285 0.9 -0.4 0
+OBS 3300 1 19 0 4 110 -219 -2.3 -0.2 0
+OBS 3300 2 2 0 4 -360 286 -0.4 -1.0 0
+OBS 3300 4 19 0 1 -565 476 5.8 7.2 1
+OBS 3300 5 19 0 4 -120 78 0.2 -3.4 0
+OBS 3300 6 14 0 4 -345 279 1.4 0.2 0
+OBS 3300 7 22 0 4 -292 -54 -3.2 0.1 0
+OBS 3300 8 19 0 4 525 483 3.5 -0.6 0
+OBS 3300 9 17 0 4 -350 241 -0.4 -0.6 0
+OBS 3476 4 18 0 1 -634 340 -4.5 -1.5 1
+OBS 3476 9 16 0 4 -649 337 1.1 0.6 0
+OBS 3513 8 18 0 1 -547 373 -6.7 -1.4 1
+OBS 3600 0 18 0 4 -369 278 0.6 1.5 0
+OBS 3600 1 19 0 4 -427 236 -2.1 0.6 0
+OBS 3600 2 2 0 4 -151 283 -1.2 0.1 0
+OBS 3600 4 18 0 1 -315 264 2.0 -0.1 1
+OBS 3600 5 19 0 4 -661 330 0.9 2.8 0
+OBS 3600 6 14 0 4 -460 380 3.2 -0.8 0
+OBS 3600 7 22 0 4 -538 372 3.6 0.5 0
+OBS 3600 8 18 0 1 -722 228 -0.2 -7.0 1
+OBS 3600 9 16 0 4 -360 387 3.5 -0.2 0
+OBS 3613 0 17 0 4 -365 291 -0.4 0.8 0
+OBS 3668 6 13 0 4 -241 402 2.0 1.1 0
+OBS 3709 7 21 0 4 -253 390 0.9 -0.0 0
+OBS 3748 5 18 0 4 -207 392 1.6 1.0 0
+OBS 3900 0 17 0 4 -268 374 3.5 0.7 0
+OBS 3900 1 19 0 4 -275 410 0.4 -0.1 0
+OBS 3900 2 2 0 4 -669 183 -0.1 -2.8 0
+OBS 3900 4 18 0 1 418 -500 -6.3 -0.3 1
+OBS 3900 5 18 0 4 44 451 3.2 -0.4 0
+OBS 3900 6 13 0 4 321 499 3.4 -0.2 0
+OBS 3900 7 21 0 4 246 454 3.5 1.2 0
+OBS 3900 8 18 0 1 471 -406 4.5 -0.0 1
+OBS 3900 9 16 0 4 427 506 3.3 0.2 0
+OBS 4007 9 15 0 1 604 447 0.1 -0.4 1
+OBS 4010 7 20 0 4 580 434 1.2 -0.8 0
+OBS 4036 6 12 0 1 526 514 -1.9 -0.3 1
+OBS 4037 9 14 0 1 643 408 1.0 -1.4 1
+OBS 4061 1 18 0 4 -354 338 0.5 0.5 0
+OBS 4067 9 13 0 1 636 391 -0.2 -0.3 1
+OBS 4200 0 17 0 1 644 493 -1.7 0.3 1
+OBS 4200 1 18 0 4 -104 198 0.5 -2.9 0
+OBS 4200 2 2 0 4 -659 -76 -0.7 2.5 0
+OBS 4200 4 18 0 1 -20 -531 -1.8 -0.9 1
+OBS 4200 5 18 0 1 393 431 -9.6 0.6 1
+OBS 4200 6 12 0 1 -275 372 -6.7 0.6 1
+OBS 4200 7 20 0 1 590 398 -5.7 1.1 1
+OBS 4200 8 18 0 1 84 -20 -0.2 -9.0 1
+OBS 4200 9 13 0 1 67 458 -9.7 -1.2 1
+OBS 4203 4 17 0 1 -26 -535 -1.8 -2.1 1
+OBS 4254 5 17 0 1 -115 462 -2.6 0.3 1
+OBS 4280 7 19 0 1 -101 528 -3.2 -1.5 1
+OBS 4285 0 16 0 1 -95 490 -6.3 -1.2 1
+OBS 4285 5 16 0 1 -121 473 -2.0 0.8 1
+OBS 4419 1 17 0 4 -319 11 -0.7 1.0 0
+OBS 4500 0 16 0 1 -339 115 0.6 4.6 1
+OBS 4500 1 17 0 4 -345 194 -0.4 3.0 0
+OBS 4500 2 2 0 4 -44 -208 2.7 -0.9 0
+OBS 4500 4 17 0 1 -127 -527 -0.5 0.7 1
+OBS 4500 5 16 0 2 -116 479 5.0 0.2 1
+OBS 4500 6 12 0 1 -336 -510 -4.0 3.2 1
+OBS 4500 7 19 0 1 -522 222 4.7 0.4 1
+OBS 4500 8 18 0 1 365 -7 4.2 -5.0 1
+OBS 4500 9 13 0 1 -71 469 -6.3 0.6 1
+OBS 4502 5 15 0 2 -111 479 5.2 0.5 1
+OBS 4520 1 16 0 4 -370 239 -1.3 1.9 0
+OBS 4529 9 12 0 1 -119 456 -1.5 0.3 1
+OBS 4532 5 14 0 1 -113 479 0.6 0.2 1
+OBS 4613 6 11 0 1 -271 -532 2.3 -0.8 1
+OBS 4689 6 10 0 1 -118 -515 0.9 0.4 1
+OBS 4800 0 16 0 1 -127 -40 -4.2 -1.1 1
+OBS 4800 1 16 0 4 -66 90 -0.3 -1.6 0
+OBS 4800 2 2 0 4 355 83 2.5 -0.3 0
+OBS 4800 4 17 0 1 32 -209 -5.4 -0.8 1
+OBS 4800 5 14 0 1 -429 408 3.3 -0.6 1
+OBS 4800 6 10 0 1 -67 -531 0.8 -0.9 1
+OBS 4800 7 19 0 1 211 -377 -5.0 4.8 1
+OBS 4800 8 18 0 4 554 -340 -2.0 1.8 1
+OBS 4800 9 12 0 2 -419 327 2.2 1.3 1
+OBS 4829 6 9 0 1 -141 -517 -2.1 0.7 1
+OBS 4978 9 11 0 1 -234 426 0.4 1.4 1
+OBS 5063 2 1 0 4 802 274 0.4 1.0 0
+OBS 5078 5 13 0 1 -110 460 -4.2 0.1 1
+OBS 5100 0 16 0 1 -41 119 -1.6 -1.8 1
+OBS 5100 1 16 0 4 -57 154 -1.1 -1.5 0
+OBS 5100 2 1 0 4 783 248 -1.1 -1.7 0
+OBS 5100 4 17 0 1 200 104 1.1 3.4 1
+OBS 5100 5 13 0 1 -118 477 -1.0 -0.6 1
+OBS 5100 6 9 0 1 -189 -532 0.9 0.8 1
+OBS 5100 7 19 0 1 169 -244 6.0 5.4 1
+OBS 5100 8 18 0 4 226 58 -1.0 -1.2 1
+OBS 5100 9 11 0 2 -531 163 7.8 -4.9 1
+OBS 5110 6 8 0 1 -172 -535 1.6 -1.4 1
+OBS 5138 7 18 0 1 187 -66 -0.9 0.8 1
+OBS 5164 6 7 0 1 -123 -512 -1.8 -0.2 1
+OBS 5311 8 17 0 4 66 -92 -0.9 1.2 1
+OBS 5368 0 15 0 1 -376 266 1.1 0.5 1
+OBS 5377 7 17 0 1 609 -260 -2.0 3.9 1
+OBS 5398 0 14 0 1 -380 263 0.3 0.0 1
+count_reachable v3 = 1624792
+	* Round n°1/1: 
+		rescued nb: 7/10 (disposal score: 70.0%), health return score: 45.2%, time score: 0.0%, explor. score: 98.5% (weight 0%), walltime elapsed: 174s/180s, elapse timestep: 5400/5400 steps, time to dispose all: 0 steps.
+		score breakdown (competition weights): disposal 70.0 x 60% = 42.0, health 45.2 x 20% = 9.0, time 0.0 x 20% = 0.0, total 51.0/100.
+		percentage of drones destroyed: 10.0 %, mean percentage of drones health : 45.2 %.
+		round score: 51.0%, frequency: 31.01 steps/s.
+--------------------------------------------------------------------------------------------

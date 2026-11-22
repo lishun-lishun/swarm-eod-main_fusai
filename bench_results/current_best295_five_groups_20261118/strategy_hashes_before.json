@@ -1,0 +1,15 @@
+{
+  "blue_nav.py": "fa131a72b529884610c2f07a5e7a502ca43435fbbcc83b90de3883e0012fd847",
+  "blue_policy.py": "9b83ed2c0386b69d490fceb74ccfc83b9bbe1ef1679d7a73e7f29ebfe4f307dd",
+  "coverage.py": "7ef5e64ed06c8529f570d9035a4bcc1c401b6e2952f8a57dbfbed09aa945cecc",
+  "image_ref.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "localization.py": "ebda2d187347be9ceee74c4d2a05f80129489a5929421938022d4b750266c9d7",
+  "motion_control.py": "9dcf8c0a30e9740762317361d7c49c907113d13c190cd853c0377c8a0ca15af6",
+  "my_drone_eval.py": "fa0a0825b7a2068300dd2e9df06abc8bd9f7d8e89a8d70dc656aab2415ae2d72",
+  "my_drone_place_example.py": "2a6d33ea81b5caf29342d02488c91fa7c826abb1f37db0d1543e4b90cc08e1c4",
+  "my_drone_rescue.py": "0ad0faefb60afe17b7c53bb934c916a94e95d3c7c3ed58fa744421ec200e489d",
+  "my_drone_rescue_example.py": "36f451bff5bdd419fb5886bdacb10705c9238a58c2e421afb9eb42ca2badb531",
+  "nav_grid.py": "38e2db01303ef03b5fc633056dcdc0a31942df23b4f861672325bd99b733a5e7",
+  "team_info.yml": "7489fa9e28b5ddb148d3e874d5bf8d511aaae35b6365b69d17b5a1ea2f632290",
+  "__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

@@ -187,11 +187,10 @@ class MyDronePlaceExample(DroneAbstract):
                     not_zero.append(i)
 
         ready = self._all_teammates_report_zero_inventory()
-        in_range = len(self.communicator.comms_in_range)
         print(
             f"[Drone0] 库存汇总 step={self.elapsed_timestep} "
             f"已确认={len(self._peer_inventory)}/{n} "
-            f"通信范围内={in_range} 可提交={ready}\n"
+            f"可提交={ready}\n"
             + "\n".join(lines)
         )
         if missing:

@@ -1,0 +1,2 @@
+﻿map,case,seed,base_disposed,trial_disposed,base_destroyed_count,trial_destroyed_count,base_score,trial_score,base_steps,trial_steps,base_mean_health_percent,trial_mean_health_percent,base_log,trial_log
+MapMedium02,cluster,303,10,10,0,1,79.6,69.5,1564,3330,72.8,47.2,E:\code\fusai\swarm-eod-main\bench_results\team861_full_224_current\MapMedium02_cluster_seed303.log,E:\code\fusai\swarm-eod-main\bench_results\team861_low_health_recovery\medium_trace_combined\MapMedium02_cluster_seed303.log

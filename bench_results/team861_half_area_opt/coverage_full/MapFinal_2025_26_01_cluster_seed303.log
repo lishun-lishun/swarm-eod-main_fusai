@@ -1,0 +1,26 @@
+The team 'SICT' n°861, with lishun, liudongying, chengongbo, fengsifang
+Default team mode: <not set>
+Evaluation Plan (from file: MapFinal_2025_26_01.yml):
+==================================================
+Config ID: 1
+  Map: MapFinal_2025_26_01
+  Zones: none
+  Number of Rounds: 1
+  Weight: 1
+  Team mode (scenario): rescue
+--------------------------------------------------
+Default team mode: <not set>
+Time score: full marks at or before 30% of the timestep limit
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+* Map: MapFinal_2025_26_01, mode: rescue, special zones: none, round: 1/1
+BENCH_ZONES MapFinal_2025_26_01 {"counts": {"gps": 2, "com": 2}, "overlay": [{"area_ratio": 0.6634, "center": [-528.81, -56.76], "kind": "gps", "reference": "map_fraction", "reference_size": [340, 253], "size": [277, 206]}, {"area_ratio": 0.6634, "center": [202.42, -441.18], "kind": "gps", "reference": "map_fraction", "reference_size": [340, 253], "size": [277, 206]}, {"area_ratio": 0.6647, "center": [40.21, 191.54], "kind": "com", "reference": "NoComZone", "reference_size": [618, 997], "size": [647, 633]}, {"area_ratio": 0.6647, "center": [-366.3, 27.37], "kind": "com", "reference": "NoComZone", "reference_size": [618, 997], "size": [647, 633]}]}
+count_reachable v3 = 1717335
+	* Round n°1/1: 
+		rescued nb: 10/10 (disposal score: 100.0%), health return score: 0.0%, time score: 100.0%, explor. score: 99.1% (weight 0%), walltime elapsed: 42s/1440s, elapse timestep: 1709/7200 steps, time to dispose all: 1709 steps.
+		score breakdown (competition weights): disposal 100.0 x 60% = 60.0, health 0.0 x 20% = 0.0, time 100.0 x 20% = 20.0, total 80.0/100.
+		percentage of drones destroyed: 0.0 %, mean percentage of drones health : 84.4 %.
+		round score: 80.0%, frequency: 40.79 steps/s.
+--------------------------------------------------------------------------------------------

@@ -1,0 +1,26 @@
+[
+  {
+    "map": "MapFinal_2025_26_01",
+    "case": "cluster",
+    "seed": 303,
+    "exit_code": 0,
+    "log": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_sensor_continuity\\coverage_replay\\MapFinal_2025_26_01_cluster_seed303.log",
+    "disposed": 10,
+    "total_bombs": 10,
+    "health_score": 8.8,
+    "time_score": 100.0,
+    "exploration_score": 98.6,
+    "walltime_seconds": 39.0,
+    "steps": 1546,
+    "full_disposal_step": 1546,
+    "score": 81.8,
+    "destroyed_percent": 0.0,
+    "mean_health_percent": 91.2,
+    "destroyed_count": 0,
+    "crashed": false,
+    "walltime_limit_reached": false,
+    "baseline_disposed": 10,
+    "baseline_destroyed": 0,
+    "baseline_score": 74.2
+  }
+]

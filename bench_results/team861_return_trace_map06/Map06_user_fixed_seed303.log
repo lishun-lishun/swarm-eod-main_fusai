@@ -1,0 +1,61 @@
+The team 'SICT' n��861, with lishun, liudongying, chengongbo, fengsifang
+Default team mode: <not set>
+Evaluation Plan (from file: config_Map06.yml):
+==================================================
+Config ID: 1
+  Map: Map06
+  Zones: no_com_zone
+  Number of Rounds: 1
+  Weight: 1
+  Team mode (scenario): rescue
+  Number of drones (scenario): 10
+--------------------------------------------------
+Default team mode: <not set>
+Time score: full marks at or before 30% of the timestep limit
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+* Map: Map06, mode: rescue, special zones: no_com_zone, round: 1/1
+DIAG_PICK 2 275 (-808.3, -510.1) gps True
+DIAG_PICK 6 346 (672.4, 374.2) gps True
+DIAG_PICK 5 413 (-555.0, -91.2) gps True
+DIAG_PICK 4 432 (-811.0, -291.3) gps True
+DIAG_PICK 0 461 (-713.1, 130.2) gps True
+DIAG_PICK 8 572 (-296.2, 498.9) gps True
+DIAG_DROP 6 806 (690.3, 129.2) gps True
+DIAG_PICK 7 876 (-494.3, -523.3) gps True
+DIAG_DROP 5 970 (687.4, -79.2) gps True
+DIAG_DROP 2 985 (711.2, -101.7) gps True
+DIAG_DROP 0 1116 (681.4, 110.3) gps True
+DIAG_DROP 4 1153 (701.1, 73.0) gps True
+DIAG_DROP 8 1245 (700.2, 101.3) gps True
+DIAG_DROP 7 1588 (697.6, -81.7) gps True
+DIAG_PICK 9 2936 (-415.4, -339.9) gps True
+DIAG_RETURN 9 3000 xy (-453.5, -339.4) v (-1.8, 0.2) gps True dc_dist 1190.3 state 4 wp (-486.0, -342.0) nwp 13 bc 1
+DIAG_PICK 1 3096 (-593.0, 503.0) gps True
+DIAG_RETURN 1 3200 xy (-593.1, 477.9) v (0.3, -0.1) gps True dc_dist 1358.1 state 4 wp (-590.0, 442.0) nwp 10 bc 1
+DIAG_RETURN 9 3200 xy (-494.4, -338.6) v (-0.1, -0.0) gps True dc_dist 1230.2 state 4 wp None nwp 0 bc 1
+DIAG_RETURN 1 3400 xy (-442.1, 429.1) v (2.8, -0.6) gps True dc_dist 1199.5 state 4 wp (-238.0, 402.0) nwp 7 bc 1
+DIAG_RETURN 9 3400 xy (-487.7, -344.5) v (-1.0, -0.2) gps True dc_dist 1224.8 state 4 wp (-518.0, -342.0) nwp 11 bc 1
+DIAG_RETURN 1 3600 xy (6.0, 338.5) v (2.4, -2.1) gps True dc_dist 744.1 state 4 wp (442.0, -22.0) nwp 4 bc 1
+DIAG_RETURN 9 3600 xy (-508.5, -333.2) v (-0.5, 0.2) gps True dc_dist 1242.8 state 4 wp (-542.0, -334.0) nwp 10 bc 1
+DIAG_RETURN 1 3800 xy (525.4, 62.3) v (2.6, 0.9) gps True dc_dist 184.5 state 4 wp (674.0, 82.0) nwp 2 bc 1
+DIAG_RETURN 9 3800 xy (-498.0, -337.6) v (-0.0, -0.0) gps True dc_dist 1233.4 state 4 wp None nwp 0 bc 1
+DIAG_DROP 1 3858 (691.0, 85.2) gps True
+DIAG_RETURN 9 4000 xy (-497.4, -345.7) v (0.9, -0.4) gps True dc_dist 1234.5 state 4 wp (-534.0, -342.0) nwp 11 bc 1
+DIAG_RETURN 9 4200 xy (-515.7, -328.4) v (0.8, 0.2) gps True dc_dist 1248.9 state 4 wp None nwp 0 bc 1
+Drone 0 destroyed, too much collision !
+DIAG_RETURN 9 4400 xy (-487.3, -337.6) v (1.2, -0.3) gps True dc_dist 1223.0 state 4 wp (-446.0, -342.0) nwp 16 bc 1
+DIAG_RETURN 9 4600 xy (-297.8, -338.5) v (0.5, -0.1) gps True dc_dist 1038.7 state 4 wp (-262.0, -326.0) nwp 13 bc 1
+DIAG_RETURN 9 4800 xy (-485.0, -337.8) v (-0.1, 0.1) gps True dc_dist 1220.8 state 4 wp (-518.0, -334.0) nwp 12 bc 1
+DIAG_RETURN 9 5000 xy (-511.8, -337.1) v (-0.0, 0.0) gps True dc_dist 1246.8 state 4 wp (-542.0, -342.0) nwp 10 bc 1
+DIAG_RETURN 9 5200 xy (-499.3, -344.2) v (0.0, -0.1) gps True dc_dist 1236.1 state 4 wp (-534.0, -342.0) nwp 11 bc 1
+DIAG_RETURN 9 5400 xy (-477.0, -343.5) v (0.4, -0.4) gps True dc_dist 1214.2 state 4 wp (-510.0, -334.0) nwp 12 bc 1
+count_reachable v3 = 1714756
+	* Round n��1/1: 
+		rescued nb: 8/10 (disposal score: 80.0%), health return score: 49.2%, time score: 0.0%, explor. score: 100.0% (weight 0%), walltime elapsed: 137s/180s, elapse timestep: 5400/5400 steps, time to dispose all: 0 steps.
+		score breakdown (competition weights): disposal 80.0 x 60% = 48.0, health 49.2 x 20% = 9.8, time 0.0 x 20% = 0.0, total 57.8/100.
+		percentage of drones destroyed: 10.0 %, mean percentage of drones health : 49.2 %.
+		round score: 57.8%, frequency: 39.41 steps/s.
+--------------------------------------------------------------------------------------------

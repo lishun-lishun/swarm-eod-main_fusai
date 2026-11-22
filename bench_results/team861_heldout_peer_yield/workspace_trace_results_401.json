@@ -1,0 +1,21 @@
+[
+  {
+    "scene": "junction",
+    "seed": 401,
+    "exit_code": 0,
+    "log": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_heldout_peer_yield\\workspace_trace_junction_401.log",
+    "disposed": 10,
+    "total_bombs": 10,
+    "health_score": 86.8,
+    "time_score": 95.8,
+    "exploration_score": 100.0,
+    "walltime_seconds": 42.0,
+    "steps": 2373,
+    "full_disposal_step": 2373,
+    "score": 96.5,
+    "destroyed_percent": 0.0,
+    "mean_health_percent": 86.8,
+    "destroyed_count": 0,
+    "crashed": false
+  }
+]

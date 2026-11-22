@@ -1,0 +1,114 @@
+{
+  "MapFinal2022_23": {
+    "fraction": 0.49904913159448616,
+    "map_size": [
+      1819,
+      1350
+    ],
+    "zone_area_sum": 1225490
+  },
+  "MapFinal_2023_24_01": {
+    "fraction": 0.4983818181818182,
+    "map_size": [
+      1700,
+      1100
+    ],
+    "zone_area_sum": 931974
+  },
+  "MapFinal_2023_24_02": {
+    "fraction": 0.09937540106951871,
+    "map_size": [
+      1700,
+      1100
+    ],
+    "zone_area_sum": 185832
+  },
+  "MapFinal_2023_24_03": {
+    "fraction": 0.49943101604278073,
+    "map_size": [
+      1700,
+      1100
+    ],
+    "zone_area_sum": 933936
+  },
+  "MapFinal_2024_25_01": {
+    "fraction": 0.49930267379679144,
+    "map_size": [
+      1700,
+      1100
+    ],
+    "zone_area_sum": 933696
+  },
+  "MapFinal_2024_25_02": {
+    "fraction": 0.10155080213903743,
+    "map_size": [
+      1700,
+      1100
+    ],
+    "zone_area_sum": 189900
+  },
+  "MapFinal_2024_25_03": {
+    "fraction": 0.4989385026737968,
+    "map_size": [
+      1700,
+      1100
+    ],
+    "zone_area_sum": 933015
+  },
+  "MapFinal_2025_26_01": {
+    "fraction": 0.4990513368983957,
+    "map_size": [
+      1700,
+      1100
+    ],
+    "zone_area_sum": 933226
+  },
+  "MapFinal_2025_26_02": {
+    "fraction": 0.058158288770053475,
+    "map_size": [
+      1700,
+      1100
+    ],
+    "zone_area_sum": 108756
+  },
+  "MapFinal_2025_26_03": {
+    "fraction": 0.4989385026737968,
+    "map_size": [
+      1700,
+      1100
+    ],
+    "zone_area_sum": 933015
+  },
+  "MapIntermediate02": {
+    "fraction": 0.49871333333333334,
+    "map_size": [
+      1200,
+      500
+    ],
+    "zone_area_sum": 299228
+  },
+  "MapMedium01": {
+    "fraction": 0.49901423877327494,
+    "map_size": [
+      1660,
+      1122
+    ],
+    "zone_area_sum": 929424
+  },
+  "MapMedium02": {
+    "fraction": 0.49865708295896977,
+    "map_size": [
+      1113,
+      750
+    ],
+    "zone_area_sum": 416254
+  },
+  "MapRandom": {
+    "fraction": 0.3682742857142857,
+    "map_size": [
+      1500,
+      700
+    ],
+    "zone_area_sum": 386688
+  }
+}

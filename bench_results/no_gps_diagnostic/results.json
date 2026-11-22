@@ -1,0 +1,25 @@
+[
+  {
+    "map": "Map08",
+    "case": "user_fixed",
+    "repeat": 1,
+    "bombs_file": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_user_v6\\Map08_user_fixed.json",
+    "log": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\no_gps_diagnostic\\Map08_user_fixed_r1.log",
+    "exit_code": 0,
+    "timed_out": false,
+    "runner_seconds": 136.811,
+    "disposed": 10,
+    "total_bombs": 10,
+    "health_score": 54.0,
+    "time_score": 12.8,
+    "exploration_score": 100.0,
+    "walltime_seconds": 134.0,
+    "steps": 4917,
+    "full_disposal_step": 4917,
+    "score": 73.4,
+    "destroyed_percent": 0.0,
+    "mean_health_percent": 54.0,
+    "destroyed_count": 0,
+    "crashed": false
+  }
+]

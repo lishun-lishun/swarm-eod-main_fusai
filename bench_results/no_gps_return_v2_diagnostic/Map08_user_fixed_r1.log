@@ -1,0 +1,106 @@
+The team 'SkySaviors' n��6, with tom, alice, bob, lea
+Default team mode: <not set>
+Evaluation Plan (from file: config_Map08.yml):
+==================================================
+Config ID: 1
+  Map: Map08
+  Zones: no_gps_zone
+  Number of Rounds: 1
+  Weight: 1
+  Team mode (scenario): rescue
+  Number of drones (scenario): 10
+--------------------------------------------------
+Default team mode: <not set>
+Time score: full marks at or before 30% of the timestep limit
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+* Map: Map08, mode: rescue, special zones: no_gps_zone, round: 1/1
+NGDBG id=0 t=600 pos=(90,-25) gps=True state=2 carry=0 live=1 done=0 ret=0 bc=1 goal=(-139.4941699510175, -418.54053757303154)
+NGDBG id=1 t=600 pos=(263,-426) gps=False state=1 carry=0 live=1 done=0 ret=0 bc=4 goal=(350.0, -419.0)
+NGDBG id=2 t=600 pos=(-285,-531) gps=True state=4 carry=1 live=0 done=0 ret=0 bc=1 goal=(649.2849494786084, 510.35321811665835)
+NGDBG id=3 t=600 pos=(-410,-494) gps=True state=1 carry=0 live=0 done=0 ret=0 bc=1 goal=(-474.0, -547.0)
+NGDBG id=4 t=600 pos=(-234,257) gps=False state=1 carry=0 live=1 done=0 ret=0 bc=4 goal=(182.0, 221.0)
+NGDBG id=5 t=600 pos=(200,-48) gps=False state=1 carry=0 live=1 done=0 ret=0 bc=3 goal=(198.0, 61.0)
+NGDBG id=6 t=600 pos=(0,-75) gps=True state=2 carry=0 live=1 done=0 ret=0 bc=1 goal=(-139.64479333988612, -418.78819880278996)
+NGDBG id=7 t=600 pos=(-117,197) gps=True state=2 carry=0 live=1 done=0 ret=0 bc=1 goal=(-140.1330547848291, -419.79772704370987)
+NGDBG id=8 t=600 pos=(91,-378) gps=True state=2 carry=0 live=1 done=0 ret=0 bc=1 goal=(-138.90000094773546, -417.40000053922654)
+NGDBG id=9 t=600 pos=(-131,-487) gps=True state=4 carry=1 live=0 done=0 ret=0 bc=1 goal=(649.9280354243623, 509.3581570344574)
+NGDBG id=0 t=1200 pos=(550,145) gps=True state=1 carry=0 live=0 done=0 ret=0 bc=1 goal=(574.0, -43.0)
+NGDBG id=1 t=1200 pos=(677,265) gps=True state=4 carry=1 live=0 done=0 ret=0 bc=1 goal=(648.851860943235, 511.08405091135234)
+NGDBG id=2 t=1200 pos=(-339,357) gps=False state=4 carry=1 live=0 done=0 ret=0 bc=1 goal=(648.2566160309999, 511.9092717479972)
+NGDBG id=3 t=1200 pos=(334,30) gps=False state=1 carry=0 live=0 done=0 ret=0 bc=1 goal=(470.0, -163.0)
+NGDBG id=4 t=1200 pos=(285,113) gps=True state=1 carry=0 live=0 done=0 ret=0 bc=1 goal=(382.0, 181.0)
+NGDBG id=5 t=1200 pos=(509,-162) gps=False state=4 carry=1 live=0 done=0 ret=5 bc=6 goal=(506.87130774824664, -207.97756296145275)
+NGDBG id=6 t=1200 pos=(-385,165) gps=False state=1 carry=0 live=0 done=0 ret=0 bc=7 goal=(-226.0, 109.0)
+NGDBG id=7 t=1200 pos=(-127,-438) gps=True state=1 carry=0 live=0 done=0 ret=0 bc=1 goal=(-210.0, -395.0)
+NGDBG id=8 t=1200 pos=(-290,-538) gps=True state=4 carry=1 live=0 done=0 ret=0 bc=1 goal=(645.1000760074797, 498.49990933800655)
+NGDBG id=9 t=1200 pos=(63,-131) gps=True state=4 carry=1 live=0 done=0 ret=0 bc=1 goal=(648.3495428530769, 511.79780072483936)
+NGDBG id=0 t=1800 pos=(287,15) gps=False state=4 carry=1 live=0 done=0 ret=0 bc=1 goal=(648.0994453884791, 512.100942147353)
+NGDBG id=1 t=1800 pos=(15,-197) gps=True state=4 carry=1 live=0 done=0 ret=0 bc=1 goal=(648.1042387740437, 512.0942723735479)
+NGDBG id=2 t=1800 pos=(-685,527) gps=True state=1 carry=0 live=0 done=1 ret=0 bc=1 goal=(-762.0, 541.0)
+NGDBG id=3 t=1800 pos=(649,-272) gps=False state=4 carry=1 live=0 done=0 ret=0 bc=5 goal=(648.0987173188196, 512.1048916151634)
+NGDBG id=4 t=1800 pos=(195,5) gps=False state=4 carry=1 live=0 done=0 ret=0 bc=1 goal=(648.0965236903696, 512.1090299058687)
+NGDBG id=5 t=1800 pos=(332,247) gps=True state=4 carry=1 live=1 done=0 ret=0 bc=1 goal=(647.8164690574116, 512.5678693748173)
+NGDBG id=6 t=1800 pos=(637,-528) gps=True state=4 carry=1 live=0 done=0 ret=0 bc=1 goal=(645.3000009738143, 343.6999997637868)
+NGDBG id=7 t=1800 pos=(99,-137) gps=True state=1 carry=0 live=0 done=0 ret=0 bc=1 goal=(182.0, 181.0)
+NGDBG id=8 t=1800 pos=(-54,471) gps=True state=4 carry=1 live=0 done=0 ret=0 bc=1 goal=(641.546855570695, 497.92268213695627)
+NGDBG id=9 t=1800 pos=(-474,280) gps=False state=4 carry=1 live=0 done=0 ret=0 bc=1 goal=(648.3495428530769, 511.79780072483936)
+NGDBG id=0 t=2400 pos=(-503,254) gps=False state=4 carry=1 live=1 done=0 ret=0 bc=1 goal=(648.1899331847201, 512.0101056126218)
+NGDBG id=1 t=2400 pos=(-632,326) gps=False state=4 carry=1 live=1 done=0 ret=0 bc=1 goal=(648.1007544107123, 512.098980605546)
+NGDBG id=2 t=2400 pos=(641,117) gps=True state=2 carry=0 live=1 done=1 ret=0 bc=1 goal=(216.80000000000007, 281.9)
+NGDBG id=3 t=2400 pos=(-507,-141) gps=True state=4 carry=1 live=1 done=0 ret=0 bc=1 goal=(648.1975938006027, 512.0024919377947)
+NGDBG id=4 t=2400 pos=(-445,295) gps=False state=4 carry=1 live=1 done=0 ret=0 bc=1 goal=(648.1678953436791, 512.032845971932)
+NGDBG id=5 t=2400 pos=(-294,-6) gps=False state=4 carry=1 live=1 done=0 ret=0 bc=1 goal=(648.1441011388505, 512.0429880302205)
+NGDBG id=6 t=2400 pos=(140,-207) gps=False state=4 carry=1 live=1 done=0 ret=0 bc=1 goal=(645.3000001299886, 343.6999999684694)
+NGDBG id=7 t=2400 pos=(235,256) gps=True state=4 carry=1 live=0 done=0 ret=0 bc=1 goal=(645.2999999999997, 343.7)
+NGDBG id=8 t=2400 pos=(-433,226) gps=False state=2 carry=0 live=1 done=1 ret=0 bc=3 goal=(216.80000000000007, 281.9)
+NGDBG id=9 t=2400 pos=(196,430) gps=True state=4 carry=1 live=0 done=0 ret=0 bc=1 goal=(648.2095794811815, 511.983391734938)
+NGDBG id=0 t=3000 pos=(-503,288) gps=False state=4 carry=1 live=0 done=0 ret=0 bc=1 goal=(645.8912287984471, 513.2056719126507)
+NGDBG id=1 t=3000 pos=(-492,293) gps=False state=1 carry=0 live=0 done=1 ret=0 bc=6 goal=(-250.0, 173.0)
+NGDBG id=2 t=3000 pos=(617,-380) gps=False state=1 carry=0 live=0 done=1 ret=0 bc=3 goal=(782.0, -379.0)
+NGDBG id=3 t=3000 pos=(543,494) gps=True state=1 carry=0 live=0 done=1 ret=0 bc=1 goal=(-250.0, 173.0)
+NGDBG id=4 t=3000 pos=(-375,329) gps=False state=4 carry=1 live=0 done=0 ret=0 bc=1 goal=(643.7004244974064, 500.99366184025223)
+NGDBG id=5 t=3000 pos=(-422,182) gps=False state=4 carry=1 live=0 done=0 ret=0 bc=1 goal=(640.3384473439648, 481.7763745295871)
+NGDBG id=6 t=3000 pos=(-114,478) gps=True state=4 carry=1 live=0 done=0 ret=0 bc=1 goal=(645.3000000231351, 343.6999999943883)
+NGDBG id=7 t=3000 pos=(-78,-41) gps=True state=4 carry=1 live=0 done=0 ret=0 bc=1 goal=(645.2999999999997, 343.7)
+NGDBG id=8 t=3000 pos=(-308,260) gps=False state=1 carry=0 live=0 done=1 ret=0 bc=3 goal=(782.0, -139.0)
+NGDBG id=9 t=3000 pos=(-316,151) gps=False state=1 carry=0 live=0 done=1 ret=0 bc=6 goal=(-226.0, 149.0)
+NGDBG id=0 t=3600 pos=(52,453) gps=True state=4 carry=1 live=0 done=0 ret=0 bc=1 goal=(648.1433681909941, 498.5388698102636)
+NGDBG id=1 t=3600 pos=(762,162) gps=True state=1 carry=0 live=0 done=1 ret=0 bc=1 goal=(806.0, 261.0)
+NGDBG id=2 t=3600 pos=(793,-508) gps=True state=1 carry=0 live=0 done=1 ret=0 bc=1 goal=(534.0, -547.0)
+NGDBG id=3 t=3600 pos=(-317,270) gps=False state=1 carry=0 live=0 done=1 ret=0 bc=6 goal=(-226.0, 149.0)
+NGDBG id=4 t=3600 pos=(-267,331) gps=False state=4 carry=1 live=0 done=0 ret=0 bc=1 goal=(648.6575199571871, 498.2542905153458)
+NGDBG id=5 t=3600 pos=(332,438) gps=True state=1 carry=0 live=0 done=1 ret=0 bc=1 goal=(710.0, -371.0)
+NGDBG id=6 t=3600 pos=(-278,-178) gps=True state=1 carry=0 live=0 done=1 ret=0 bc=1 goal=(158.0, -547.0)
+NGDBG id=7 t=3600 pos=(-391,258) gps=False state=4 carry=1 live=0 done=0 ret=0 bc=1 goal=(646.2956998134655, 512.99769638012)
+NGDBG id=8 t=3600 pos=(170,-310) gps=False state=1 carry=0 live=0 done=1 ret=0 bc=2 goal=(-250.0, -355.0)
+NGDBG id=9 t=3600 pos=(202,-363) gps=False state=1 carry=0 live=0 done=1 ret=0 bc=3 goal=(806.0, 13.0)
+NGDBG id=0 t=4200 pos=(-206,314) gps=False state=1 carry=0 live=0 done=1 ret=0 bc=7 goal=(-274.0, 133.0)
+NGDBG id=1 t=4200 pos=(-405,223) gps=False state=1 carry=0 live=0 done=1 ret=0 bc=6 goal=(-226.0, 173.0)
+NGDBG id=2 t=4200 pos=(236,90) gps=True state=1 carry=0 live=0 done=1 ret=0 bc=1 goal=(-298.0, -339.0)
+NGDBG id=3 t=4200 pos=(676,-473) gps=True state=1 carry=0 live=0 done=1 ret=0 bc=1 goal=(534.0, -547.0)
+NGDBG id=4 t=4200 pos=(-182,397) gps=False state=4 carry=1 live=0 done=0 ret=0 bc=1 goal=(648.6575199571871, 498.2542905153458)
+NGDBG id=5 t=4200 pos=(63,-80) gps=True state=1 carry=0 live=0 done=1 ret=0 bc=1 goal=(-226.0, 125.0)
+NGDBG id=6 t=4200 pos=(423,-423) gps=False state=1 carry=0 live=0 done=1 ret=0 bc=6 goal=(150.0, -547.0)
+NGDBG id=7 t=4200 pos=(-394,188) gps=False state=4 carry=1 live=0 done=0 ret=0 bc=1 goal=(646.2956998134655, 512.99769638012)
+NGDBG id=8 t=4200 pos=(-640,268) gps=False state=1 carry=0 live=0 done=1 ret=0 bc=9 goal=(758.0, 357.0)
+NGDBG id=9 t=4200 pos=(295,-95) gps=False state=1 carry=0 live=0 done=1 ret=0 bc=4 goal=(518.0, -547.0)
+NGDBG id=0 t=4800 pos=(-271,261) gps=False state=1 carry=0 live=0 done=1 ret=0 bc=7 goal=(-58.0, -307.0)
+NGDBG id=1 t=4800 pos=(-290,159) gps=False state=1 carry=0 live=0 done=1 ret=0 bc=12 goal=(-226.0, 221.0)
+NGDBG id=2 t=4800 pos=(-504,43) gps=False state=1 carry=0 live=0 done=1 ret=0 bc=7 goal=(-546.0, -43.0)
+NGDBG id=3 t=4800 pos=(53,-203) gps=True state=1 carry=0 live=0 done=1 ret=0 bc=1 goal=(-58.0, -387.0)
+NGDBG id=4 t=4800 pos=(333,528) gps=True state=1 carry=0 live=0 done=1 ret=0 bc=1 goal=(662.0, 541.0)
+NGDBG id=5 t=4800 pos=(-333,95) gps=False state=1 carry=0 live=0 done=1 ret=0 bc=5 goal=(-202.0, 61.0)
+NGDBG id=6 t=4800 pos=(-478,-77) gps=False state=1 carry=0 live=0 done=1 ret=0 bc=6 goal=(-202.0, 157.0)
+NGDBG id=7 t=4800 pos=(-566,264) gps=False state=4 carry=1 live=0 done=0 ret=0 bc=1 goal=(646.3850811450743, 512.9549542138176)
+NGDBG id=8 t=4800 pos=(-196,272) gps=False state=1 carry=0 live=0 done=1 ret=0 bc=5 goal=(758.0, 357.0)
+NGDBG id=9 t=4800 pos=(71,-453) gps=True state=1 carry=0 live=0 done=1 ret=0 bc=1 goal=(-82.0, -411.0)
+count_reachable v3 = 1624793
+	* Round n��1/1: 
+		rescued nb: 10/10 (disposal score: 100.0%), health return score: 58.0%, time score: 3.7%, explor. score: 100.0% (weight 0%), walltime elapsed: 140s/180s, elapse timestep: 5262/5400 steps, time to dispose all: 5262 steps.
+		score breakdown (competition weights): disposal 100.0 x 60% = 60.0, health 58.0 x 20% = 11.6, time 3.7 x 20% = 0.7, total 72.3/100.
+		percentage of drones destroyed: 0.0 %, mean percentage of drones health : 58.0 %.
+		round score: 72.3%, frequency: 37.65 steps/s.
+--------------------------------------------------------------------------------------------

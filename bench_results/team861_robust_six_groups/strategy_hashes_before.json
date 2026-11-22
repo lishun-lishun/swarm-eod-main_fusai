@@ -1,0 +1,54 @@
+[
+  {
+    "Path": "E:\\code\\fusai\\swarm-eod-main\\src\\swarm_rescue\\solutions\\__init__.py",
+    "Hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+  },
+  {
+    "Path": "E:\\code\\fusai\\swarm-eod-main\\src\\swarm_rescue\\solutions\\blue_nav.py",
+    "Hash": "FA131A72B529884610C2F07A5E7A502CA43435FBBCC83B90DE3883E0012FD847"
+  },
+  {
+    "Path": "E:\\code\\fusai\\swarm-eod-main\\src\\swarm_rescue\\solutions\\blue_policy.py",
+    "Hash": "9B83ED2C0386B69D490FCEB74CCFC83B9BBE1EF1679D7A73E7F29EBFE4F307DD"
+  },
+  {
+    "Path": "E:\\code\\fusai\\swarm-eod-main\\src\\swarm_rescue\\solutions\\coverage.py",
+    "Hash": "7EF5E64ED06C8529F570D9035A4BCC1C401B6E2952F8A57DBFBED09AA945CECC"
+  },
+  {
+    "Path": "E:\\code\\fusai\\swarm-eod-main\\src\\swarm_rescue\\solutions\\image_ref.txt",
+    "Hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+  },
+  {
+    "Path": "E:\\code\\fusai\\swarm-eod-main\\src\\swarm_rescue\\solutions\\localization.py",
+    "Hash": "EBDA2D187347BE9CEEE74C4D2A05F80129489A5929421938022D4B750266C9D7"
+  },
+  {
+    "Path": "E:\\code\\fusai\\swarm-eod-main\\src\\swarm_rescue\\solutions\\motion_control.py",
+    "Hash": "9DCF8C0A30E9740762317361D7C49C907113D13C190CD853C0377C8A0CA15AF6"
+  },
+  {
+    "Path": "E:\\code\\fusai\\swarm-eod-main\\src\\swarm_rescue\\solutions\\my_drone_eval.py",
+    "Hash": "FA0A0825B7A2068300DD2E9DF06ABC8BD9F7D8E89A8D70DC656AAB2415AE2D72"
+  },
+  {
+    "Path": "E:\\code\\fusai\\swarm-eod-main\\src\\swarm_rescue\\solutions\\my_drone_place_example.py",
+    "Hash": "2A6D33EA81B5CAF29342D02488C91FA7C826ABB1F37DB0D1543E4B90CC08E1C4"
+  },
+  {
+    "Path": "E:\\code\\fusai\\swarm-eod-main\\src\\swarm_rescue\\solutions\\my_drone_rescue_example.py",
+    "Hash": "36F451BFF5BDD419FB5886BDACB10705C9238A58C2E421AFB9EB42CA2BADB531"
+  },
+  {
+    "Path": "E:\\code\\fusai\\swarm-eod-main\\src\\swarm_rescue\\solutions\\my_drone_rescue.py",
+    "Hash": "E1E0B0F17E57FB6A990157A672807671A04C48BE835285879694FB4D62D79622"
+  },
+  {
+    "Path": "E:\\code\\fusai\\swarm-eod-main\\src\\swarm_rescue\\solutions\\nav_grid.py",
+    "Hash": "7ED8EBD9A32B6A66F76DF6DB90A2CE2E3C901EDFFBEBBE04A5C411E2FE8C76E4"
+  },
+  {
+    "Path": "E:\\code\\fusai\\swarm-eod-main\\src\\swarm_rescue\\solutions\\team_info.yml",
+    "Hash": "7489FA9E28B5DDB148D3E874D5BF8D511AAAE35B6365B69D17B5A1EA2F632290"
+  }
+]

@@ -1,0 +1,70 @@
+The team 'SICT' n��861, with lishun, liudongying, chengongbo, fengsifang
+Default team mode: <not set>
+Evaluation Plan (from file: junction_config.yml):
+==================================================
+Config ID: 1
+  Map: MapJunction
+  Zones: no_gps_zone, no_com_zone
+  Number of Rounds: 1
+  Weight: 1
+  Team mode (scenario): rescue
+  Number of drones (scenario): 10
+--------------------------------------------------
+Default team mode: <not set>
+Time score: full marks at or before 30% of the timestep limit
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+* Map: MapJunction, mode: rescue, special zones: no_gps_zone, no_com_zone, round: 1/1
+TRACE 36 9 4 True (-511, -164) True (-27, -9) [(-493.46168949573587, -294.0172105147633)] 0
+TRACE 89 1 4 True (-267, -423) True (-14, -23) [(-342.3986940642924, -443.4480445777404)] 0
+TRACE 101 7 4 True (-441, 165) True (-26, 10) [(-450.0, -280.0)] 0
+TRACE 115 4 4 True (-471, 187) True (-26, 10) [(-450.0, -184.0)] 0
+TRACE 138 6 4 True (-102, -479) True (-5, -28) [(-362.0, -272.0)] 0
+TRACE 169 1 2 False (-336, -414) True (-26, 10) [(-338.0, -280.0)] 1
+TRACE 266 6 1 False (-341, -355) True None [(-90.0, -408.0)] 1
+TRACE 324 9 1 False (-494, -304) True None [(-290.0, -256.0)] 1
+TRACE 337 4 1 False (-478, -291) True None [(-450.0, -280.0)] 1
+TRACE 337 7 1 False (-434, -290) True None [(-386.0, -280.0)] 1
+TRACE 360 6 4 True (70, -406) True (5, -23) [(-74.0, -432.0)] 1
+TRACE 400 6 4 True (22, -407) True (5, -23) [(-82.0, -432.0)] 1
+TRACE 539 6 1 False (-346, -338) True None [(-90.0, -224.0)] 2
+TRACE 596 0 4 True (419, 268) True (23, 14) [(294.0, 120.0)] 0
+TRACE 606 3 4 True (374, 249) False (21, 14) [(310.0, 392.0)] 0
+TRACE 728 1 4 True (671, 17) True (37, -1) [(614.0, 160.0)] 1
+TRACE 744 8 4 True (356, -115) False (19, -5) [(326.0, 0.0)] 0
+TRACE 783 0 1 False (361, 214) False None [] 0
+TRACE 786 3 1 False (329, 260) True None [] 0
+TRACE 800 1 4 True (628, 85) False (37, -1) [(614.0, 160.0)] 1
+TRACE 800 8 4 True (327, 40) False (19, -5) [(310.0, 144.0)] 0
+TRACE 832 0 4 True (381, 224) False (23, 14) [(310.0, 64.0)] 0
+TRACE 833 3 4 True (363, 265) True (21, 14) [(318.0, 360.0)] 0
+TRACE 834 6 4 True (398, 267) True (21, 14) [(302.0, 376.0)] 2
+TRACE 912 2 4 True (552, -241) False (30, -14) [(182.0, -512.0)] 0
+TRACE 1004 0 1 False (344, 327) True None [] 0
+TRACE 1007 3 1 False (314, 354) True None [] 0
+TRACE 1010 6 1 False (322, 373) True None [] 2
+TRACE 1032 0 4 True (362, 341) True (23, 14) [(390.0, 264.0)] 0
+TRACE 1041 7 4 True (599, -384) True (33, -22) [(182.0, -72.0)] 1
+TRACE 1200 0 4 True (323, -37) False (23, 14) [(318.0, 88.0)] 0
+TRACE 1200 1 4 True (84, 343) True (37, -1) [(-50.0, 128.0)] 1
+TRACE 1200 2 4 True (114, -498) True (30, -14) [(-106.0, -416.0)] 0
+TRACE 1200 7 4 True (327, -97) False (33, -22) [(310.0, -32.0)] 1
+TRACE 1200 8 4 True (103, -302) True (19, -5) [(-50.0, -416.0)] 0
+TRACE 1373 2 2 False (-339, -316) True (19, 13) [(94.0, 128.0)] 1
+TRACE 1434 8 2 False (-343, -312) True (20, 20) [(-210.0, -168.0)] 1
+TRACE 1504 1 2 False (-339, -311) True (19, 13) [(-98.0, -120.0)] 2
+TRACE 1600 0 4 True (-123, 43) False (23, 14) [(-274.0, -112.0)] 0
+TRACE 1600 7 4 True (262, -457) True (33, -22) [(222.0, -360.0)] 1
+TRACE 1674 7 1 False (252, -466) True None [] 1
+TRACE 1693 7 4 True (314, -451) True (33, -22) [(342.0, -224.0)] 1
+TRACE 1784 0 2 False (-342, -299) True (19, 13) [(102.0, 352.0)] 1
+TRACE 2000 7 4 True (326, 357) True (33, -22) [(310.0, 424.0)] 1
+count_reachable v3 = 1445381
+	* Round n��1/1: 
+		rescued nb: 10/10 (disposal score: 100.0%), health return score: 86.8%, time score: 95.8%, explor. score: 100.0% (weight 0%), walltime elapsed: 42s/1440s, elapse timestep: 2373/7200 steps, time to dispose all: 2373 steps.
+		score breakdown (competition weights): disposal 100.0 x 60% = 60.0, health 86.8 x 20% = 17.4, time 95.8 x 20% = 19.2, total 96.5/100.
+		percentage of drones destroyed: 0.0 %, mean percentage of drones health : 86.8 %.
+		round score: 96.5%, frequency: 56.01 steps/s.
+--------------------------------------------------------------------------------------------

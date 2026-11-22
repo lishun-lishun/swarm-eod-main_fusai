@@ -1,4 +1,16 @@
-# Table of Content
+# Swarm-Rescue · SICT 861
+
+This repository contains the simulator, the competition controller, and the
+fixtures and results used to reproduce the team's evaluation. The active
+controller is under [src/swarm_rescue/solutions](src/swarm_rescue/solutions/).
+The current results come from the worktree source, while submission ZIPs are
+archived builds.
+
+- [Independent code review instructions](CODE_AGENT_PROMPT.md)
+- [Review brief with failure traces and evidence](TEAM861_AGENT_REVIEW_BRIEF.md)
+- [Current 224-round baseline](TEAM861_HALF_AREA_224_REPORT.md)
+
+## Table of Content
 
 - [Welcome to *Swarm-Rescue*](#welcome-to-swarm-rescue)
 - [The Competition](#the-competition)

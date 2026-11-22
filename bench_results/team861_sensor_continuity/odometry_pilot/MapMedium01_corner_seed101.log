@@ -1,0 +1,28 @@
+The team 'SICT' n°861, with lishun, liudongying, chengongbo, fengsifang
+Default team mode: <not set>
+Evaluation Plan (from file: MapMedium01.yml):
+==================================================
+Config ID: 1
+  Map: MapMedium01
+  Zones: kill_zone, no_com_zone, no_gps_zone
+  Number of Rounds: 1
+  Weight: 1
+  Team mode (scenario): rescue
+--------------------------------------------------
+Default team mode: <not set>
+Time score: full marks at or before 30% of the timestep limit
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+* Map: MapMedium01, mode: rescue, special zones: kill_zone, no_com_zone, no_gps_zone, round: 1/1
+Drone 3 destroyed, too much collision !
+Drone 0 destroyed, too much collision !
+Drone 2 destroyed, too much collision !
+count_reachable v3 = 1606253
+	* Round n°1/1: 
+		rescued nb: 10/10 (disposal score: 100.0%), health return score: 8.0%, time score: 32.2%, explor. score: 100.0% (weight 0%), walltime elapsed: 95s/1000s, elapse timestep: 3872/5000 steps, time to dispose all: 3872 steps.
+		score breakdown (competition weights): disposal 100.0 x 60% = 60.0, health 8.0 x 20% = 1.6, time 32.2 x 20% = 6.4, total 68.0/100.
+		percentage of drones destroyed: 30.0 %, mean percentage of drones health : 59.2 %.
+		round score: 68.0%, frequency: 40.64 steps/s.
+--------------------------------------------------------------------------------------------

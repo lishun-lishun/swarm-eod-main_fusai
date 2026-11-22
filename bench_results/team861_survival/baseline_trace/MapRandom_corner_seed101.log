@@ -1,0 +1,57 @@
+The team 'SICT' n°861, with lishun, liudongying, chengongbo, fengsifang
+Default team mode: <not set>
+Evaluation Plan (from file: MapRandom.yml):
+==================================================
+Config ID: 1
+  Map: MapRandom
+  Zones: none
+  Number of Rounds: 1
+  Weight: 1
+  Team mode (scenario): rescue
+--------------------------------------------------
+Default team mode: <not set>
+Time score: full marks at or before 30% of the timestep limit
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+* Map: MapRandom, mode: rescue, special zones: none, round: 1/1
+OBS 0 0 25 0 0 0 0 0.0 0.0 0
+OBS 0 1 25 0 0 0 0 0.0 0.0 0
+OBS 0 2 25 0 0 0 0 0.0 0.0 0
+OBS 0 3 25 0 0 0 0 0.0 0.0 0
+OBS 0 4 25 0 0 0 0 0.0 0.0 0
+OBS 0 5 25 0 0 0 0 0.0 0.0 0
+OBS 0 6 25 0 0 0 0 0.0 0.0 0
+OBS 0 7 25 0 0 0 0 0.0 0.0 0
+OBS 0 8 25 0 0 0 0 0.0 0.0 0
+OBS 0 9 25 0 0 0 0 0.0 0.0 0
+OBS 300 0 25 0 2 28 -74 -1.6 0.6 1
+OBS 300 1 25 0 1 686 282 6.2 0.5 0
+OBS 300 2 25 0 4 -316 -256 -0.3 -0.2 0
+OBS 300 3 25 0 4 133 -141 -2.5 1.6 0
+OBS 300 4 25 0 4 -510 -81 -2.3 -1.8 0
+OBS 300 5 25 0 4 387 -60 -1.0 -0.5 0
+OBS 300 6 25 0 5 -56 52 -0.4 -0.2 0
+OBS 300 7 25 0 4 -349 -51 -1.0 1.1 0
+OBS 300 8 25 0 4 -571 136 0.7 1.5 0
+OBS 300 9 25 0 4 175 241 -2.1 -0.3 0
+OBS 600 0 25 0 1 -349 13 1.7 8.2 2
+OBS 600 1 25 0 1 -298 297 -8.5 1.6 0
+OBS 600 2 25 0 1 62 -118 -2.6 -0.9 1
+OBS 600 3 25 0 5 71 -46 0.9 0.6 0
+OBS 600 4 25 0 4 -614 -82 1.8 -0.3 0
+OBS 600 5 25 0 4 188 -26 -1.9 -0.2 0
+OBS 600 6 25 0 1 444 136 2.3 -4.6 1
+OBS 600 7 25 0 1 -642 -25 -6.6 2.9 1
+OBS 600 8 25 0 4 -543 95 -0.8 -1.7 0
+OBS 600 9 25 0 1 -4 89 -5.2 1.0 1
+OBS 693 7 24 0 1 -674 228 3.4 1.2 1
+OBS 694 1 24 0 1 -696 251 0.5 -3.1 0
+count_reachable v3 = 1002186
+	* Round n°1/1: 
+		rescued nb: 10/10 (disposal score: 100.0%), health return score: 99.2%, time score: 86.4%, explor. score: 100.0% (weight 0%), walltime elapsed: 9s/90s, elapse timestep: 791/2000 steps, time to dispose all: 791 steps.
+		score breakdown (competition weights): disposal 100.0 x 60% = 60.0, health 99.2 x 20% = 19.8, time 86.4 x 20% = 17.3, total 97.1/100.
+		percentage of drones destroyed: 0.0 %, mean percentage of drones health : 99.2 %.
+		round score: 97.1%, frequency: 89.84 steps/s.
+--------------------------------------------------------------------------------------------

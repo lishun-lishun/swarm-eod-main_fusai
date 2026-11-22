@@ -1,0 +1,21 @@
+[
+  {
+    "scene": "remote_center",
+    "seed": 401,
+    "exit_code": 0,
+    "log": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_center_first_heldout\\workspace_trace_remote_center_401.log",
+    "disposed": 8,
+    "total_bombs": 10,
+    "health_score": 36.0,
+    "time_score": 0.0,
+    "exploration_score": 100.0,
+    "walltime_seconds": 131.0,
+    "steps": 7200,
+    "full_disposal_step": 0,
+    "score": 55.2,
+    "destroyed_percent": 30.0,
+    "mean_health_percent": 36.0,
+    "destroyed_count": 3,
+    "crashed": false
+  }
+]

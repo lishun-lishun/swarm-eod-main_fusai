@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "canvas": {
+    "width": 1440,
+    "height": 1000
+  },
+  "elements": [
+    {
+      "type": "start_area",
+      "top_left": [
+        55,
+        100
+      ],
+      "bottom_right": [
+        215,
+        260
+      ],
+      "color": "#000000",
+      "id": 1
+    },
+    {
+      "type": "disposal_center",
+      "top_left": [
+        245,
+        45
+      ],
+      "bottom_right": [
+        345,
+        195
+      ],
+      "color": "#000000",
+      "id": 2
+    },
+    {
+      "type": "rect_wall",
+      "top_left": [
+        380,
+        0
+      ],
+      "bottom_right": [
+        415,
+        740
+      ],
+      "color": "#000000",
+      "id": 3
+    },
+    {
+      "type": "rect_wall",
+      "top_left": [
+        745,
+        265
+      ],
+      "bottom_right": [
+        785,
+        1000
+      ],
+      "color": "#000000",
+      "id": 4
+    },
+    {
+      "type": "rect_wall",
+      "top_left": [
+        1115,
+        0
+      ],
+      "bottom_right": [
+        1155,
+        750
+      ],
+      "color": "#000000",
+      "id": 5
+    },
+    {
+      "type": "rect_wall",
+      "top_left": [
+        925,
+        445
+      ],
+      "bottom_right": [
+        1060,
+        490
+      ],
+      "color": "#000000",
+      "id": 6
+    },
+    {
+      "type": "rect_wall",
+      "top_left": [
+        530,
+        670
+      ],
+      "bottom_right": [
+        640,
+        710
+      ],
+      "color": "#000000",
+      "id": 7
+    }
+  ]
+}

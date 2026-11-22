@@ -1,0 +1,245 @@
+The team 'SICT' n°861, with lishun, liudongying, chengongbo, fengsifang
+Default team mode: <not set>
+Evaluation Plan (from file: config_Map08.yml):
+==================================================
+Config ID: 1
+  Map: Map08
+  Zones: no_gps_zone
+  Number of Rounds: 1
+  Weight: 1
+  Team mode (scenario): rescue
+  Number of drones (scenario): 10
+--------------------------------------------------
+Default team mode: <not set>
+Time score: full marks at or before 30% of the timestep limit
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+* Map: Map08, mode: rescue, special zones: no_gps_zone, round: 1/1
+MISSION 300 0 1 False False False -606 375 25 None None 0
+MISSION 300 1 1 False False False -429 312 23 None None 0
+MISSION 300 2 1 False False False -241 381 25 None None 0
+MISSION 300 3 1 False False False -514 297 24 None None 0
+MISSION 300 4 1 False True False -670 300 24 None None 0
+MISSION 300 5 1 False False False -168 492 25 None None 0
+MISSION 300 6 1 False True False -106 467 25 None None 0
+MISSION 300 7 1 False False False -312 338 24 None None 0
+MISSION 300 8 1 False False False -341 492 24 None None 0
+MISSION 300 9 1 False True False -721 376 25 None None 0
+MISSION 565 4 4 True True False 12 -542 24 (0, -30) 564 0
+MISSION 600 0 1 False True False 141 192 24 None None 0
+MISSION 600 1 1 False True False -121 -232 23 None None 0
+MISSION 600 2 1 False False False -183 -20 24 None None 0
+MISSION 600 3 1 False True False -610 -153 24 None None 0
+MISSION 600 4 4 True True False 35 -541 24 (0, -30) 564 0
+MISSION 600 5 1 False True False -658 -19 23 None None 0
+MISSION 600 6 1 False True False -751 -348 25 None None 0
+MISSION 600 7 1 False True False 97 -404 24 None None 0
+MISSION 600 8 1 False False False -247 233 24 None None 0
+MISSION 600 9 2 False True False -341 -493 25 (-14, -30) 599 0
+MISSION 697 9 4 True True False -268 -526 24 (-14, -30) 696 0
+MISSION 900 0 2 False False False 207 47 23 (-7, -24) -1 0
+MISSION 900 1 1 False True False 388 83 23 None None 0
+MISSION 900 2 1 False True False -34 66 24 None None 0
+MISSION 900 3 2 False True False 81 -462 24 (-7, -24) -1 0
+MISSION 900 4 4 True True False 261 118 21 (0, -30) 564 0
+MISSION 900 5 1 False False False 163 -297 23 None None 0
+MISSION 900 6 2 False False False 204 -160 25 (-7, -24) -1 0
+MISSION 900 7 1 False False False 214 -305 24 None None 0
+MISSION 900 8 2 False False False -402 -55 24 (-7, -24) -1 0
+MISSION 900 9 4 True True False -326 -239 24 (-14, -30) 696 0
+MISSION 1187 6 4 True False False 788 -41 23 (44, -3) 1186 0
+MISSION 1200 0 2 False True False -127 -260 23 (-7, -24) -1 0
+MISSION 1200 1 2 False False False 475 -142 23 (28, -5) 1200 0
+MISSION 1200 2 1 False True False 123 198 24 None None 0
+MISSION 1200 3 2 False False False 262 -392 24 (-7, -24) -1 0
+MISSION 1200 4 4 True True False 575 95 20 (0, -30) 564 0
+MISSION 1200 5 1 False False False 325 -404 21 None None 0
+MISSION 1200 6 4 True True False 786 -46 23 (44, -3) 1186 0
+MISSION 1200 7 2 False True False -306 -536 24 (-7, -24) -1 0
+MISSION 1200 8 1 False False False 153 24 23 None None 0
+MISSION 1200 9 4 True False False -404 123 24 (-14, -30) 696 0
+RECOVERY 1428 9 escape 1464 docks 0 False False -408 231
+MISSION 1500 0 1 False True False -454 -215 23 None None 0
+MISSION 1500 1 2 False False False 453 -211 23 (28, -5) 1500 0
+MISSION 1500 2 2 False False False 394 -16 22 (28, -5) -1 0
+MISSION 1500 3 2 False True False -130 -525 24 (-7, -24) 1500 0
+MISSION 1500 4 4 True True False 73 -108 19 (0, -30) 564 0
+MISSION 1500 5 2 False True False 526 118 21 (37, 14) -1 0
+MISSION 1500 6 4 True True False 588 98 23 (44, -3) 1186 0
+MISSION 1500 7 1 False True False -454 -521 23 None None 0
+MISSION 1500 8 2 False True False 353 63 22 (44, -3) -1 0
+MISSION 1500 9 4 True False False -393 162 24 (-14, -30) 696 0
+MISSION 1515 1 4 True False False 497 -121 23 (28, -5) 1514 0
+MISSION 1603 5 4 True True False 697 261 21 (37, 14) 1602 0
+MISSION 1800 0 2 False False False 168 -292 22 (28, -5) -1 0
+MISSION 1800 1 4 True True False 240 68 21 (28, -5) 1514 0
+MISSION 1800 2 2 False False False 551 -256 22 (-7, -24) -1 0
+MISSION 1800 3 2 False True False -131 -522 22 (-7, -24) 1800 0
+MISSION 1800 4 4 True False False -334 78 17 (0, -30) 564 0
+MISSION 1800 5 4 True True False 731 168 21 (37, 14) 1602 0
+MISSION 1800 6 4 True True False 55 -227 21 (44, -3) 1186 0
+MISSION 1800 7 2 False True False 505 117 22 (37, 14) -1 0
+MISSION 1800 8 2 False False False 611 52 22 (37, 14) -1 0
+MISSION 1800 9 4 True False False -359 361 24 (-14, -30) 696 0
+RECOVERY 1822 5 escape 1858 docks 0 True False 739 167
+RECOVERY 1992 5 escape 2028 docks 0 True False 725 182
+MISSION 2100 0 2 False False False 412 -41 22 (28, -5) -1 0
+MISSION 2100 1 4 True False False -181 -18 21 (28, -5) 1514 0
+MISSION 2100 2 1 False True False 784 129 22 None None 0
+MISSION 2100 3 2 False True False -135 -530 21 (-7, -24) 2100 0
+MISSION 2100 4 4 True False False -407 246 17 (0, -30) 564 0
+MISSION 2100 5 4 True True False 710 124 19 (37, 14) 1602 0
+MISSION 2100 6 4 True False False -406 70 21 (44, -3) 1186 0
+MISSION 2100 7 2 False True False 675 114 22 (37, 14) -1 0
+MISSION 2100 8 2 False False False 425 -247 22 (-7, -24) -1 0
+MISSION 2100 9 4 True True False 577 494 24 (-14, -30) 696 0
+MISSION 2122 9 2 False True False 637 495 24 (-7, -24) -1 1
+MISSION 2332 7 4 True True False 418 197 22 (23, 10) 2331 0
+MISSION 2400 0 2 False True False 464 241 21 (23, 10) -1 0
+MISSION 2400 1 4 True False False -502 367 21 (28, -5) 1514 0
+MISSION 2400 2 1 False False False 656 -290 21 None None 0
+MISSION 2400 3 2 False True False -115 -530 21 (-7, -24) 2400 0
+MISSION 2400 4 4 True False False -402 256 17 (0, -30) 564 0
+MISSION 2400 5 4 True False False 198 -99 19 (37, 14) 1602 0
+MISSION 2400 6 4 True False False -114 488 21 (44, -3) 1186 0
+MISSION 2400 7 4 True True False 448 264 21 (23, 10) 2331 0
+MISSION 2400 8 2 False False False 516 -233 22 (-7, -24) -1 0
+MISSION 2400 9 2 False False False -558 118 23 (-7, -24) -1 1
+MISSION 2544 3 4 True True False -134 -454 20 (-7, -24) 2543 0
+MISSION 2601 6 2 False True False 639 472 21 (-7, -24) -1 1
+MISSION 2614 0 4 True True False 219 268 21 (12, 17) 2613 0
+MISSION 2700 0 4 True True False 450 259 21 (12, 17) 2613 0
+MISSION 2700 1 4 True True False 394 507 21 (28, -5) 1514 0
+MISSION 2700 2 1 False False False 196 -148 21 None None 0
+MISSION 2700 3 4 True True False -114 -530 20 (-7, -24) 2543 0
+MISSION 2700 4 4 True False False -373 240 17 (0, -30) 564 0
+MISSION 2700 5 4 True False False -366 62 19 (37, 14) 1602 0
+MISSION 2700 6 1 False False False -129 473 20 None None 1
+MISSION 2700 7 4 True True False 537 148 20 (23, 10) 2331 0
+MISSION 2700 8 2 False False False 389 57 22 (-7, -24) -1 0
+MISSION 2700 9 2 False True False -124 -311 22 (-7, -24) -1 1
+RECOVERY 2701 7 escape 2737 docks 0 True False 536 148
+MISSION 2772 1 2 False True False 641 479 21 (-8, -23) 672 1
+RECOVERY 2816 3 escape 2852 docks 0 True False -99 -527
+RECOVERY 2871 7 escape 2907 docks 0 True False 551 145
+MISSION 2901 8 4 True True False 585 -532 22 (31, -30) 2900 0
+RECOVERY 2969 5 escape 3005 docks 0 False False -573 176
+MISSION 3000 0 4 True False False 286 -26 19 (12, 17) 2613 0
+MISSION 3000 1 1 False False False -597 238 21 None None 1
+MISSION 3000 2 2 False False False 471 -278 21 (-7, -24) -1 0
+MISSION 3000 3 4 True True False -253 -533 20 (-7, -24) 2543 0
+MISSION 3000 4 4 True False False -425 221 17 (0, -30) 564 0
+MISSION 3000 5 4 True False False -528 133 17 (37, 14) 1602 0
+MISSION 3000 6 1 False False False -509 139 20 None None 1
+MISSION 3000 7 4 True True False 372 60 18 (23, 10) 2331 0
+MISSION 3000 8 4 True True False 777 -521 22 (31, -30) 2900 0
+MISSION 3000 9 1 False False False -329 221 21 None None 1
+RECOVERY 3166 4 escape 3202 docks 0 False False -431 215
+MISSION 3300 0 4 True False False 412 -350 18 (12, 17) 2613 0
+MISSION 3300 1 1 False False False -638 -35 21 None None 1
+MISSION 3300 2 3 False False False 645 -138 21 (36, -6) 3300 0
+MISSION 3300 3 4 True False False -605 79 20 (-7, -24) 2543 0
+MISSION 3300 4 4 True False False -382 243 16 (0, -30) 564 0
+MISSION 3300 5 4 True False False -258 425 17 (37, 14) 1602 0
+MISSION 3300 6 1 False False False -280 260 19 None None 1
+MISSION 3300 7 4 True True False 67 -210 18 (23, 10) 2331 0
+MISSION 3300 8 4 True False False 295 -344 22 (31, -30) 2900 0
+MISSION 3300 9 1 False True False -36 99 21 None None 1
+MISSION 3302 2 4 True False False 645 -129 21 (36, -6) 3301 0
+RECOVERY 3426 4 escape 3462 docks 0 False False -383 210
+MISSION 3600 0 4 True False False 299 -101 18 (12, 17) 2613 0
+MISSION 3600 1 1 False True False -120 -513 20 None None 1
+MISSION 3600 2 4 True False False 526 -257 21 (36, -6) 3301 0
+MISSION 3600 3 4 True False False -424 235 20 (-7, -24) 2543 0
+MISSION 3600 4 4 True False False -508 237 16 (0, -30) 564 0
+MISSION 3600 5 4 True False False -186 496 17 (37, 14) 1602 0
+MISSION 3600 6 1 False False False -290 260 19 None None 1
+MISSION 3600 7 4 True True False -652 -59 18 (23, 10) 2331 0
+MISSION 3600 8 4 True True False 68 -199 22 (31, -30) 2900 0
+MISSION 3600 9 1 False False False 203 -263 21 None None 1
+RECOVERY 3613 5 escape 3649 docks 0 False False -186 496
+RECOVERY 3621 2 escape 3657 docks 0 False False 527 -264
+RECOVERY 3834 4 escape 3870 docks 0 False False -346 232
+RECOVERY 3895 5 escape 3931 docks 0 False False -177 484
+MISSION 3900 0 4 True False False 115 -264 18 (12, 17) 2613 0
+MISSION 3900 1 1 False True False -343 -406 19 None None 1
+MISSION 3900 2 4 True False False 419 -272 21 (36, -6) 3301 0
+MISSION 3900 3 4 True False False -331 279 19 (-7, -24) 2543 0
+MISSION 3900 4 4 True False False -410 162 16 (0, -30) 564 0
+MISSION 3900 5 4 True False False -179 482 17 (37, 14) 1602 0
+MISSION 3900 6 1 False True False -358 -352 19 None None 1
+MISSION 3900 7 4 True True False -64 496 18 (23, 10) 2331 0
+MISSION 3900 8 4 True False False -176 -27 21 (31, -30) 2900 0
+MISSION 3900 9 1 False False False 615 -287 21 None None 1
+RECOVERY 3901 0 escape 3937 docks 0 False False 115 -264
+RECOVERY 3988 2 escape 4024 docks 0 False False 350 -236
+RECOVERY 4065 5 escape 4101 docks 0 False False -190 465
+MISSION 4095 7 1 False True False 645 471 18 None None 1
+RECOVERY 4180 0 escape 4216 docks 0 False False 137 -262
+MISSION 4200 0 4 True False False 159 -247 18 (12, 17) 2613 0
+MISSION 4200 1 1 False False False 602 -63 19 None None 1
+MISSION 4200 2 4 True False False 180 -126 21 (36, -6) 3301 0
+MISSION 4200 3 4 True False False -423 264 17 (-7, -24) 2543 0
+MISSION 4200 4 4 True True False -88 490 16 (0, -30) 564 0
+MISSION 4200 5 4 True False False -213 486 17 (37, 14) 1602 0
+MISSION 4200 6 1 False False False -324 152 19 None None 1
+MISSION 4200 7 1 False True False -96 443 18 None None 1
+MISSION 4200 8 4 True False False -628 330 21 (31, -30) 2900 0
+MISSION 4200 9 1 False False False 603 -3 20 None None 1
+RECOVERY 4235 5 escape 4271 docks 0 False False -215 489
+MISSION 4418 4 1 False True False 651 479 16 None None 1
+RECOVERY 4477 0 escape 4513 docks 0 False False 137 -262
+MISSION 4500 0 4 True False False 171 -292 18 (12, 17) 2613 0
+MISSION 4500 1 1 False False False 312 -37 19 None None 1
+MISSION 4500 2 4 True False False -369 72 21 (36, -6) 3301 0
+MISSION 4500 3 4 True False False -448 214 17 (-7, -24) 2543 0
+MISSION 4500 4 1 False True False 192 443 16 None None 1
+MISSION 4500 5 4 True True False 178 510 17 (37, 14) 1602 0
+MISSION 4500 6 1 False False False -347 204 19 None None 1
+MISSION 4500 7 1 False False False -333 254 16 None None 1
+MISSION 4500 8 4 True True False 221 492 21 (31, -30) 2900 0
+MISSION 4500 9 1 False True False 312 112 20 None None 1
+MISSION 4637 5 1 False True False 640 498 17 None None 1
+MISSION 4643 8 1 False True False 648 444 21 None None 1
+RECOVERY 4746 0 escape 4782 docks 0 False False 137 -241
+MISSION 4800 0 4 True False False 213 -193 18 (12, 17) 2613 0
+MISSION 4800 1 1 False True False 65 -78 19 None None 1
+MISSION 4800 2 4 True False False -327 283 18 (36, -6) 3301 0
+MISSION 4800 3 4 True False False -355 283 11 (-7, -24) 2543 0
+MISSION 4800 4 1 False False False -365 243 15 None None 1
+MISSION 4800 5 1 False False False -390 335 17 None None 1
+MISSION 4800 6 1 False False False -370 39 16 None None 1
+MISSION 4800 7 1 False False False -306 40 14 None None 1
+MISSION 4800 8 1 False False False -214 397 21 None None 1
+MISSION 4800 9 1 False False False 188 -60 20 None None 1
+RECOVERY 5032 0 escape 5068 docks 0 False False 141 -219
+MISSION 5100 0 4 True False False 189 -244 18 (12, 17) 2613 0
+MISSION 5100 1 1 False False False -179 -55 18 None None 1
+MISSION 5100 2 4 True False False -618 368 16 (36, -6) 3301 0
+MISSION 5100 3 4 True False False -581 378 7 (-7, -24) 2543 0
+MISSION 5100 4 1 False False False -315 -5 11 None None 1
+MISSION 5100 5 1 False False False -603 379 16 None None 1
+MISSION 5100 6 1 False False False -299 390 16 None None 1
+MISSION 5100 7 1 False False False -217 245 12 None None 1
+MISSION 5100 8 1 False True False -796 94 20 None None 1
+MISSION 5100 9 1 False True False -116 209 20 None None 1
+RECOVERY 5301 0 escape 5337 docks 0 False False 128 -235
+MISSION 5400 0 4 True False False 157 -204 17 (12, 17) 2613 0
+MISSION 5400 1 1 False True False -159 -538 18 None None 1
+MISSION 5400 2 4 True True False 102 446 16 (36, -6) 3301 0
+MISSION 5400 3 4 True True False 239 493 7 (-7, -24) 2543 0
+MISSION 5400 4 1 False False False -424 127 11 None None 1
+MISSION 5400 5 1 False False False -284 249 15 None None 1
+MISSION 5400 6 1 False True False 9 441 15 None None 1
+MISSION 5400 7 1 False True False -126 211 12 None None 1
+MISSION 5400 8 1 False False False -503 338 20 None None 1
+MISSION 5400 9 1 False False False -132 -49 19 None None 1
+count_reachable v3 = 1624792
+	* Round n°1/1: 
+		rescued nb: 7/10 (disposal score: 70.0%), health return score: 60.0%, time score: 0.0%, explor. score: 100.0% (weight 0%), walltime elapsed: 118s/180s, elapse timestep: 5400/5400 steps, time to dispose all: 0 steps.
+		score breakdown (competition weights): disposal 70.0 x 60% = 42.0, health 60.0 x 20% = 12.0, time 0.0 x 20% = 0.0, total 54.0/100.
+		percentage of drones destroyed: 0.0 %, mean percentage of drones health : 60.0 %.
+		round score: 54.0%, frequency: 45.63 steps/s.
+--------------------------------------------------------------------------------------------

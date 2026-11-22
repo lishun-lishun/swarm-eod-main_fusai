@@ -1,0 +1,36 @@
+The team 'SICT' n��861, with lishun, liudongying, chengongbo, fengsifang
+Default team mode: <not set>
+Evaluation Plan (from file: config_Map06.yml):
+==================================================
+Config ID: 1
+  Map: Map06
+  Zones: no_com_zone
+  Number of Rounds: 1
+  Weight: 1
+  Team mode (scenario): rescue
+  Number of drones (scenario): 10
+--------------------------------------------------
+Default team mode: <not set>
+Time score: full marks at or before 30% of the timestep limit
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+* Map: Map06, mode: rescue, special zones: no_com_zone, round: 1/1
+Drone 0 destroyed, too much collision !
+DIAG_END 1 state 1 carry False pos (-272.8, -342.1) gps True target None active [] dc 20 local_done 1
+DIAG_END 2 state 1 carry False pos (-479.4, -397.3) gps True target None active [] dc 20 local_done 1
+DIAG_END 3 state 1 carry False pos (398.7, -270.4) gps True target None active [] dc 20 local_done 0
+DIAG_END 4 state 1 carry False pos (308.7, -77.8) gps True target None active [] dc 20 local_done 1
+DIAG_END 5 state 1 carry False pos (157.0, -508.4) gps True target None active [((-34, 28), (-624.9, 504.0), 5, 2055)] dc 20 local_done 1
+DIAG_END 6 state 1 carry False pos (437.5, 376.1) gps True target None active [] dc 20 local_done 1
+DIAG_END 7 state 1 carry False pos (-442.4, -340.9) gps True target None active [((-34, 29), (-609.3, 512.3), 7, 2058)] dc 20 local_done 1
+DIAG_END 8 state 1 carry False pos (-114.1, -427.9) gps True target None active [] dc 20 local_done 1
+DIAG_END 9 state 4 carry True pos (-477.7, -343.5) gps True target (-24, -20) active [((-35, 29), (-607.2, 526.4), 9, 1451), ((-34, 29), (-618.4, 519.6), 9, 1451), ((-27, -19), (-504.2, -335.0), None, 4761), ((-30, -18), (-518.3, -342.9), None, 5399), ((-30, -20), (-515.4, -354.5), None, 5399)] dc 20 local_done 0
+count_reachable v3 = 1714756
+	* Round n��1/1: 
+		rescued nb: 8/10 (disposal score: 80.0%), health return score: 49.2%, time score: 0.0%, explor. score: 100.0% (weight 0%), walltime elapsed: 158s/180s, elapse timestep: 5400/5400 steps, time to dispose all: 0 steps.
+		score breakdown (competition weights): disposal 80.0 x 60% = 48.0, health 49.2 x 20% = 9.8, time 0.0 x 20% = 0.0, total 57.8/100.
+		percentage of drones destroyed: 10.0 %, mean percentage of drones health : 49.2 %.
+		round score: 57.8%, frequency: 34.12 steps/s.
+--------------------------------------------------------------------------------------------

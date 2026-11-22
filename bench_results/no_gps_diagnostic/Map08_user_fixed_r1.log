@@ -1,0 +1,186 @@
+The team 'SkySaviors' n��6, with tom, alice, bob, lea
+Default team mode: <not set>
+Evaluation Plan (from file: config_Map08.yml):
+==================================================
+Config ID: 1
+  Map: Map08
+  Zones: no_gps_zone
+  Number of Rounds: 1
+  Weight: 1
+  Team mode (scenario): rescue
+  Number of drones (scenario): 10
+--------------------------------------------------
+Default team mode: <not set>
+Time score: full marks at or before 30% of the timestep limit
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+* Map: Map08, mode: rescue, special zones: no_gps_zone, round: 1/1
+NGDBG id=0 t=300 pos=(-798,328) gps=True state=1 carry=0 live=0 done=0 dc=20 bc=1
+NGDBG id=1 t=300 pos=(-658,-115) gps=True state=1 carry=0 live=0 done=0 dc=20 bc=1
+NGDBG id=2 t=300 pos=(-611,452) gps=False state=1 carry=0 live=0 done=0 dc=20 bc=7
+NGDBG id=3 t=300 pos=(-267,313) gps=False state=1 carry=0 live=0 done=0 dc=20 bc=4
+NGDBG id=4 t=300 pos=(-388,356) gps=False state=1 carry=0 live=0 done=0 dc=20 bc=5
+NGDBG id=5 t=300 pos=(-578,211) gps=False state=1 carry=0 live=0 done=0 dc=20 bc=1
+NGDBG id=6 t=300 pos=(479,456) gps=True state=1 carry=0 live=0 done=0 dc=20 bc=1
+NGDBG id=7 t=300 pos=(628,386) gps=True state=1 carry=0 live=0 done=0 dc=20 bc=1
+NGDBG id=8 t=300 pos=(-742,342) gps=True state=1 carry=0 live=0 done=0 dc=20 bc=1
+NGDBG id=9 t=300 pos=(-590,323) gps=False state=1 carry=0 live=0 done=0 dc=20 bc=6
+NGDBG id=0 t=600 pos=(-143,-204) gps=True state=1 carry=0 live=0 done=0 dc=20 bc=1
+NGDBG id=1 t=600 pos=(-316,-527) gps=True state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=2 t=600 pos=(-128,-238) gps=True state=1 carry=0 live=0 done=0 dc=20 bc=1
+NGDBG id=3 t=600 pos=(95,-403) gps=True state=1 carry=0 live=0 done=0 dc=20 bc=1
+NGDBG id=4 t=600 pos=(95,215) gps=True state=1 carry=0 live=0 done=0 dc=20 bc=1
+NGDBG id=5 t=600 pos=(340,-406) gps=False state=1 carry=0 live=0 done=0 dc=20 bc=4
+NGDBG id=6 t=600 pos=(-769,512) gps=True state=1 carry=0 live=0 done=0 dc=20 bc=1
+NGDBG id=7 t=600 pos=(-647,241) gps=True state=1 carry=0 live=0 done=0 dc=20 bc=1
+NGDBG id=8 t=600 pos=(50,-125) gps=True state=1 carry=0 live=0 done=0 dc=20 bc=1
+NGDBG id=9 t=600 pos=(-742,-530) gps=True state=1 carry=0 live=0 done=0 dc=20 bc=1
+NGDBG id=0 t=900 pos=(213,33) gps=False state=1 carry=0 live=0 done=0 dc=20 bc=5
+NGDBG id=1 t=900 pos=(-661,61) gps=True state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=2 t=900 pos=(593,-55) gps=False state=1 carry=0 live=0 done=0 dc=20 bc=2
+NGDBG id=3 t=900 pos=(60,-227) gps=True state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=4 t=900 pos=(511,-354) gps=False state=1 carry=0 live=0 done=0 dc=20 bc=6
+NGDBG id=5 t=900 pos=(283,110) gps=True state=1 carry=0 live=0 done=0 dc=20 bc=1
+NGDBG id=6 t=900 pos=(83,-408) gps=True state=1 carry=0 live=0 done=0 dc=20 bc=1
+NGDBG id=7 t=900 pos=(-235,-536) gps=True state=1 carry=0 live=0 done=0 dc=20 bc=1
+NGDBG id=8 t=900 pos=(463,-463) gps=False state=1 carry=0 live=0 done=0 dc=20 bc=4
+NGDBG id=9 t=900 pos=(546,136) gps=True state=1 carry=0 live=0 done=0 dc=20 bc=1
+NGDBG id=0 t=1200 pos=(675,-361) gps=False state=1 carry=0 live=0 done=0 dc=20 bc=2
+NGDBG id=1 t=1200 pos=(-116,87) gps=True state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=2 t=1200 pos=(381,-268) gps=False state=4 carry=1 live=0 done=0 dc=20 bc=4
+NGDBG id=3 t=1200 pos=(-350,182) gps=False state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=4 t=1200 pos=(704,-44) gps=False state=4 carry=1 live=1 done=0 dc=20 bc=1
+NGDBG id=5 t=1200 pos=(707,119) gps=True state=4 carry=1 live=1 done=0 dc=20 bc=1
+NGDBG id=6 t=1200 pos=(-168,-199) gps=True state=1 carry=0 live=0 done=0 dc=20 bc=1
+NGDBG id=7 t=1200 pos=(59,-125) gps=True state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=8 t=1200 pos=(329,-198) gps=False state=1 carry=0 live=0 done=0 dc=20 bc=4
+NGDBG id=9 t=1200 pos=(350,53) gps=True state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=0 t=1500 pos=(773,-95) gps=True state=3 carry=0 live=1 done=0 dc=20 bc=1
+NGDBG id=1 t=1500 pos=(-632,268) gps=False state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=2 t=1500 pos=(108,-214) gps=True state=4 carry=1 live=1 done=0 dc=20 bc=1
+NGDBG id=3 t=1500 pos=(-229,300) gps=False state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=4 t=1500 pos=(457,-294) gps=False state=4 carry=1 live=1 done=0 dc=20 bc=1
+NGDBG id=5 t=1500 pos=(211,-26) gps=False state=4 carry=1 live=1 done=0 dc=20 bc=1
+NGDBG id=6 t=1500 pos=(163,-96) gps=False state=2 carry=0 live=1 done=0 dc=20 bc=3
+NGDBG id=7 t=1500 pos=(-345,210) gps=False state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=8 t=1500 pos=(565,-27) gps=False state=4 carry=1 live=1 done=0 dc=20 bc=10
+NGDBG id=9 t=1500 pos=(180,-180) gps=False state=4 carry=1 live=1 done=0 dc=20 bc=1
+NGDBG id=0 t=1800 pos=(569,-268) gps=False state=1 carry=0 live=0 done=0 dc=20 bc=2
+NGDBG id=1 t=1800 pos=(-267,385) gps=False state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=2 t=1800 pos=(-174,-6) gps=False state=4 carry=1 live=1 done=0 dc=20 bc=1
+NGDBG id=3 t=1800 pos=(631,494) gps=True state=5 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=4 t=1800 pos=(332,-195) gps=False state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=5 t=1800 pos=(-474,-119) gps=True state=4 carry=1 live=1 done=0 dc=20 bc=1
+NGDBG id=6 t=1800 pos=(783,-56) gps=True state=1 carry=0 live=1 done=0 dc=20 bc=1
+NGDBG id=7 t=1800 pos=(-514,249) gps=False state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=8 t=1800 pos=(347,84) gps=True state=4 carry=1 live=1 done=0 dc=20 bc=1
+NGDBG id=9 t=1800 pos=(-671,-102) gps=True state=4 carry=1 live=1 done=0 dc=20 bc=1
+NGDBG id=0 t=2100 pos=(701,-408) gps=False state=1 carry=0 live=0 done=0 dc=20 bc=1
+NGDBG id=1 t=2100 pos=(630,402) gps=True state=5 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=2 t=2100 pos=(-482,229) gps=False state=4 carry=1 live=1 done=0 dc=20 bc=1
+NGDBG id=3 t=2100 pos=(-430,56) gps=False state=2 carry=0 live=1 done=1 dc=20 bc=3
+NGDBG id=4 t=2100 pos=(420,-158) gps=False state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=5 t=2100 pos=(-379,381) gps=False state=4 carry=1 live=1 done=0 dc=20 bc=1
+NGDBG id=6 t=2100 pos=(395,259) gps=True state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=7 t=2100 pos=(-633,256) gps=False state=4 carry=1 live=1 done=0 dc=20 bc=1
+NGDBG id=8 t=2100 pos=(-116,75) gps=True state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=9 t=2100 pos=(-148,465) gps=False state=4 carry=1 live=1 done=0 dc=20 bc=1
+NGDBG id=0 t=2400 pos=(803,-506) gps=True state=4 carry=1 live=1 done=0 dc=20 bc=1
+NGDBG id=1 t=2400 pos=(-224,324) gps=False state=2 carry=0 live=1 done=1 dc=20 bc=3
+NGDBG id=2 t=2400 pos=(-588,340) gps=False state=4 carry=1 live=1 done=0 dc=20 bc=1
+NGDBG id=3 t=2400 pos=(-61,-232) gps=True state=1 carry=0 live=0 done=1 dc=20 bc=1
+NGDBG id=4 t=2400 pos=(280,-175) gps=False state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=5 t=2400 pos=(640,489) gps=True state=2 carry=0 live=1 done=1 dc=20 bc=1
+NGDBG id=6 t=2400 pos=(139,-207) gps=False state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=7 t=2400 pos=(-196,422) gps=False state=4 carry=1 live=1 done=0 dc=20 bc=1
+NGDBG id=8 t=2400 pos=(-413,241) gps=False state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=9 t=2400 pos=(517,425) gps=True state=1 carry=0 live=1 done=1 dc=20 bc=1
+NGDBG id=0 t=2700 pos=(724,-534) gps=True state=4 carry=1 live=1 done=0 dc=20 bc=1
+NGDBG id=1 t=2700 pos=(97,-112) gps=True state=1 carry=0 live=0 done=1 dc=20 bc=1
+NGDBG id=2 t=2700 pos=(276,425) gps=True state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=3 t=2700 pos=(-130,-533) gps=True state=1 carry=0 live=0 done=1 dc=20 bc=1
+NGDBG id=4 t=2700 pos=(194,-216) gps=False state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=5 t=2700 pos=(-617,261) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=1
+NGDBG id=6 t=2700 pos=(-552,191) gps=False state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=7 t=2700 pos=(517,414) gps=True state=1 carry=0 live=1 done=1 dc=20 bc=1
+NGDBG id=8 t=2700 pos=(-564,230) gps=False state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=9 t=2700 pos=(-594,147) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=2
+NGDBG id=0 t=3000 pos=(319,-81) gps=False state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=1 t=3000 pos=(200,-523) gps=True state=1 carry=0 live=0 done=1 dc=20 bc=1
+NGDBG id=2 t=3000 pos=(-124,465) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=1
+NGDBG id=3 t=3000 pos=(171,-95) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=3
+NGDBG id=4 t=3000 pos=(329,-263) gps=False state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=5 t=3000 pos=(-112,8) gps=True state=1 carry=0 live=0 done=1 dc=20 bc=6
+NGDBG id=6 t=3000 pos=(-128,493) gps=False state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=7 t=3000 pos=(-346,244) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=4
+NGDBG id=8 t=3000 pos=(-55,498) gps=True state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=9 t=3000 pos=(411,255) gps=True state=1 carry=0 live=0 done=1 dc=20 bc=1
+NGDBG id=0 t=3300 pos=(211,45) gps=True state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=1 t=3300 pos=(492,70) gps=True state=1 carry=0 live=0 done=1 dc=20 bc=1
+NGDBG id=2 t=3300 pos=(-328,276) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=4
+NGDBG id=3 t=3300 pos=(457,-276) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=6
+NGDBG id=4 t=3300 pos=(261,76) gps=True state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=5 t=3300 pos=(-604,-144) gps=True state=1 carry=0 live=0 done=1 dc=20 bc=1
+NGDBG id=6 t=3300 pos=(154,436) gps=True state=1 carry=0 live=0 done=1 dc=20 bc=1
+NGDBG id=7 t=3300 pos=(-150,-234) gps=True state=1 carry=0 live=0 done=1 dc=20 bc=1
+NGDBG id=8 t=3300 pos=(-198,436) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=2
+NGDBG id=9 t=3300 pos=(289,41) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=1
+NGDBG id=0 t=3600 pos=(-236,-5) gps=False state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=1 t=3600 pos=(-221,-51) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=2
+NGDBG id=2 t=3600 pos=(-152,267) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=2
+NGDBG id=3 t=3600 pos=(-22,-199) gps=True state=1 carry=0 live=0 done=1 dc=20 bc=1
+NGDBG id=4 t=3600 pos=(261,71) gps=True state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=5 t=3600 pos=(-338,154) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=5
+NGDBG id=6 t=3600 pos=(-540,27) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=8
+NGDBG id=7 t=3600 pos=(-658,-448) gps=True state=1 carry=0 live=0 done=1 dc=20 bc=1
+NGDBG id=8 t=3600 pos=(384,-425) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=4
+NGDBG id=9 t=3600 pos=(314,-324) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=7
+NGDBG id=0 t=3900 pos=(-477,346) gps=False state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=1 t=3900 pos=(58,-107) gps=True state=1 carry=0 live=0 done=1 dc=20 bc=1
+NGDBG id=2 t=3900 pos=(-387,243) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=5
+NGDBG id=3 t=3900 pos=(-73,-530) gps=True state=1 carry=0 live=0 done=1 dc=20 bc=1
+NGDBG id=4 t=3900 pos=(22,-145) gps=True state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=5 t=3900 pos=(-138,142) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=1
+NGDBG id=6 t=3900 pos=(-399,121) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=11
+NGDBG id=7 t=3900 pos=(-127,-437) gps=True state=1 carry=0 live=0 done=1 dc=20 bc=1
+NGDBG id=8 t=3900 pos=(-349,213) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=7
+NGDBG id=9 t=3900 pos=(104,-129) gps=True state=1 carry=0 live=0 done=1 dc=20 bc=1
+NGDBG id=0 t=4200 pos=(516,500) gps=True state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=1 t=4200 pos=(-377,202) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=6
+NGDBG id=2 t=4200 pos=(110,-301) gps=True state=1 carry=0 live=0 done=1 dc=20 bc=1
+NGDBG id=3 t=4200 pos=(-259,-60) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=2
+NGDBG id=4 t=4200 pos=(-255,-7) gps=False state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=5 t=4200 pos=(-679,-155) gps=True state=1 carry=0 live=0 done=1 dc=20 bc=1
+NGDBG id=6 t=4200 pos=(-339,-494) gps=True state=1 carry=0 live=0 done=1 dc=20 bc=1
+NGDBG id=7 t=4200 pos=(281,-411) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=5
+NGDBG id=8 t=4200 pos=(-246,263) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=12
+NGDBG id=9 t=4200 pos=(64,-288) gps=True state=1 carry=0 live=0 done=1 dc=20 bc=1
+NGDBG id=0 t=4500 pos=(-573,252) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=2
+NGDBG id=1 t=4500 pos=(-315,41) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=8
+NGDBG id=2 t=4500 pos=(63,-109) gps=True state=1 carry=0 live=0 done=1 dc=20 bc=1
+NGDBG id=3 t=4500 pos=(-235,211) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=6
+NGDBG id=4 t=4500 pos=(-668,222) gps=True state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=5 t=4500 pos=(-309,-535) gps=True state=1 carry=0 live=0 done=1 dc=20 bc=1
+NGDBG id=6 t=4500 pos=(-351,-27) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=3
+NGDBG id=7 t=4500 pos=(-192,262) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=2
+NGDBG id=8 t=4500 pos=(-337,127) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=13
+NGDBG id=9 t=4500 pos=(-231,247) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=4
+NGDBG id=0 t=4800 pos=(-319,13) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=5
+NGDBG id=1 t=4800 pos=(-582,261) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=3
+NGDBG id=2 t=4800 pos=(-346,78) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=5
+NGDBG id=3 t=4800 pos=(-419,252) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=8
+NGDBG id=4 t=4800 pos=(217,447) gps=True state=4 carry=1 live=0 done=0 dc=20 bc=1
+NGDBG id=5 t=4800 pos=(385,-417) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=2
+NGDBG id=6 t=4800 pos=(-457,115) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=6
+NGDBG id=7 t=4800 pos=(-651,228) gps=True state=1 carry=0 live=0 done=1 dc=20 bc=1
+NGDBG id=8 t=4800 pos=(-390,62) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=13
+NGDBG id=9 t=4800 pos=(-136,216) gps=False state=1 carry=0 live=0 done=1 dc=20 bc=11
+count_reachable v3 = 1624794
+	* Round n��1/1: 
+		rescued nb: 10/10 (disposal score: 100.0%), health return score: 54.0%, time score: 12.8%, explor. score: 100.0% (weight 0%), walltime elapsed: 134s/180s, elapse timestep: 4917/5400 steps, time to dispose all: 4917 steps.
+		score breakdown (competition weights): disposal 100.0 x 60% = 60.0, health 54.0 x 20% = 10.8, time 12.8 x 20% = 2.6, total 73.4/100.
+		percentage of drones destroyed: 0.0 %, mean percentage of drones health : 54.0 %.
+		round score: 73.4%, frequency: 36.74 steps/s.
+--------------------------------------------------------------------------------------------

@@ -1,0 +1,202 @@
+{
+  "current": {
+    "n": 8,
+    "delivered": 79,
+    "lost": 0,
+    "full": 7,
+    "safe_full": 7,
+    "score": 79.5625,
+    "min_score": 65.8
+  },
+  "candidate": {
+    "n": 8,
+    "delivered": 80,
+    "lost": 0,
+    "full": 8,
+    "safe_full": 8,
+    "score": 80.525,
+    "min_score": 73.3
+  },
+  "pending_replay": [],
+  "by_map": {
+    "Map08": [
+      {
+        "n": 1,
+        "delivered": 9,
+        "lost": 0,
+        "full": 0,
+        "safe_full": 0,
+        "score": 65.8,
+        "min_score": 65.8
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 73.5,
+        "min_score": 73.5
+      }
+    ],
+    "Map09": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 94.6,
+        "min_score": 94.6
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 94.6,
+        "min_score": 94.6
+      }
+    ],
+    "MapFinal2022_23": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 83.8,
+        "min_score": 83.8
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 83.8,
+        "min_score": 83.8
+      }
+    ],
+    "MapFinal_2023_24_03": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 81.9,
+        "min_score": 81.9
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 81.9,
+        "min_score": 81.9
+      }
+    ],
+    "MapFinal_2024_25_03": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 79.0,
+        "min_score": 79.0
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 79.0,
+        "min_score": 79.0
+      }
+    ],
+    "MapFinal_2025_26_03": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 79.1,
+        "min_score": 79.1
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 79.1,
+        "min_score": 79.1
+      }
+    ],
+    "MapMedium01": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 73.3,
+        "min_score": 73.3
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 73.3,
+        "min_score": 73.3
+      }
+    ],
+    "MapMedium02": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 79.0,
+        "min_score": 79.0
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 79.0,
+        "min_score": 79.0
+      }
+    ]
+  },
+  "changed": [
+    {
+      "map": "Map08",
+      "case": "user_fixed",
+      "seed": 303,
+      "base_disposed": 9,
+      "trial_disposed": 10,
+      "base_destroyed_count": 0,
+      "trial_destroyed_count": 0,
+      "base_score": 65.8,
+      "trial_score": 73.5,
+      "base_steps": 5400,
+      "trial_steps": 5291,
+      "base_mean_health_percent": 59.2,
+      "trial_mean_health_percent": 64.4,
+      "base_log": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_full_224_current\\Map08_user_fixed_seed303.log",
+      "trial_log": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_low_health_recovery\\handoff_refuge_other\\Map08_user_fixed_seed303.log"
+    }
+  ]
+}

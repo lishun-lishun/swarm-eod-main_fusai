@@ -1,0 +1,27 @@
+The team 'SICT' n°861, with lishun, liudongying, chengongbo, fengsifang
+Default team mode: <not set>
+Evaluation Plan (from file: MapFinal_2024_25_02.yml):
+==================================================
+Config ID: 1
+  Map: MapFinal_2024_25_02
+  Zones: none
+  Number of Rounds: 1
+  Weight: 1
+  Team mode (scenario): rescue
+--------------------------------------------------
+Default team mode: <not set>
+Time score: full marks at or before 30% of the timestep limit
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+* Map: MapFinal_2024_25_02, mode: rescue, special zones: none, round: 1/1
+BENCH_ZONES MapFinal_2024_25_02 {"counts": {"gps": 2, "com": 2}, "overlay": [{"area_ratio": 2.0039, "center": [92.54, 386.85], "kind": "gps", "reference": "KillZone", "reference_size": [159, 149], "size": [225, 211]}, {"area_ratio": 2.0039, "center": [14.37, -224.9], "kind": "gps", "reference": "KillZone", "reference_size": [159, 149], "size": [225, 211]}, {"area_ratio": 2.0039, "center": [-484.0, -314.93], "kind": "com", "reference": "KillZone", "reference_size": [159, 149], "size": [225, 211]}, {"area_ratio": 2.0039, "center": [613.95, 7.45], "kind": "com", "reference": "KillZone", "reference_size": [159, 149], "size": [225, 211]}]}
+Drone 5 destroyed, too much collision !
+count_reachable v3 = 1422170
+	* Round n°1/1: 
+		rescued nb: 10/10 (disposal score: 100.0%), health return score: 7.6%, time score: 61.7%, explor. score: 100.0% (weight 0%), walltime elapsed: 92s/1440s, elapse timestep: 4088/7200 steps, time to dispose all: 4088 steps.
+		score breakdown (competition weights): disposal 100.0 x 60% = 60.0, health 7.6 x 20% = 1.5, time 61.7 x 20% = 12.3, total 73.9/100.
+		percentage of drones destroyed: 10.0 %, mean percentage of drones health : 56.4 %.
+		round score: 73.9%, frequency: 44.21 steps/s.
+--------------------------------------------------------------------------------------------

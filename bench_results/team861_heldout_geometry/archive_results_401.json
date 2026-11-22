@@ -1,0 +1,40 @@
+[
+  {
+    "scene": "corridors",
+    "seed": 401,
+    "exit_code": 0,
+    "log": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_heldout_geometry\\archive_corridors_401.log",
+    "disposed": 10,
+    "total_bombs": 10,
+    "health_score": 83.2,
+    "time_score": 100.0,
+    "exploration_score": 100.0,
+    "walltime_seconds": 37.0,
+    "steps": 2088,
+    "full_disposal_step": 2088,
+    "score": 96.6,
+    "destroyed_percent": 0.0,
+    "mean_health_percent": 83.2,
+    "destroyed_count": 0,
+    "crashed": false
+  },
+  {
+    "scene": "junction",
+    "seed": 401,
+    "exit_code": 0,
+    "log": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_heldout_geometry\\archive_junction_401.log",
+    "disposed": 10,
+    "total_bombs": 10,
+    "health_score": 94.0,
+    "time_score": 100.0,
+    "exploration_score": 100.0,
+    "walltime_seconds": 32.0,
+    "steps": 1648,
+    "full_disposal_step": 1648,
+    "score": 98.8,
+    "destroyed_percent": 0.0,
+    "mean_health_percent": 94.0,
+    "destroyed_count": 0,
+    "crashed": false
+  }
+]

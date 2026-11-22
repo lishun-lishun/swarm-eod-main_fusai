@@ -1,0 +1,2 @@
+All cell costs and navigation results matched across 54 plans and two invalidation paths.
+Median for 18 A* calls on the same grid (s): 0.2288 -> 0.2578.

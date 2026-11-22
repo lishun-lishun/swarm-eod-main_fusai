@@ -1,0 +1,3 @@
+﻿map,case,seed,base_disposed,trial_disposed,base_destroyed_count,trial_destroyed_count,base_score,trial_score,base_steps,trial_steps,base_mean_health_percent,trial_mean_health_percent,base_log,trial_log
+Map08,user_fixed,303,9,9,0,0,65.8,65.8,5400,5400,59.2,59.2,E:\code\fusai\swarm-eod-main\bench_results\team861_full_224_current\Map08_user_fixed_seed303.log,E:\code\fusai\swarm-eod-main\bench_results\team861_low_health_recovery\stale_replay\Map08_user_fixed_seed303.log
+MapFinal_2023_24_03,corner,101,9,9,2,3,54.2,54.8,7200,7200,40.0,30.4,E:\code\fusai\swarm-eod-main\bench_results\team861_full_224_current\MapFinal_2023_24_03_corner_seed101.log,E:\code\fusai\swarm-eod-main\bench_results\team861_low_health_recovery\stale_replay\MapFinal_2023_24_03_corner_seed101.log

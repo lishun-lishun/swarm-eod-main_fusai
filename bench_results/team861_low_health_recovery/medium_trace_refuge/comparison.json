@@ -1,0 +1,62 @@
+{
+  "current": {
+    "n": 1,
+    "delivered": 10,
+    "lost": 0,
+    "full": 1,
+    "safe_full": 1,
+    "score": 79.6,
+    "min_score": 79.6
+  },
+  "candidate": {
+    "n": 1,
+    "delivered": 10,
+    "lost": 0,
+    "full": 1,
+    "safe_full": 1,
+    "score": 80.0,
+    "min_score": 80.0
+  },
+  "pending_replay": [],
+  "by_map": {
+    "MapMedium02": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 79.6,
+        "min_score": 79.6
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 80.0,
+        "min_score": 80.0
+      }
+    ]
+  },
+  "changed": [
+    {
+      "map": "MapMedium02",
+      "case": "cluster",
+      "seed": 303,
+      "base_disposed": 10,
+      "trial_disposed": 10,
+      "base_destroyed_count": 0,
+      "trial_destroyed_count": 0,
+      "base_score": 79.6,
+      "trial_score": 80.0,
+      "base_steps": 1564,
+      "trial_steps": 1435,
+      "base_mean_health_percent": 72.8,
+      "trial_mean_health_percent": 65.6,
+      "base_log": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_full_224_current\\MapMedium02_cluster_seed303.log",
+      "trial_log": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_low_health_recovery\\medium_trace_refuge\\MapMedium02_cluster_seed303.log"
+    }
+  ]
+}

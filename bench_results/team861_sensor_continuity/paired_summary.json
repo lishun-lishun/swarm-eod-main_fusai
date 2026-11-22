@@ -1,0 +1,183 @@
+{
+  "困难布局": {
+    "base": {
+      "rounds": 24,
+      "delivered": 208,
+      "lost": 22,
+      "full": 15,
+      "no_crash": 16,
+      "full_safe": 13,
+      "mean_score": 67.8833
+    },
+    "trial": {
+      "rounds": 24,
+      "delivered": 209,
+      "lost": 21,
+      "full": 15,
+      "no_crash": 16,
+      "full_safe": 13,
+      "mean_score": 68.2833
+    },
+    "regressed": [
+      [
+        "MapFinal_2024_25_03",
+        "cluster",
+        101
+      ]
+    ],
+    "improved": [
+      [
+        "MapFinal_2024_25_02",
+        "cluster",
+        101
+      ],
+      [
+        "MapIntermediate02",
+        "random",
+        101
+      ]
+    ],
+    "lower_score": [
+      [
+        "MapFinal_2024_25_03",
+        "cluster",
+        101
+      ]
+    ]
+  },
+  "不同布局": {
+    "base": {
+      "rounds": 24,
+      "delivered": 234,
+      "lost": 11,
+      "full": 21,
+      "no_crash": 21,
+      "full_safe": 20,
+      "mean_score": 82.2792
+    },
+    "trial": {
+      "rounds": 24,
+      "delivered": 234,
+      "lost": 9,
+      "full": 21,
+      "no_crash": 21,
+      "full_safe": 20,
+      "mean_score": 82.2
+    },
+    "regressed": [],
+    "improved": [
+      [
+        "MapFinal_2025_26_02",
+        "random",
+        303
+      ]
+    ],
+    "lower_score": [
+      [
+        "MapIntermediate02",
+        "cluster",
+        303
+      ]
+    ]
+  },
+  "第三种布局": {
+    "base": {
+      "rounds": 7,
+      "delivered": 57,
+      "lost": 7,
+      "full": 4,
+      "no_crash": 5,
+      "full_safe": 4,
+      "mean_score": 60.1714
+    },
+    "trial": {
+      "rounds": 7,
+      "delivered": 57,
+      "lost": 7,
+      "full": 4,
+      "no_crash": 5,
+      "full_safe": 4,
+      "mean_score": 60.1143
+    },
+    "regressed": [],
+    "improved": [],
+    "lower_score": [
+      [
+        "MapMedium02",
+        "random",
+        303
+      ],
+      [
+        "MapIntermediate02",
+        "corner",
+        303
+      ]
+    ]
+  },
+  "合计": {
+    "base": {
+      "rounds": 55,
+      "delivered": 499,
+      "lost": 40,
+      "full": 40,
+      "no_crash": 42,
+      "full_safe": 37,
+      "mean_score": 73.1836
+    },
+    "trial": {
+      "rounds": 55,
+      "delivered": 500,
+      "lost": 37,
+      "full": 40,
+      "no_crash": 42,
+      "full_safe": 37,
+      "mean_score": 73.3164
+    },
+    "regressed": [
+      [
+        "MapFinal_2024_25_03",
+        "cluster",
+        101
+      ]
+    ],
+    "improved": [
+      [
+        "MapFinal_2024_25_02",
+        "cluster",
+        101
+      ],
+      [
+        "MapFinal_2025_26_02",
+        "random",
+        303
+      ],
+      [
+        "MapIntermediate02",
+        "random",
+        101
+      ]
+    ],
+    "lower_score": [
+      [
+        "MapFinal_2024_25_03",
+        "cluster",
+        101
+      ],
+      [
+        "MapIntermediate02",
+        "cluster",
+        303
+      ],
+      [
+        "MapMedium02",
+        "random",
+        303
+      ],
+      [
+        "MapIntermediate02",
+        "corner",
+        303
+      ]
+    ]
+  }
+}

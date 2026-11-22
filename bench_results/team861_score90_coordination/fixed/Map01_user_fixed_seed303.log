@@ -1,0 +1,87 @@
+The team 'SICT' n°861, with lishun, liudongying, chengongbo, fengsifang
+Default team mode: <not set>
+Evaluation Plan (from file: config_Map01.yml):
+==================================================
+Config ID: 1
+  Map: Map01
+  Zones: none
+  Number of Rounds: 1
+  Weight: 1
+  Team mode (scenario): rescue
+  Number of drones (scenario): 10
+--------------------------------------------------
+Default team mode: <not set>
+Time score: full marks at or before 30% of the timestep limit
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+* Map: Map01, mode: rescue, special zones: none, round: 1/1
+MISSION 61 1 4 True True False -589 -361 25 (-33, -21) 60 0
+MISSION 84 9 4 True True False -155 376 25 (-8, 21) 83 0
+MISSION 93 3 4 True True False -113 -95 24 (-6, -5) 92 0
+MISSION 201 9 1 False True False -364 254 25 None None 1
+MISSION 266 2 4 True True False 251 -372 25 (14, -21) 265 0
+RECOVERY 282 1 escape 0 docks 1 True False -579 187
+MISSION 300 0 1 False True False -143 -125 24 None None 0
+MISSION 300 1 5 True True False -579 176 25 (-33, -21) 60 0
+MISSION 300 2 4 True True False 203 -342 25 (14, -21) 265 0
+MISSION 300 3 4 True True False -109 -110 23 (-6, -5) 92 0
+MISSION 300 4 1 False True False 251 -214 24 None None 0
+MISSION 300 5 1 False True False -330 58 23 None None 0
+MISSION 300 6 1 False True False -176 -152 24 None None 0
+MISSION 300 7 1 False True False 204 -178 23 None None 0
+MISSION 300 8 1 False True False -128 -167 22 None None 0
+MISSION 300 9 1 False True False -143 -87 23 None None 1
+RECOVERY 339 1 escape 0 docks 2 True False -572 190
+MISSION 382 7 4 True True False 284 150 22 (17, 8) 381 0
+MISSION 395 8 4 True True False -91 362 22 (-5, 21) 394 0
+MISSION 425 1 1 False True False -565 192 25 None None 1
+MISSION 440 4 4 True True False 250 366 23 (14, 21) 439 0
+MISSION 548 3 1 False True False -391 192 23 None None 1
+MISSION 592 0 4 True True False 586 370 24 (33, 22) 591 0
+MISSION 600 0 4 True True False 588 373 24 (33, 22) 591 0
+MISSION 600 1 1 False True False -215 -13 25 None None 1
+MISSION 600 2 4 True True False -399 100 24 (14, -21) 265 0
+MISSION 600 3 1 False True False -162 -94 23 None None 1
+MISSION 600 4 4 True True False 33 -3 23 (14, 21) 439 0
+MISSION 600 5 1 False True False 392 -2 22 None None 0
+MISSION 600 6 1 False True False 372 -15 22 None None 0
+MISSION 600 7 4 True True False 20 -108 22 (17, 8) 381 0
+MISSION 600 8 4 True True False -106 -95 22 (-5, 21) 394 0
+MISSION 600 9 1 False True False 497 113 23 None None 1
+MISSION 630 2 1 False True False -404 191 24 None None 1
+MISSION 647 5 4 True True False 436 -360 22 (24, -21) 646 0
+MISSION 716 9 4 True True False 595 -356 23 (33, -21) 715 1
+MISSION 898 4 1 False True False -411 198 23 None None 1
+MISSION 900 0 4 True True False 46 -120 23 (33, 22) 591 0
+MISSION 900 1 1 False True False 379 224 24 None None 1
+MISSION 900 2 2 False True False 498 -104 23 (33, -21) -1 1
+MISSION 900 3 3 False True False 584 -343 21 (33, -21) -1 1
+MISSION 900 4 1 False True False -409 199 23 None None 1
+MISSION 900 5 4 True True False 294 167 20 (24, -21) 646 0
+MISSION 900 6 1 False True False 338 29 22 None None 0
+MISSION 900 7 4 True True False -393 139 20 (17, 8) 381 0
+MISSION 900 8 4 True True False -323 27 21 (-5, 21) 394 0
+MISSION 900 9 4 True True False 376 52 23 (33, -21) 715 1
+MISSION 927 7 1 False True False -416 189 20 None None 1
+MISSION 957 8 1 False True False -401 179 21 None None 1
+MISSION 1113 0 1 False True False -375 199 23 None None 1
+MISSION 1200 0 1 False True False -573 137 22 None None 1
+MISSION 1200 1 1 False True False 587 264 24 None None 1
+MISSION 1200 2 1 False True False -574 -45 23 None None 1
+MISSION 1200 3 1 False True False -171 -96 20 None None 1
+MISSION 1200 4 1 False True False -353 260 20 None None 1
+MISSION 1200 5 4 True True False -314 161 20 (24, -21) 646 0
+MISSION 1200 6 1 False True False -122 -153 22 None None 0
+MISSION 1200 7 1 False True False -378 186 19 None None 1
+MISSION 1200 8 1 False True False -230 -336 21 None None 1
+MISSION 1200 9 4 True True False -212 -106 23 (33, -21) 715 1
+MISSION 1235 5 1 False True False -383 202 20 None None 1
+count_reachable v3 = 928140
+	* Round n°1/1: 
+		rescued nb: 10/10 (disposal score: 100.0%), health return score: 83.2%, time score: 48.1%, explor. score: 100.0% (weight 0%), walltime elapsed: 26s/90s, elapse timestep: 1327/2000 steps, time to dispose all: 1327 steps.
+		score breakdown (competition weights): disposal 100.0 x 60% = 60.0, health 83.2 x 20% = 16.6, time 48.1 x 20% = 9.6, total 86.3/100.
+		percentage of drones destroyed: 0.0 %, mean percentage of drones health : 83.2 %.
+		round score: 86.3%, frequency: 51.51 steps/s.
+--------------------------------------------------------------------------------------------

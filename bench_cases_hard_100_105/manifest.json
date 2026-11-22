@@ -1,0 +1,152 @@
+[
+  {
+    "map": "Map01",
+    "case": "generated_fixed_seed0",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map01_generated_fixed_seed0.json"
+  },
+  {
+    "map": "Map01",
+    "case": "edge_seed100",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map01_edge_seed100.json"
+  },
+  {
+    "map": "Map01",
+    "case": "edge_seed105",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map01_edge_seed105.json"
+  },
+  {
+    "map": "Map02",
+    "case": "generated_fixed_seed0",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map02_generated_fixed_seed0.json"
+  },
+  {
+    "map": "Map02",
+    "case": "edge_seed100",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map02_edge_seed100.json"
+  },
+  {
+    "map": "Map02",
+    "case": "edge_seed105",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map02_edge_seed105.json"
+  },
+  {
+    "map": "Map03",
+    "case": "generated_fixed_seed0",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map03_generated_fixed_seed0.json"
+  },
+  {
+    "map": "Map03",
+    "case": "edge_seed100",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map03_edge_seed100.json"
+  },
+  {
+    "map": "Map03",
+    "case": "edge_seed105",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map03_edge_seed105.json"
+  },
+  {
+    "map": "Map04",
+    "case": "generated_fixed_seed0",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map04_generated_fixed_seed0.json"
+  },
+  {
+    "map": "Map04",
+    "case": "edge_seed100",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map04_edge_seed100.json"
+  },
+  {
+    "map": "Map04",
+    "case": "edge_seed105",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map04_edge_seed105.json"
+  },
+  {
+    "map": "Map05",
+    "case": "generated_fixed_seed0",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map05_generated_fixed_seed0.json"
+  },
+  {
+    "map": "Map05",
+    "case": "edge_seed100",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map05_edge_seed100.json"
+  },
+  {
+    "map": "Map05",
+    "case": "edge_seed105",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map05_edge_seed105.json"
+  },
+  {
+    "map": "Map06",
+    "case": "generated_fixed_seed0",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map06_generated_fixed_seed0.json"
+  },
+  {
+    "map": "Map06",
+    "case": "edge_seed100",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map06_edge_seed100.json"
+  },
+  {
+    "map": "Map06",
+    "case": "edge_seed105",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map06_edge_seed105.json"
+  },
+  {
+    "map": "Map07",
+    "case": "generated_fixed_seed0",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map07_generated_fixed_seed0.json"
+  },
+  {
+    "map": "Map07",
+    "case": "edge_seed100",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map07_edge_seed100.json"
+  },
+  {
+    "map": "Map07",
+    "case": "edge_seed105",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map07_edge_seed105.json"
+  },
+  {
+    "map": "Map07t4",
+    "case": "generated_fixed_seed0",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map07t4_generated_fixed_seed0.json"
+  },
+  {
+    "map": "Map07t4",
+    "case": "edge_seed100",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map07t4_edge_seed100.json"
+  },
+  {
+    "map": "Map07t4",
+    "case": "edge_seed105",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map07t4_edge_seed105.json"
+  },
+  {
+    "map": "Map08",
+    "case": "generated_fixed_seed0",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map08_generated_fixed_seed0.json"
+  },
+  {
+    "map": "Map08",
+    "case": "edge_seed100",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map08_edge_seed100.json"
+  },
+  {
+    "map": "Map08",
+    "case": "edge_seed105",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map08_edge_seed105.json"
+  },
+  {
+    "map": "Map09",
+    "case": "generated_fixed_seed0",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map09_generated_fixed_seed0.json"
+  },
+  {
+    "map": "Map09",
+    "case": "edge_seed100",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map09_edge_seed100.json"
+  },
+  {
+    "map": "Map09",
+    "case": "edge_seed105",
+    "path": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_hard_100_105\\Map09_edge_seed105.json"
+  }
+]

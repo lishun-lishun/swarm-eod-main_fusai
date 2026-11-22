@@ -1,0 +1,1 @@
+Verified local navigation cost, isolation between drones, stable localization walls, and expiry.

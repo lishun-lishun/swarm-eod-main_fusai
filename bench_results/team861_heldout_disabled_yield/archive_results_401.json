@@ -1,0 +1,21 @@
+[
+  {
+    "scene": "remote_center",
+    "seed": 401,
+    "exit_code": 0,
+    "log": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_heldout_disabled_yield\\archive_remote_center_401.log",
+    "disposed": 0,
+    "total_bombs": 10,
+    "health_score": 62.0,
+    "time_score": 0.0,
+    "exploration_score": 87.8,
+    "walltime_seconds": 182.0,
+    "steps": 7200,
+    "full_disposal_step": 0,
+    "score": 12.4,
+    "destroyed_percent": 10.0,
+    "mean_health_percent": 62.0,
+    "destroyed_count": 1,
+    "crashed": false
+  }
+]

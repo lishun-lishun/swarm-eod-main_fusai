@@ -1,0 +1,3 @@
+# Preserve recorded strategy fingerprints across checkouts.
+src/swarm_rescue/solutions/** -text
+bench_results/** -text

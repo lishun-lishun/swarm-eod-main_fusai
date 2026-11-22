@@ -1,0 +1,25 @@
+[
+  {
+    "map": "Map05",
+    "case": "user_fixed",
+    "seed": 303,
+    "bombs_file": "E:\\code\\fusai\\swarm-eod-main\\bench_cases_user_v6\\Map05_user_fixed.json",
+    "log": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\paired_external_easy_fixed_last\\Map05_user_fixed_seed303.log",
+    "exit_code": 0,
+    "timed_out": false,
+    "runner_seconds": 65.505,
+    "disposed": 10,
+    "total_bombs": 10,
+    "health_score": 87.6,
+    "time_score": 78.8,
+    "exploration_score": 100.0,
+    "walltime_seconds": 63.0,
+    "steps": 3227,
+    "full_disposal_step": 3227,
+    "score": 93.3,
+    "destroyed_percent": 0.0,
+    "mean_health_percent": 87.6,
+    "destroyed_count": 0,
+    "crashed": false
+  }
+]

@@ -1,0 +1,26 @@
+The team 'SICT' n°861, with lishun, liudongying, chengongbo, fengsifang
+Default team mode: <not set>
+Evaluation Plan (from file: MapFinal_2025_26_01.yml):
+==================================================
+Config ID: 1
+  Map: MapFinal_2025_26_01
+  Zones: none
+  Number of Rounds: 1
+  Weight: 1
+  Team mode (scenario): rescue
+--------------------------------------------------
+Default team mode: <not set>
+Time score: full marks at or before 30% of the timestep limit
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+* Map: MapFinal_2025_26_01, mode: rescue, special zones: none, round: 1/1
+BENCH_ZONES MapFinal_2025_26_01 {"counts": {"gps": 2, "com": 2}, "overlay": [{"area_ratio": 2.0018, "center": [-453.0, -47.11], "kind": "gps", "reference": "map_fraction", "reference_size": [340, 253], "size": [481, 358]}, {"area_ratio": 2.0018, "center": [173.4, -366.17], "kind": "gps", "reference": "map_fraction", "reference_size": [340, 253], "size": [481, 358]}, {"area_ratio": 1.9995, "center": [22.07, 0.82], "kind": "com", "reference": "NoComZone", "reference_size": [618, 997], "size": [1122, 1098]}, {"area_ratio": 1.9995, "center": [-201.07, 0.12], "kind": "com", "reference": "NoComZone", "reference_size": [618, 997], "size": [1122, 1098]}]}
+count_reachable v3 = 1717335
+	* Round n°1/1: 
+		rescued nb: 10/10 (disposal score: 100.0%), health return score: 7.2%, time score: 90.6%, explor. score: 100.0% (weight 0%), walltime elapsed: 75s/1440s, elapse timestep: 2633/7200 steps, time to dispose all: 2633 steps.
+		score breakdown (competition weights): disposal 100.0 x 60% = 60.0, health 7.2 x 20% = 1.4, time 90.6 x 20% = 18.1, total 79.6/100.
+		percentage of drones destroyed: 0.0 %, mean percentage of drones health : 82.4 %.
+		round score: 79.6%, frequency: 34.96 steps/s.
+--------------------------------------------------------------------------------------------

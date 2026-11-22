@@ -1,0 +1,107 @@
+{
+  "current": {
+    "n": 4,
+    "delivered": 38,
+    "lost": 4,
+    "full": 2,
+    "safe_full": 2,
+    "score": 70.0,
+    "min_score": 58.2
+  },
+  "candidate": {
+    "n": 4,
+    "delivered": 38,
+    "lost": 4,
+    "full": 2,
+    "safe_full": 2,
+    "score": 70.0,
+    "min_score": 58.2
+  },
+  "pending_replay": [
+    "Map08_corner_s100_seed101",
+    "Map08_user_fixed_seed303"
+  ],
+  "by_map": {
+    "Map06": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 79.3,
+        "min_score": 79.3
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 79.3,
+        "min_score": 79.3
+      }
+    ],
+    "Map08": [
+      {
+        "n": 1,
+        "delivered": 9,
+        "lost": 3,
+        "full": 0,
+        "safe_full": 0,
+        "score": 62.6,
+        "min_score": 62.6
+      },
+      {
+        "n": 1,
+        "delivered": 9,
+        "lost": 3,
+        "full": 0,
+        "safe_full": 0,
+        "score": 62.6,
+        "min_score": 62.6
+      }
+    ],
+    "Map09": [
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 79.9,
+        "min_score": 79.9
+      },
+      {
+        "n": 1,
+        "delivered": 10,
+        "lost": 0,
+        "full": 1,
+        "safe_full": 1,
+        "score": 79.9,
+        "min_score": 79.9
+      }
+    ],
+    "MapFinal_2024_25_03": [
+      {
+        "n": 1,
+        "delivered": 9,
+        "lost": 1,
+        "full": 0,
+        "safe_full": 0,
+        "score": 58.2,
+        "min_score": 58.2
+      },
+      {
+        "n": 1,
+        "delivered": 9,
+        "lost": 1,
+        "full": 0,
+        "safe_full": 0,
+        "score": 58.2,
+        "min_score": 58.2
+      }
+    ]
+  },
+  "changed": []
+}

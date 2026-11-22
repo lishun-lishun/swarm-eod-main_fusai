@@ -1,0 +1,26 @@
+[
+  {
+    "map": "MapRandom",
+    "case": "random",
+    "seed": 303,
+    "exit_code": 0,
+    "log": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_legacy_zone_overlay\\smoke\\MapRandom_random_seed303.log",
+    "disposed": 10,
+    "total_bombs": 10,
+    "health_score": 91.6,
+    "time_score": 50.5,
+    "exploration_score": 100.0,
+    "walltime_seconds": 27.0,
+    "steps": 1293,
+    "full_disposal_step": 1293,
+    "score": 88.4,
+    "destroyed_percent": 0.0,
+    "mean_health_percent": 91.6,
+    "destroyed_count": 0,
+    "crashed": false,
+    "walltime_limit_reached": false,
+    "baseline_disposed": 10,
+    "baseline_destroyed": 0,
+    "baseline_score": 97.2
+  }
+]

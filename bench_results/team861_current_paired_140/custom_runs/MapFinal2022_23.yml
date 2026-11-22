@@ -1,0 +1,13 @@
+evaluation_plan:
+- config_weight: 1
+  map_name: MapFinal2022_23
+  nb_rounds: 1
+  team_mode: rescue
+  zones_config:
+  - KILL_ZONE
+  - NO_COM_ZONE
+  - NO_GPS_ZONE
+stat_saving_enabled: false
+state_recording_enabled: false
+time_best_ratio: 0.3
+video_capture_enabled: false

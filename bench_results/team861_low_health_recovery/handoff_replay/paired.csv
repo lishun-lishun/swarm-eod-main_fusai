@@ -1,0 +1,3 @@
+﻿map,case,seed,base_disposed,trial_disposed,base_destroyed_count,trial_destroyed_count,base_score,trial_score,base_steps,trial_steps,base_mean_health_percent,trial_mean_health_percent,base_log,trial_log
+Map08,corner_s100,101,7,7,0,0,53.2,53.2,5400,5400,56.0,56.0,E:\code\fusai\swarm-eod-main\bench_results\team861_full_224_current\Map08_corner_s100_seed101.log,E:\code\fusai\swarm-eod-main\bench_results\team861_low_health_recovery\handoff_replay\Map08_corner_s100_seed101.log
+Map08,user_fixed,303,9,10,0,0,65.8,73.5,5400,5291,59.2,64.4,E:\code\fusai\swarm-eod-main\bench_results\team861_full_224_current\Map08_user_fixed_seed303.log,E:\code\fusai\swarm-eod-main\bench_results\team861_low_health_recovery\handoff_replay\Map08_user_fixed_seed303.log

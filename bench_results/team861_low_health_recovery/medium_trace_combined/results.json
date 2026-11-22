@@ -1,0 +1,26 @@
+[
+  {
+    "map": "MapMedium02",
+    "case": "cluster",
+    "seed": 303,
+    "exit_code": 0,
+    "log": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_low_health_recovery\\medium_trace_combined\\MapMedium02_cluster_seed303.log",
+    "disposed": 10,
+    "total_bombs": 10,
+    "health_score": 0.0,
+    "time_score": 47.7,
+    "exploration_score": 100.0,
+    "walltime_seconds": 47.0,
+    "steps": 3330,
+    "full_disposal_step": 3330,
+    "score": 69.5,
+    "destroyed_percent": 10.0,
+    "mean_health_percent": 47.2,
+    "destroyed_count": 1,
+    "crashed": false,
+    "walltime_limit_reached": false,
+    "baseline_disposed": 10,
+    "baseline_destroyed": 1,
+    "baseline_score": 74.4
+  }
+]

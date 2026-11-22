@@ -1,0 +1,105 @@
+The team 'SICT' n��861, with lishun, liudongying, chengongbo, fengsifang
+Default team mode: <not set>
+Evaluation Plan (from file: config_Map08.yml):
+==================================================
+Config ID: 1
+  Map: Map08
+  Zones: no_gps_zone
+  Number of Rounds: 1
+  Weight: 1
+  Team mode (scenario): rescue
+  Number of drones (scenario): 10
+--------------------------------------------------
+Default team mode: <not set>
+Time score: full marks at or before 30% of the timestep limit
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+* Map: Map08, mode: rescue, special zones: no_gps_zone, round: 1/1
+DIAG_PICK 1 599 (-259.3, -524.2) gps True
+DIAG_PICK 6 773 (16.2, -538.7) gps True
+DIAG_PICK 4 1012 (-132.9, -400.1) gps True
+DIAG_PICK 0 1021 (422.1, 192.6) gps True
+DIAG_PICK 7 1087 (495.4, -102.1) gps False
+DIAG_PICK 2 1262 (688.3, 257.2) gps True
+DIAG_PICK 9 1425 (725.7, -194.4) gps False
+DIAG_PICK 5 1469 (781.9, -41.8) gps False
+DIAG_DROP 1 2016 (625.8, 472.5) gps True
+DIAG_PICK 8 2590 (237.9, 267.8) gps True
+DIAG_RETURN 0 3000 xy (-358.2, 209.3) v (-0.7, 2.8) gps False dc_dist 1025.1 state 4 wp (-370.0, 285.0) nwp 27 bc 1
+DIAG_RETURN 2 3000 xy (641.6, 106.8) v (-3.1, -0.1) gps True dc_dist 203.3 state 4 wp (230.0, 77.0) nwp 20 bc 1
+DIAG_RETURN 4 3000 xy (-86.6, 477.6) v (2.9, -0.2) gps True dc_dist 750.3 state 4 wp (118.0, 437.0) nwp 7 bc 1
+DIAG_RETURN 5 3000 xy (-394.3, 241.5) v (-0.9, 0.1) gps False dc_dist 1058.5 state 4 wp (-634.0, 269.0) nwp 13 bc 1
+DIAG_RETURN 6 3000 xy (-216.2, 437.8) v (-0.1, -0.9) gps False dc_dist 876.5 state 4 wp None nwp 0 bc 1
+DIAG_RETURN 7 3000 xy (-346.7, 274.5) v (0.6, 0.6) gps False dc_dist 1012.6 state 4 wp (-226.0, 293.0) nwp 32 bc 1
+DIAG_RETURN 8 3000 xy (539.4, 155.7) v (0.0, -0.0) gps True dc_dist 196.5 state 4 wp None nwp 0 bc 1
+DIAG_RETURN 9 3000 xy (606.0, 63.4) v (-3.2, -0.7) gps True dc_dist 252.1 state 4 wp (390.0, 77.0) nwp 39 bc 1
+DIAG_RETURN 0 3200 xy (-394.8, 242.5) v (1.9, 1.2) gps False dc_dist 1058.9 state 4 wp (-346.0, 293.0) nwp 25 bc 1
+DIAG_RETURN 2 3200 xy (215.1, -76.5) v (-0.3, -3.0) gps False dc_dist 590.3 state 4 wp (158.0, -259.0) nwp 21 bc 1
+DIAG_RETURN 4 3200 xy (589.6, 482.1) v (3.3, -0.0) gps True dc_dist 80.4 state 4 wp (645.9, 479.8) nwp 1 bc 1
+DIAG_RETURN 5 3200 xy (-642.1, 275.9) v (0.3, -0.0) gps True dc_dist 1304.5 state 4 wp None nwp 0 bc 1
+DIAG_RETURN 6 3200 xy (-229.8, 449.9) v (-1.3, -0.1) gps False dc_dist 890.8 state 4 wp None nwp 0 bc 1
+DIAG_RETURN 7 3200 xy (-674.3, 256.2) v (-2.3, -0.1) gps True dc_dist 1340.5 state 4 wp (-626.0, 437.0) nwp 34 bc 1
+DIAG_RETURN 8 3200 xy (300.0, 99.5) v (-3.3, -0.9) gps True dc_dist 418.4 state 4 wp (214.0, 53.0) nwp 22 bc 1
+DIAG_RETURN 9 3200 xy (285.8, -86.2) v (-0.3, -3.1) gps False dc_dist 545.8 state 4 wp (270.0, -187.0) nwp 36 bc 1
+DIAG_DROP 4 3221 (649.3, 477.4) gps True
+DIAG_RETURN 0 3400 xy (-380.3, 220.3) v (0.5, 3.1) gps False dc_dist 1046.1 state 4 wp (-370.0, 293.0) nwp 27 bc 1
+DIAG_RETURN 2 3400 xy (-74.9, -42.5) v (-3.3, -0.0) gps True dc_dist 816.6 state 4 wp (-330.0, -27.0) nwp 16 bc 1
+DIAG_RETURN 5 3400 xy (-230.3, 384.6) v (1.1, -0.5) gps False dc_dist 889.7 state 4 wp (-186.0, 445.0) nwp 11 bc 1
+DIAG_RETURN 6 3400 xy (-209.3, 437.3) v (0.9, 0.8) gps False dc_dist 869.5 state 4 wp (-194.0, 469.0) nwp 7 bc 1
+DIAG_RETURN 7 3400 xy (-162.7, 411.4) v (1.9, 2.5) gps False dc_dist 822.1 state 4 wp (-122.0, 485.0) nwp 21 bc 1
+DIAG_RETURN 8 3400 xy (154.1, -211.8) v (-1.1, -1.1) gps False dc_dist 727.6 state 4 wp (126.0, -219.0) nwp 22 bc 1
+DIAG_RETURN 9 3400 xy (280.1, -103.8) v (-0.3, -2.2) gps False dc_dist 562.5 state 4 wp (278.0, 69.0) nwp 40 bc 1
+DIAG_PICK 1 3579 (589.0, -535.3) gps True
+DIAG_RETURN 0 3600 xy (-351.6, 343.5) v (1.6, 0.5) gps False dc_dist 1012.6 state 4 wp (-346.0, 213.0) nwp 25 bc 1
+DIAG_RETURN 1 3600 xy (600.7, -529.9) v (1.8, -0.2) gps True dc_dist 840.3 state 4 wp (782.0, -539.0) nwp 31 bc 1
+DIAG_RETURN 2 3600 xy (-601.7, 205.2) v (-2.8, 0.7) gps False dc_dist 1268.0 state 4 wp (-682.0, 221.0) nwp 16 bc 1
+DIAG_RETURN 5 3600 xy (377.9, 476.0) v (3.5, -1.4) gps True dc_dist 287.9 state 4 wp (550.0, 517.0) nwp 3 bc 1
+DIAG_RETURN 6 3600 xy (-227.4, 451.7) v (1.0, 0.2) gps False dc_dist 888.5 state 4 wp (-194.0, 469.0) nwp 7 bc 1
+DIAG_RETURN 7 3600 xy (440.0, 450.1) v (3.1, 0.7) gps True dc_dist 223.2 state 4 wp (606.0, 509.0) nwp 2 bc 1
+DIAG_RETURN 8 3600 xy (-253.2, -22.3) v (-1.4, -0.8) gps False dc_dist 973.4 state 4 wp (-354.0, 29.0) nwp 16 bc 1
+DIAG_RETURN 9 3600 xy (287.9, -25.3) v (-0.5, 3.4) gps False dc_dist 501.8 state 4 wp (278.0, 61.0) nwp 40 bc 1
+DIAG_DROP 7 3663 (649.6, 460.7) gps True
+DIAG_DROP 5 3682 (638.1, 508.8) gps True
+DIAG_RETURN 0 3800 xy (-447.0, 277.8) v (-2.7, 0.1) gps False dc_dist 1109.4 state 4 wp (-666.0, 261.0) nwp 30 bc 1
+DIAG_RETURN 1 3800 xy (598.4, -451.8) v (-1.2, 1.4) gps True dc_dist 762.7 state 4 wp (566.0, -339.0) nwp 26 bc 1
+DIAG_RETURN 2 3800 xy (-414.5, 243.2) v (-1.1, 0.6) gps False dc_dist 1078.6 state 4 wp (-602.0, 245.0) nwp 17 bc 1
+DIAG_RETURN 6 3800 xy (-256.9, 391.8) v (-0.8, -2.9) gps False dc_dist 916.2 state 4 wp (-346.0, 101.0) nwp 17 bc 1
+DIAG_RETURN 8 3800 xy (-392.4, 186.4) v (0.6, 2.9) gps False dc_dist 1061.6 state 4 wp (-386.0, 213.0) nwp 14 bc 1
+DIAG_RETURN 9 3800 xy (89.0, -161.1) v (-0.0, 2.5) gps True dc_dist 741.3 state 4 wp (86.0, -83.0) nwp 30 bc 1
+DIAG_RETURN 0 4000 xy (-509.3, 380.1) v (3.4, 0.3) gps False dc_dist 1169.3 state 4 wp (-282.0, 437.0) nwp 30 bc 1
+DIAG_RETURN 1 4000 xy (328.9, -80.2) v (-0.6, 3.1) gps False dc_dist 512.5 state 4 wp (302.0, 77.0) nwp 24 bc 1
+DIAG_RETURN 2 4000 xy (-553.6, 406.6) v (2.9, -0.2) gps False dc_dist 1213.6 state 4 wp (-226.0, 381.0) nwp 24 bc 1
+DIAG_RETURN 6 4000 xy (-163.6, 309.1) v (-1.6, -0.5) gps False dc_dist 825.6 state 4 wp (-202.0, 309.0) nwp 14 bc 1
+DIAG_RETURN 8 4000 xy (-660.8, 342.5) v (1.4, 2.5) gps True dc_dist 1321.8 state 4 wp (-634.0, 389.0) nwp 25 bc 1
+DIAG_RETURN 9 4000 xy (-336.9, 48.3) v (-0.0, 2.7) gps False dc_dist 1032.4 state 4 wp (-330.0, 173.0) nwp 27 bc 1
+DIAG_RETURN 0 4200 xy (53.5, 492.3) v (3.8, -0.1) gps True dc_dist 610.5 state 4 wp (182.0, 493.0) nwp 10 bc 1
+DIAG_RETURN 1 4200 xy (95.0, -199.6) v (-0.6, 1.9) gps True dc_dist 761.8 state 4 wp (78.0, -75.0) nwp 15 bc 1
+DIAG_RETURN 2 4200 xy (-16.4, 482.0) v (4.0, 0.2) gps True dc_dist 680.8 state 4 wp (110.0, 485.0) nwp 11 bc 1
+DIAG_RETURN 6 4200 xy (109.4, 482.3) v (3.1, -0.8) gps True dc_dist 555.4 state 4 wp (640.3, 527.0) nwp 1 bc 1
+DIAG_RETURN 8 4200 xy (-121.0, 496.6) v (2.0, -1.5) gps False dc_dist 784.4 state 4 wp (-58.0, 437.0) nwp 7 bc 1
+DIAG_RETURN 9 4200 xy (-328.7, 266.0) v (0.3, -0.1) gps False dc_dist 991.6 state 4 wp (-466.0, 253.0) nwp 30 bc 1
+DIAG_DROP 6 4362 (648.0, 503.0) gps True
+DIAG_DROP 0 4379 (636.1, 549.1) gps True
+DIAG_RETURN 1 4400 xy (-221.0, -18.1) v (-3.1, 0.3) gps False dc_dist 941.7 state 4 wp (-314.0, -3.0) nwp 14 bc 1
+DIAG_RETURN 2 4400 xy (593.6, 424.7) v (-0.0, -1.1) gps True dc_dist 69.9 state 4 wp (637.4, 438.9) nwp 1 bc 1
+DIAG_RETURN 8 4400 xy (507.4, 448.4) v (3.1, -0.6) gps True dc_dist 156.0 state 4 wp (638.0, 405.0) nwp 2 bc 1
+DIAG_RETURN 9 4400 xy (-319.1, 241.7) v (0.1, 0.0) gps False dc_dist 983.4 state 4 wp (-298.0, 141.0) nwp 29 bc 1
+DIAG_DROP 8 4467 (645.7, 430.3) gps True
+DIAG_DROP 2 4490 (652.0, 335.7) gps True
+DIAG_RETURN 1 4600 xy (-631.6, 326.6) v (2.1, 1.1) gps False dc_dist 1293.7 state 4 wp (-530.0, 381.0) nwp 10 bc 1
+DIAG_RETURN 9 4600 xy (-332.0, 252.9) v (0.2, -0.4) gps False dc_dist 995.6 state 4 wp (-274.0, 141.0) nwp 30 bc 1
+DIAG_RETURN 1 4800 xy (-15.1, 487.0) v (3.8, -0.2) gps True dc_dist 679.8 state 4 wp (190.0, 485.0) nwp 6 bc 1
+DIAG_RETURN 9 4800 xy (-210.7, 360.2) v (2.7, 1.9) gps False dc_dist 872.9 state 4 wp (-186.0, 373.0) nwp 39 bc 1
+DIAG_DROP 1 4986 (655.0, 486.2) gps True
+DIAG_RETURN 9 5000 xy (-308.4, 2.5) v (-1.7, -0.0) gps False dc_dist 1017.7 state 4 wp (-322.0, 269.0) nwp 35 bc 1
+DIAG_RETURN 9 5200 xy (-421.8, 290.9) v (-2.9, 0.3) gps False dc_dist 1084.0 state 4 wp (-514.0, 309.0) nwp 40 bc 1
+DIAG_RETURN 9 5400 xy (-284.4, 363.0) v (3.6, 0.1) gps False dc_dist 946.0 state 4 wp (-122.0, 381.0) nwp 28 bc 1
+count_reachable v3 = 1624794
+	* Round n��1/1: 
+		rescued nb: 9/10 (disposal score: 90.0%), health return score: 65.2%, time score: 0.0%, explor. score: 100.0% (weight 0%), walltime elapsed: 129s/180s, elapse timestep: 5400/5400 steps, time to dispose all: 0 steps.
+		score breakdown (competition weights): disposal 90.0 x 60% = 54.0, health 65.2 x 20% = 13.0, time 0.0 x 20% = 0.0, total 67.0/100.
+		percentage of drones destroyed: 0.0 %, mean percentage of drones health : 65.2 %.
+		round score: 67.0%, frequency: 41.84 steps/s.
+--------------------------------------------------------------------------------------------

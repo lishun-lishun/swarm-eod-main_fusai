@@ -1,0 +1,62 @@
+{
+  "current": {
+    "n": 1,
+    "delivered": 9,
+    "lost": 2,
+    "full": 0,
+    "safe_full": 0,
+    "score": 54.2,
+    "min_score": 54.2
+  },
+  "candidate": {
+    "n": 1,
+    "delivered": 9,
+    "lost": 3,
+    "full": 0,
+    "safe_full": 0,
+    "score": 54.8,
+    "min_score": 54.8
+  },
+  "pending_replay": [],
+  "by_map": {
+    "MapFinal_2023_24_03": [
+      {
+        "n": 1,
+        "delivered": 9,
+        "lost": 2,
+        "full": 0,
+        "safe_full": 0,
+        "score": 54.2,
+        "min_score": 54.2
+      },
+      {
+        "n": 1,
+        "delivered": 9,
+        "lost": 3,
+        "full": 0,
+        "safe_full": 0,
+        "score": 54.8,
+        "min_score": 54.8
+      }
+    ]
+  },
+  "changed": [
+    {
+      "map": "MapFinal_2023_24_03",
+      "case": "corner",
+      "seed": 101,
+      "base_disposed": 9,
+      "trial_disposed": 9,
+      "base_destroyed_count": 2,
+      "trial_destroyed_count": 3,
+      "base_score": 54.2,
+      "trial_score": 54.8,
+      "base_steps": 7200,
+      "trial_steps": 7200,
+      "base_mean_health_percent": 40.0,
+      "trial_mean_health_percent": 30.4,
+      "base_log": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_full_224_current\\MapFinal_2023_24_03_corner_seed101.log",
+      "trial_log": "E:\\code\\fusai\\swarm-eod-main\\bench_results\\team861_low_health_recovery\\combined_pilot\\MapFinal_2023_24_03_corner_seed101.log"
+    }
+  ]
+}
